@@ -58,7 +58,7 @@ defaultContentLanguageInSubdir = false
   organizations = [ { name = "University of Oxford", url = "" }, { name = "Nuffield Department of Tropical Medicine", url = "https://omneohealth.org"} ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "ox_small_special_pos.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = ""  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "omneohealth@gmail.com"
   address = ""
   office_hours = ""

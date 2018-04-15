@@ -1,10 +1,10 @@
-+++
+---
 # Hero widget.
 widget = "hero"
 active = true
 date = 2017-10-15
 
-title = "Academic"
+title = "OMNeoHealth"
 
 # Order that this section will appear in.
 weight = 3
@@ -22,7 +22,7 @@ weight = 3
 [cta]
   url = "./post/getting-started/"
   label = '<i class="fa fa-download"></i> Install Now'
-+++
+---
 
 The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes :rocket:
 <br>

@@ -55,16 +55,16 @@ defaultContentLanguageInSubdir = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  #organizations = [ { name = "University of Oxford", url = "" }, { name = "Nuffield Department of Tropical Medicine", url = "https://omneohealth.org"} ]
+  organizations = [ { name = "University of Oxford", url = "" }, { name = "Nuffield Department of Tropical Medicine", url = "https://omneohealth.org"} ]
 
   #gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   #avatar = ""  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  #email = "contact@omneohealth.org"
-  #address = ""
-  #office_hours = ""
-  #phone = ""
-  #skype = ""
-  #telegram = ""
+  email = "contact@omneohealth.org"
+  address = ""
+  office_hours = ""
+  phone = ""
+  skype = ""
+  telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""

@@ -33,12 +33,8 @@ filter_default = 0
   tag = "*"
 
 [[filter]]
-  name = "Deep Learning"
-  tag = ".deep-learning"
-
-[[filter]]
-  name = "Other"
-  tag = ".demo"
+  name = "Papua New Guinea"
+  tag = ".papua-new=guinea"
 
 +++
 

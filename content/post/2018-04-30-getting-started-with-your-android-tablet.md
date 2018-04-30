@@ -4,9 +4,9 @@ author: ~
 date: '2018-04-30'
 slug: getting-started-with-your-android-tablet
 categories:
-    - Tutorial
+    - Open Data Kit
 tags:
-    -
+    - tutorial
 header:
   caption: ''
   image: ''

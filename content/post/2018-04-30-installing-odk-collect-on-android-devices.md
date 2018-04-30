@@ -1,7 +1,7 @@
 ---
 title: Installing ODK Collect on Android devices
 author: ~
-date: '2018-04-30T23:00:00'
+date: '2018-04-30'
 slug: installing-odk-collect-on-android-devices
 categories:
     - Data Collection

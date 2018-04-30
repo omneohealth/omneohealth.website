@@ -1,7 +1,7 @@
 ---
 title: Configuring tablets for data collection campaigns
 author: ~
-date: '2018-04-30T16:00:00'
+date: '2018-04-30'
 slug: configuring-tablets-for-data-collection-campaigns
 categories:
     - Data Collection

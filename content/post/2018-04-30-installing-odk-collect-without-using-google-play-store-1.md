@@ -1,7 +1,7 @@
 ---
 title: Installing ODK Collect without using Google Play Store - Approach 1
 author: ~
-date: '2018-04-30T22:00:00'
+date: '2018-04-30'
 slug: installing-odk-collect-without-using-google-play-store-1
 categories:
     - Data Collection

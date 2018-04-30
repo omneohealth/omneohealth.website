@@ -1,16 +1,16 @@
 ---
 title: Getting started with your Android tablet
-author: ~
+author: ''
 date: '2018-04-30'
-slug: getting-started-with-your-android-tablet
 categories:
-    - Data Collection
+  - Data Collection
 tags:
-    - tutorials
-    - open data kit
+  - open data kit
+  - tutorials
+slug: getting-started-with-your-android-tablet
 header:
   caption: ''
-  image: '/img/headers/ODKLogoCorner.png'
+  image: /img/headers/ODKLogoCorner.png
 ---
 
 Mobile devices such as mobile phones and tablets have become valuable tools in data collection. Various applications have been and are being developed specifically to harness the utility of mobile devices for collecting data. An understanding of how mobile devices work specifically those powered by [Android operating system](https://www.android.com) is therefore a requisite knowledge for anyone involved in a data collection campaign that utilises these devices for data collection.

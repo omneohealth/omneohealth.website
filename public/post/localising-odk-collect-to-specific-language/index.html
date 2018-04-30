@@ -17,10 +17,11 @@
       
     
   
-  <meta name="description" content="ODK Collect supports forms written in multiple languages. XLSForm or XForms standard used for creating forms usable in ODK Collect also provide functionality that encodes multiple language support within the same single form being created (for more information, see multiple language support in XLSForm standard). If a form has been created to support multiple languages, ODK Collect is able to provide options for users to change the language of the form as needed.">
+  <meta name="description" content="The ODK Collect application for devices running Android can be localised into several different languages. Currently, the application has been fully translated into 11 different languages and is partly translated into 41 other languages.
+ODK Collect language localisation is dependent on the language localisation of the mobile device to which ODK Collect is installed in. The language to which the mobile device is set will be the language to which ODK Collect will localise to.">
 
   
-  <link rel="alternate" hreflang="en-gb" href="/post/changing-odk-collect-language-settings/">
+  <link rel="alternate" hreflang="en-gb" href="/post/localising-odk-collect-to-specific-language/">
 
   
 
@@ -69,7 +70,7 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="/post/changing-odk-collect-language-settings/">
+  <link rel="canonical" href="/post/localising-odk-collect-to-specific-language/">
 
   <meta property="twitter:card" content="summary_large_image">
   
@@ -77,9 +78,10 @@
   <meta property="twitter:creator" content="@intdevhealth">
   
   <meta property="og:site_name" content="">
-  <meta property="og:url" content="/post/changing-odk-collect-language-settings/">
-  <meta property="og:title" content="Changing ODK Collect language settings | ">
-  <meta property="og:description" content="ODK Collect supports forms written in multiple languages. XLSForm or XForms standard used for creating forms usable in ODK Collect also provide functionality that encodes multiple language support within the same single form being created (for more information, see multiple language support in XLSForm standard). If a form has been created to support multiple languages, ODK Collect is able to provide options for users to change the language of the form as needed.">
+  <meta property="og:url" content="/post/localising-odk-collect-to-specific-language/">
+  <meta property="og:title" content="Localising ODK Collect to specific language | ">
+  <meta property="og:description" content="The ODK Collect application for devices running Android can be localised into several different languages. Currently, the application has been fully translated into 11 different languages and is partly translated into 41 other languages.
+ODK Collect language localisation is dependent on the language localisation of the mobile device to which ODK Collect is installed in. The language to which the mobile device is set will be the language to which ODK Collect will localise to.">
   <meta property="og:locale" content="en-gb">
   
   <meta property="article:published_time" content="2018-04-30T00:00:00&#43;00:00">
@@ -89,7 +91,7 @@
 
   
 
-  <title>Changing ODK Collect language settings | </title>
+  <title>Localising ODK Collect to specific language | </title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#toc" data-offset="71" >
@@ -210,7 +212,7 @@
 
 
   <div class="article-container">
-    <h1 itemprop="name">Changing ODK Collect language settings</h1>
+    <h1 itemprop="name">Localising ODK Collect to specific language</h1>
 
     
 
@@ -229,7 +231,7 @@
   
   <span class="middot-divider"></span>
   <span class="article-reading-time">
-    4 min read
+    3 min read
   </span>
   
 
@@ -256,35 +258,35 @@
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Changing%20ODK%20Collect%20language%20settings&amp;url=%2fpost%2fchanging-odk-collect-language-settings%2f"
+         href="https://twitter.com/intent/tweet?text=Localising%20ODK%20Collect%20to%20specific%20language&amp;url=%2fpost%2flocalising-odk-collect-to-specific-language%2f"
          target="_blank" rel="noopener">
         <i class="fa fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=%2fpost%2fchanging-odk-collect-language-settings%2f"
+         href="https://www.facebook.com/sharer.php?u=%2fpost%2flocalising-odk-collect-to-specific-language%2f"
          target="_blank" rel="noopener">
         <i class="fa fa-facebook"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=%2fpost%2fchanging-odk-collect-language-settings%2f&amp;title=Changing%20ODK%20Collect%20language%20settings"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=%2fpost%2flocalising-odk-collect-to-specific-language%2f&amp;title=Localising%20ODK%20Collect%20to%20specific%20language"
          target="_blank" rel="noopener">
         <i class="fa fa-linkedin"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=%2fpost%2fchanging-odk-collect-language-settings%2f&amp;title=Changing%20ODK%20Collect%20language%20settings"
+         href="http://service.weibo.com/share/share.php?url=%2fpost%2flocalising-odk-collect-to-specific-language%2f&amp;title=Localising%20ODK%20Collect%20to%20specific%20language"
          target="_blank" rel="noopener">
         <i class="fa fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=Changing%20ODK%20Collect%20language%20settings&amp;body=%2fpost%2fchanging-odk-collect-language-settings%2f">
+         href="mailto:?subject=Localising%20ODK%20Collect%20to%20specific%20language&amp;body=%2fpost%2flocalising-odk-collect-to-specific-language%2f">
         <i class="fa fa-envelope"></i>
       </a>
     </li>
@@ -300,75 +302,65 @@
     <div class="article-style" itemprop="articleBody">
       
 
-<p><strong>ODK Collect</strong> supports forms written in multiple languages. <strong>XLSForm</strong> or <strong>XForms</strong> standard used for creating forms usable in <strong>ODK Collect</strong> also provide functionality that encodes multiple language support within the same single form being created (for more information, see <a href="http://xlsform.org/#language" target="_blank">multiple language support in XLSForm standard</a>). If a form has been created to support multiple languages, <strong>ODK Collect</strong> is able to provide options for users to change the language of the form as needed.</p>
+<p>The <strong>ODK Collect</strong> application for devices running Android can be localised into several different languages. Currently, the application has been fully translated into 11 different languages and is partly translated into 41 other languages.</p>
 
-<p>This tutorial describes how to change the <strong>ODK Collect</strong> language settings. This tutorial assumes that:</p>
+<p><strong>ODK Collect</strong> language localisation is dependent on the language localisation of the mobile device to which <strong>ODK Collect</strong> is installed in. The language to which the mobile device is set will be the language to which <strong>ODK Collect</strong> will localise to.</p>
 
-<ul>
-<li><p>You have <strong>ODK Collect</strong> installed on your mobile device. See <a href="http://sudan.validmeasures.org/installing-odk-collect-1/" target="_blank">here</a> for instructions on installing <strong>ODK Collect</strong> onto your mobile device.</p></li>
-
-<li><p>You already have created a form using <strong>XLSForm</strong> standard that has multiple languages encoded. See <a href="http://xlsform.org" target="_blank">here</a> for a guide on how to create forms using <strong>XLSForm</strong> and <a href="http://xlsform.org/#language" target="_blank">here</a> for a guide on how to included multiple language support on your form.</p></li>
-
-<li><p>You have already uploaded your form that supports multiple languages onto <strong>ODK Collect</strong>.</p></li>
-</ul>
-
-<p>This tutorial is aimed at <strong>IT administrators</strong> and/or <strong>survey managers</strong> or <strong>coordinators</strong> to allow them to change language settings on <strong>ODK Collect</strong> in time for data collection.
+<p>This tutorial shows how to change the language settings of a mobile device running Android. As an example, this tutorial will show how to change the language settings of the mobile device from <strong><em>English (United Kingdom)</em></strong> to <strong><em>Arabic</em></strong>.
 <br /></p>
 
-<h2 id="1-open-a-blank-form-that-supports-multiple-languages">1. Open a blank form that supports multiple languages</h2>
+<h2 id="1-go-to-settings">1. Go to settings</h2>
 
-<p>Tap on <strong>ODK Collect</strong> then tap on <strong><em>&lsquo;Fill Blank Form&rsquo;</em></strong>.
-<img src="/img/tutorials/open-a-blank-form-that-supports-multiple-languages.png" />
+<p>On your tablet device, tap on the <strong><em>&lsquo;Settings&rsquo;</em></strong>.
 <br /></p>
 
-<p>You will then be shown a list of forms that are uploaded onto your <strong>ODK Collect</strong>. Tap on the form that you want to use in <strong>ODK Collect</strong>.</p>
-
-<p>In this example, only one form is loaded onto <strong>ODK Collect</strong>. The form&rsquo;s name is in <strong><em>Arabic</em></strong>.
-<img src="/img/tutorials/6b560b03-49a4-41a4-9a52-505f66ef32e1.png" />
+<p><img src="/img/tutorials/go-to-settings.png" />
 <br /></p>
 
-<p>After tapping on the form you want to use in <strong>ODK Collect</strong>, you will be presented with the <strong><em>&lsquo;cover page&rsquo;</em></strong> of the form that shows:</p>
-
-<ul>
-<li><p>The form logo if it has been provided by the creator of the form and if the logo has been uploaded into <strong>ODK Collect</strong> as well. In the example below the form logo has been provided <strong>(1)</strong>.</p></li>
-
-<li><p>An introductory message <strong>(2)</strong> saying that you are at the start of the form that you selected and instructing you to tap the arrow buttons below to go backward and forward on the forms or to swipe backward and forward depending on how ODK has been configured (see <a href="http://sudan.validmeasures.org/configuring-odk-collect-for-data-collection/" target="_blank">here</a> regarding <strong>ODK Collect</strong> settings and configuration).</p></li>
-</ul>
-
-<p>Tap on the forward button (or do a forward swipe) to see the first page of the form and to have an idea of what the form&rsquo;s default language is <strong>(3)</strong>.</p>
-
-<p>In this example, we will take a look at what the form with an <strong><em>Arabic</em></strong> name looks like and what default language it uses.
-<img src="/img/tutorials/19b29197-8fa7-4c88-bc7c-cd74265e9b9e.png" />
+<p>You will then see the following on your tablet screen. There are four (4) tabs on top of the screen named <strong><em>1) Connections</em></strong>; <strong><em>2) Device</em></strong>; <strong><em>3) Controls</em></strong>; and <strong><em>4) General</em></strong>. These are the four settings categories that can be configured as needed.
 <br /></p>
 
-<p>You now get to see the first page <strong>(1)</strong> of the form that you have selected. <strong>ODK Collect</strong> will always dispaly the form in the default language set for the form. Hence, the language that you see being used in the form in the first page is the default language of the form.</p>
-
-<p>In this example, the default language of the form is English.</p>
-
-<p>Now, tap on the backward button <strong>(2)</strong> to get back to the <strong><em>&lsquo;cover page&rsquo;</em></strong> of the form.
-<img src="/img/tutorials/891c82f3-1856-43b3-b18b-fb2ecb6de605.png" />
+<p><img src="/img/tutorials/3ba30222-26ba-4975-9997-de287121c885.png" />
 <br /></p>
 
-<h2 id="2-go-to-odk-collect-s-change-language-settings">2. Go to ODK Collect&rsquo;s Change Language settings</h2>
+<h2 id="2-tap-on-controls">2. Tap on &lsquo;Controls&rsquo;</h2>
 
-<p>Once you are back to the <strong><em>&lsquo;cover page&rsquo;</em></strong>, look at the top right corner of the screen. Here you will see an icon with three square dots on top of each other <strong>(1)</strong>. This is the button that allows you to change the settings of <strong>ODK Collect</strong> including the <strong><em>&lsquo;Change Language&rsquo;</em></strong> settings <strong>(2)</strong>.</p>
-
-<p>Once you have located this, tap on <strong><em>&lsquo;Change Language&rsquo;</em></strong>.
-<img src="/img/tutorials/go-to-odk-collect-s-change-language-settings.png" />
+<p>To change language settings, tap <strong><em>&lsquo;Controls&rsquo;</em></strong>** (1), **then tap on <strong><em>&lsquo;Language and input&rsquo;</em></strong>** (2)** and then tap on <strong><em>&lsquo;Language&rsquo;</em></strong>** (3)**
 <br /></p>
 
-<h2 id="3-select-language-you-want-to-use-for-your-form">3. Select language you want to use for your form</h2>
-
-<p>You will then see the following dialog box giving options of the languages supported by the form. The selected language is the language that is currently being used by the form. Choose the language that you want to use for the form.</p>
-
-<p>In the example below, the form is currently using <strong><em>English</em></strong>. We wil now select ***Arabic *** by tapping on the radio button beside that specific language.
-<img src="/img/tutorials/select-language-you-want-to-use-for-your-form.png" />
+<p><img src="/img/tutorials/tap-on-controls-.png" />
 <br /></p>
 
-<h2 id="4-check-the-language-now-used-by-the-form">4. Check the language now used by the form</h2>
+<p>You will then see the following Language options on your screen.
+<br /></p>
 
-<p>You can now check the language being used by the form by tapping on the forward button again from the <strong><em>&lsquo;cover page&rsquo;</em></strong>. You will now see that the form is displayed in the language that you have chosen which in this example is <strong><em>Arabic</em></strong>.
-<img src="/img/tutorials/check-the-language-now-used-by-the-form.png" />
+<p><img src="/img/tutorials/b6c398c9-c109-4358-8e9e-0343200e237c.png" />
+<br /></p>
+
+<h2 id="3-select-language-to-set-device-to">3. Select language to set device to</h2>
+
+<p>For this example, we will change the language from <strong><em>English (United Kingdom)</em></strong> to <strong><em>Arabic</em></strong>.</p>
+
+<p>Scroll down the language list and look for <strong><em>Arabic (which is written in Arabic script)</em></strong>. Tap to select <strong><em>Arabic</em></strong>.
+<br /></p>
+
+<p><img src="/img/tutorials/select-language-to-set-device-to.png" />
+<br /></p>
+
+<p>You will then see that the language used in your mobile device is now <strong><em>Arabic</em></strong> as shown below.
+<br /></p>
+
+<p><img src="/img/tutorials/21cfc60b-6205-4c87-9582-6fa840ae89f3.png" />
+<br /></p>
+
+<p>Setting the default language of your device to a specific language will affect applications installed in your mobile device that also have language localisation features. For these applications, their default language will change to the language of the mobile device.</p>
+
+<p>This will be the case for <strong>ODK Collect</strong>. Since you have changed the default language of your device to <strong><em>Arabic</em></strong>, <strong>ODK Collect</strong> will now use <strong><em>Arabic</em></strong> as the default language for the application. This means that the menus and the text in <strong>ODK Collect</strong> will now all be in <strong>Arabic</strong> as shown below.</p>
+
+<p>It should be noted, however, that this language localisation only affects the text in the <strong>ODK Collect</strong> application. This language localisation will not affect the default language that is set in the forms that are loaded into <strong>ODK Collect</strong>. So, for example, if a form that is created in English is loaded onto <strong>ODK Collect</strong> that is localised in <strong><em>Arabic</em></strong>, the form will still show in <strong><em>English</em></strong> and not in <strong><em>Arabic</em></strong>. In order for this form to be localised into <strong><em>Arabic</em></strong>, the form should have been authored in both <strong><em>English</em></strong> and <strong><em>Arabic</em></strong> and then the language settings for the form is set into <strong><em>Arabic</em></strong> (as shown in this <a href="http://sudan.validmeasures.org/changing-odk-collect-language-settings/" target="_blank">tutorial</a>).
+<br /></p>
+
+<p><img src="/img/tutorials/dda85138-ec23-465f-8171-a449792e2207.png" />
 <br /></p>
 
     </div>
@@ -394,15 +386,15 @@
       <h3>Related</h3>
       <ul>
         
-        <li><a href="/post/getting-started-with-your-android-tablet/">Getting started with your Android tablet</a></li>
-        
-        <li><a href="/post/configuring-odk-collect-for-data-collection/">Configuring ODK Collect for data collection</a></li>
-        
-        <li><a href="/post/localising-odk-collect-to-specific-language/">Localising ODK Collect to specific language</a></li>
-        
         <li><a href="/post/installing-odk-collect-without-using-google-play-store-2/">Installing ODK Collect without using Google Play Store - Approach 2</a></li>
         
-        <li><a href="/post/installing-odk-collect-without-using-google-play-store-1/">Installing ODK Collect without using Google Play Store - Approach 1</a></li>
+        <li><a href="/post/configuring-tablets-for-data-collection-campaigns/">Configuring tablets for data collection campaigns</a></li>
+        
+        <li><a href="/post/installing-odk-collect-on-android-devices/">Installing ODK Collect on Android devices</a></li>
+        
+        <li><a href="/post/getting-started-with-your-android-tablet/">Getting started with your Android tablet</a></li>
+        
+        <li><a href="/post/changing-odk-collect-language-settings/">Changing ODK Collect language settings</a></li>
         
       </ul>
     </div>

@@ -947,6 +947,77 @@ Under the &lt;strong&gt;&lt;em&gt;Connection&lt;/em&gt;&lt;/strong&gt;* *tab, th
     </item>
     
     <item>
+      <title>Localising ODK Collect to specific language</title>
+      <link>/post/localising-odk-collect-to-specific-language/</link>
+      <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/localising-odk-collect-to-specific-language/</guid>
+      <description>
+
+&lt;p&gt;The &lt;strong&gt;ODK Collect&lt;/strong&gt; application for devices running Android can be localised into several different languages. Currently, the application has been fully translated into 11 different languages and is partly translated into 41 other languages.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;ODK Collect&lt;/strong&gt; language localisation is dependent on the language localisation of the mobile device to which &lt;strong&gt;ODK Collect&lt;/strong&gt; is installed in. The language to which the mobile device is set will be the language to which &lt;strong&gt;ODK Collect&lt;/strong&gt; will localise to.&lt;/p&gt;
+
+&lt;p&gt;This tutorial shows how to change the language settings of a mobile device running Android. As an example, this tutorial will show how to change the language settings of the mobile device from &lt;strong&gt;&lt;em&gt;English (United Kingdom)&lt;/em&gt;&lt;/strong&gt; to &lt;strong&gt;&lt;em&gt;Arabic&lt;/em&gt;&lt;/strong&gt;.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;1-go-to-settings&#34;&gt;1. Go to settings&lt;/h2&gt;
+
+&lt;p&gt;On your tablet device, tap on the &lt;strong&gt;&lt;em&gt;&amp;lsquo;Settings&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/go-to-settings.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;You will then see the following on your tablet screen. There are four (4) tabs on top of the screen named &lt;strong&gt;&lt;em&gt;1) Connections&lt;/em&gt;&lt;/strong&gt;; &lt;strong&gt;&lt;em&gt;2) Device&lt;/em&gt;&lt;/strong&gt;; &lt;strong&gt;&lt;em&gt;3) Controls&lt;/em&gt;&lt;/strong&gt;; and &lt;strong&gt;&lt;em&gt;4) General&lt;/em&gt;&lt;/strong&gt;. These are the four settings categories that can be configured as needed.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/3ba30222-26ba-4975-9997-de287121c885.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;2-tap-on-controls&#34;&gt;2. Tap on &amp;lsquo;Controls&amp;rsquo;&lt;/h2&gt;
+
+&lt;p&gt;To change language settings, tap &lt;strong&gt;&lt;em&gt;&amp;lsquo;Controls&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;** (1), **then tap on &lt;strong&gt;&lt;em&gt;&amp;lsquo;Language and input&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;** (2)** and then tap on &lt;strong&gt;&lt;em&gt;&amp;lsquo;Language&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;** (3)**
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/tap-on-controls-.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;You will then see the following Language options on your screen.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/b6c398c9-c109-4358-8e9e-0343200e237c.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;3-select-language-to-set-device-to&#34;&gt;3. Select language to set device to&lt;/h2&gt;
+
+&lt;p&gt;For this example, we will change the language from &lt;strong&gt;&lt;em&gt;English (United Kingdom)&lt;/em&gt;&lt;/strong&gt; to &lt;strong&gt;&lt;em&gt;Arabic&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Scroll down the language list and look for &lt;strong&gt;&lt;em&gt;Arabic (which is written in Arabic script)&lt;/em&gt;&lt;/strong&gt;. Tap to select &lt;strong&gt;&lt;em&gt;Arabic&lt;/em&gt;&lt;/strong&gt;.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/select-language-to-set-device-to.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;You will then see that the language used in your mobile device is now &lt;strong&gt;&lt;em&gt;Arabic&lt;/em&gt;&lt;/strong&gt; as shown below.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/21cfc60b-6205-4c87-9582-6fa840ae89f3.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Setting the default language of your device to a specific language will affect applications installed in your mobile device that also have language localisation features. For these applications, their default language will change to the language of the mobile device.&lt;/p&gt;
+
+&lt;p&gt;This will be the case for &lt;strong&gt;ODK Collect&lt;/strong&gt;. Since you have changed the default language of your device to &lt;strong&gt;&lt;em&gt;Arabic&lt;/em&gt;&lt;/strong&gt;, &lt;strong&gt;ODK Collect&lt;/strong&gt; will now use &lt;strong&gt;&lt;em&gt;Arabic&lt;/em&gt;&lt;/strong&gt; as the default language for the application. This means that the menus and the text in &lt;strong&gt;ODK Collect&lt;/strong&gt; will now all be in &lt;strong&gt;Arabic&lt;/strong&gt; as shown below.&lt;/p&gt;
+
+&lt;p&gt;It should be noted, however, that this language localisation only affects the text in the &lt;strong&gt;ODK Collect&lt;/strong&gt; application. This language localisation will not affect the default language that is set in the forms that are loaded into &lt;strong&gt;ODK Collect&lt;/strong&gt;. So, for example, if a form that is created in English is loaded onto &lt;strong&gt;ODK Collect&lt;/strong&gt; that is localised in &lt;strong&gt;&lt;em&gt;Arabic&lt;/em&gt;&lt;/strong&gt;, the form will still show in &lt;strong&gt;&lt;em&gt;English&lt;/em&gt;&lt;/strong&gt; and not in &lt;strong&gt;&lt;em&gt;Arabic&lt;/em&gt;&lt;/strong&gt;. In order for this form to be localised into &lt;strong&gt;&lt;em&gt;Arabic&lt;/em&gt;&lt;/strong&gt;, the form should have been authored in both &lt;strong&gt;&lt;em&gt;English&lt;/em&gt;&lt;/strong&gt; and &lt;strong&gt;&lt;em&gt;Arabic&lt;/em&gt;&lt;/strong&gt; and then the language settings for the form is set into &lt;strong&gt;&lt;em&gt;Arabic&lt;/em&gt;&lt;/strong&gt; (as shown in this &lt;a href=&#34;http://sudan.validmeasures.org/changing-odk-collect-language-settings/&#34; target=&#34;_blank&#34;&gt;tutorial&lt;/a&gt;).
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/dda85138-ec23-465f-8171-a449792e2207.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Example Talk</title>
       <link>/talk/example-talk/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>

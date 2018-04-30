@@ -84,5 +84,15 @@ This tutorial is aimed at IT administrators and/or survey managers or coordinato
  There is simply no internet connectivity in the area you are located in.</description>
     </item>
     
+    <item>
+      <title>Localising ODK Collect to specific language</title>
+      <link>/post/localising-odk-collect-to-specific-language/</link>
+      <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/localising-odk-collect-to-specific-language/</guid>
+      <description>The ODK Collect application for devices running Android can be localised into several different languages. Currently, the application has been fully translated into 11 different languages and is partly translated into 41 other languages.
+ODK Collect language localisation is dependent on the language localisation of the mobile device to which ODK Collect is installed in. The language to which the mobile device is set will be the language to which ODK Collect will localise to.</description>
+    </item>
+    
   </channel>
 </rss>

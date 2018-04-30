@@ -6,7 +6,7 @@ slug: getting-started-with-your-android-tablet
 categories:
     - Open Data Kit
 tags:
-    - tutorial
+    - tutorials
 header:
   caption: ''
   image: ''

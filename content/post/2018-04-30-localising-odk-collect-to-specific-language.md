@@ -1,7 +1,7 @@
 ---
 title: Localising ODK Collect to specific language
 author: ~
-date: '2018-04-30'
+date: '2018-04-30T11:30:00'
 slug: localising-odk-collect-to-specific-language
 categories:
     - Data Collection

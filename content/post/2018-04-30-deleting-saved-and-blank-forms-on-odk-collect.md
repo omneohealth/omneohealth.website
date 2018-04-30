@@ -1,7 +1,7 @@
 ---
 title: Deleting saved and blank forms on ODK Collect
 author: ~
-date: '2018-04-30'
+date: '2018-04-30T11:20:00'
 slug: deleting-saved-and-blank-forms-on-odk-collect
 categories:
     - Data Collection

@@ -1,7 +1,7 @@
 ---
 title: Changing ODK Collect language settings
 author: ~
-date: '2018-04-30'
+date: '2018-04-30T11:35:00'
 slug: changing-odk-collect-language-settings
 categories:
     - Data Collection

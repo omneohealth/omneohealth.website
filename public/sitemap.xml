@@ -5,71 +5,8 @@
     
     <url>
     
-      <loc>/post/configuring-tablets-for-data-collection-campaigns/</loc>
-      <lastmod>2018-04-30T09:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/post/deleting-saved-and-blank-forms-on-odk-collect/</loc>
-      <lastmod>2018-04-30T08:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/post/getting-blank-forms-onto-odk-collect-via-a-server-connection/</loc>
-      <lastmod>2018-04-30T07:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/post/localising-odk-collect-to-specific-language/</loc>
-      <lastmod>2018-04-30T06:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/post/changing-odk-collect-language-settings/</loc>
-      <lastmod>2018-04-30T05:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/post/configuring-odk-collect-for-data-collection/</loc>
-      <lastmod>2018-04-30T04:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/post/installing-odk-collect-without-using-google-play-store-2/</loc>
-      <lastmod>2018-04-30T03:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/post/installing-odk-collect-without-using-google-play-store-1/</loc>
-      <lastmod>2018-04-30T02:00:00+00:00</lastmod>
+      <loc>/post/getting-started-with-your-android-tablet/</loc>
+      <lastmod>2018-04-30T23:30:00+00:00</lastmod>
     </url>
     
   
@@ -78,7 +15,7 @@
     <url>
     
       <loc>/post/installing-odk-collect-on-android-devices/</loc>
-      <lastmod>2018-04-30T01:00:00+00:00</lastmod>
+      <lastmod>2018-04-30T23:00:00+00:00</lastmod>
     </url>
     
   
@@ -86,8 +23,71 @@
     
     <url>
     
-      <loc>/post/getting-started-with-your-android-tablet/</loc>
-      <lastmod>2018-04-30T00:00:00+00:00</lastmod>
+      <loc>/post/installing-odk-collect-without-using-google-play-store-1/</loc>
+      <lastmod>2018-04-30T22:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/installing-odk-collect-without-using-google-play-store-2/</loc>
+      <lastmod>2018-04-30T21:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/configuring-odk-collect-for-data-collection/</loc>
+      <lastmod>2018-04-30T20:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/changing-odk-collect-language-settings/</loc>
+      <lastmod>2018-04-30T19:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/getting-blank-forms-onto-odk-collect-via-a-server-connection/</loc>
+      <lastmod>2018-04-30T18:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/localising-odk-collect-to-specific-language/</loc>
+      <lastmod>2018-04-30T18:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/deleting-saved-and-blank-forms-on-odk-collect/</loc>
+      <lastmod>2018-04-30T17:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/configuring-tablets-for-data-collection-campaigns/</loc>
+      <lastmod>2018-04-30T16:00:00+00:00</lastmod>
     </url>
     
   
@@ -198,7 +198,7 @@
     <url>
     
       <loc>/categories/data-collection/</loc>
-      <lastmod>2018-04-30T09:00:00+00:00</lastmod>
+      <lastmod>2018-04-30T23:30:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -208,7 +208,7 @@
     <url>
     
       <loc>/tags/open-data-kit/</loc>
-      <lastmod>2018-04-30T09:00:00+00:00</lastmod>
+      <lastmod>2018-04-30T23:30:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -228,7 +228,7 @@
     <url>
     
       <loc>/post/</loc>
-      <lastmod>2018-04-30T09:00:00+00:00</lastmod>
+      <lastmod>2018-04-30T23:30:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -268,7 +268,7 @@
     <url>
     
       <loc>/tags/tutorials/</loc>
-      <lastmod>2018-04-30T09:00:00+00:00</lastmod>
+      <lastmod>2018-04-30T23:30:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

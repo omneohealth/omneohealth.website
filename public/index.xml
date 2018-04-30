@@ -11,809 +11,204 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Configuring tablets for data collection campaigns</title>
-      <link>/post/configuring-tablets-for-data-collection-campaigns/</link>
-      <pubDate>Mon, 30 Apr 2018 09:00:00 +0000</pubDate>
+      <title>Getting started with your Android tablet</title>
+      <link>/post/getting-started-with-your-android-tablet/</link>
+      <pubDate>Mon, 30 Apr 2018 23:30:00 +0000</pubDate>
       
-      <guid>/post/configuring-tablets-for-data-collection-campaigns/</guid>
+      <guid>/post/getting-started-with-your-android-tablet/</guid>
       <description>
 
-&lt;p&gt;It is important to configure mobile devices such as &amp;nbsp;mobile phones or tablets that are going to be used for data collection. From the point of view of a &lt;strong&gt;&lt;em&gt;survey manager&lt;/em&gt;&lt;/strong&gt;, it will be important that the devices are configured in such a way that:&lt;/p&gt;
+&lt;p&gt;Mobile devices such as mobile phones and tablets have become valuable tools in data collection. Various applications have been and are being developed specifically to harness the utility of mobile devices for collecting data. An understanding of how mobile devices work specifically those powered by &lt;a href=&#34;https://www.android.com&#34; target=&#34;_blank&#34;&gt;Android operating system&lt;/a&gt; is therefore a requisite knowledge for anyone involved in a data collection campaign that utilises these devices for data collection.&lt;/p&gt;
+
+&lt;p&gt;This tutorial gives a brief overview on how to get started with an Android device. We chose to focus on the use of tablet devices because we think that the smaller sized tablets (up to 7-inch) are a good mix of the mobility and handiness of a mobile phone and the wider screen size of a tablet which is good for fitting relatively dense question sets adequately. We also chose to focus on Samsung-branded because they are probably the most common brand of mobile devices available and we think most users have most likely had an experience using devices from this brand beforehand. For this specific tutorial, we use the &lt;strong&gt;Samsung SM-T230&lt;/strong&gt; as the model device for instructional purposes.&lt;/p&gt;
+
+&lt;p&gt;This tutorial is aimed at enumerators who may have not been exposed to smartphones particularly Android-powered devices.&lt;/p&gt;
+
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;1-device-layout&#34;&gt;1. Device layout&lt;/h2&gt;
+
+&lt;p&gt;The front layout of the &lt;strong&gt;Samsung SM-T230&lt;/strong&gt; is as follows:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/tabletFront.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The back layout looks like this:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/tabletBack.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;buttons&#34;&gt;Buttons&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Power&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Prevents inappropriate use by enumerators;&lt;/li&gt;
-&lt;li&gt;Conserves the battery power of the device; and,&lt;/li&gt;
-&lt;li&gt;Maximises its use for data collection.&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Press and hold to turn the device on or off.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Press and hold for 8 seconds to reset the device if it has fatal errors or hang-ups, or freezes.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Press to lock the device. The device goes into lock mode when the touch screen turns off.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;This tutorial describes how to configure a tablet device appropriately in preparation for a data collection campaign. This tutorial focuses on a tablet device specifically the &lt;strong&gt;Samsung SM -T230&lt;/strong&gt;. Although all &lt;a href=&#34;http://www.android.com&#34; target=&#34;_blank&#34;&gt;Android&lt;/a&gt;-powered devices have a similar type of settings that can be configured, the way that these settings are presented and arrived at and the process by which to adjust them might be slightly different depending on the brand of the device. This tutorial is aimed at &lt;strong&gt;IT administrators&lt;/strong&gt; and/or &lt;strong&gt;survey coordinators/managers&lt;/strong&gt; who are meant to configure the mobile devices for use by enumerators.
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;1-go-to-settings&#34;&gt;1. Go to settings&lt;/h2&gt;
-
-&lt;p&gt;On your tablet device, tap on the &lt;strong&gt;&lt;em&gt;&amp;lsquo;Settings&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;.
-&lt;img src=&#34;/img/tutorials/go-to-settings.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;You will then see the following on your tablet screen. There are four (4) tabs on top of the screen named &lt;strong&gt;&lt;em&gt;1) Connections&lt;/em&gt;&lt;/strong&gt;; &lt;strong&gt;&lt;em&gt;2) Device&lt;/em&gt;&lt;/strong&gt;; &lt;strong&gt;&lt;em&gt;3) Controls&lt;/em&gt;&lt;/strong&gt;; and &lt;strong&gt;&lt;em&gt;4) General&lt;/em&gt;&lt;/strong&gt;. These are the four settings categories that can be configured as needed.
-&lt;img src=&#34;/img/tutorials/f757e156-1586-4b6d-8f13-60c006ef239f.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;** 2. Configure the Connections settings
-Under the &lt;strong&gt;&lt;em&gt;Connection&lt;/em&gt;&lt;/strong&gt;* *tab, the following settings should be configured:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Recent apps&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;**Wi-Fi (1) **- this should be set to OFF during the data collection process. When ON, the device keeps on scanning for &lt;strong&gt;Wi-Fi&lt;/strong&gt; networks that are available. During the data collection process, there will most likely be no available &lt;strong&gt;Wi-Fi&lt;/strong&gt; network hence the continuous scanning will drain the battery device very quickly. However, when enumerators are meant to submit the data they have collected to the server, the &lt;strong&gt;Wi-Fi&lt;/strong&gt; will have to be turnen ON again so that the device can connect to the &lt;strong&gt;Wi-Fi&lt;/strong&gt; network that will enable the device to submit data to the server.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Bluetooth (2)&lt;/strong&gt; - the Bluetooth should be set to OFF during the data collection process. When Bluetooth is ON, the device keeps on scanning for Bluetooth devices to connect to. This continuous scanning will drain the batter device very quickly.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Location (3)&lt;/strong&gt; - this should be set to ON during the data collection process if you will be collecting GPS coordinates.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Nearby devices (4)&lt;/strong&gt; - this should be set to OFF. This settings uses near-field communication (NFC) to communicate with other devices that are NFC-enabled. Just like Bluetooth, when turned ON, the device will keep on scanning to look for devices to connect to which will drain the battery device very quickly.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;Tap to open the list of recent applications.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;img src=&#34;/img/tutorials/configure-the-connections-settings.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;3-configure-the-device-settings&#34;&gt;3. Configure the Device settings&lt;/h2&gt;
-
-&lt;p&gt;Tap on the &lt;strong&gt;&lt;em&gt;Device&lt;/em&gt;&lt;/strong&gt; tab. You will now see the following on your tablet&amp;rsquo;s screen.&lt;/p&gt;
-
-&lt;p&gt;The first settings to configure will be the &lt;strong&gt;&lt;em&gt;Sound and Display&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;For ***Sound ***&lt;strong&gt;(1)&lt;/strong&gt;, the most relevant settings to configure will be whether you would want to get sound-based feedback when you interact with the device such as touching the screen and making selections &lt;strong&gt;(2)&lt;/strong&gt; and when you lock or unlock the device &lt;strong&gt;(3)&lt;/strong&gt;. These settings are checked by default as most users prefer some form of feedback when they tap on the screen or when they lock or unlock the screen. Uncheck this device if you prefer not to have these sounds on. These settings have very little effect on the device battery life and is more a matter of preference.
-&lt;img src=&#34;/img/tutorials/configure-the-device-settings.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Next, tap on &lt;strong&gt;&lt;em&gt;&amp;lsquo;Display&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; settings &lt;strong&gt;(1)&lt;/strong&gt; under the &lt;strong&gt;&lt;em&gt;&amp;lsquo;Device&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; tab settings.&lt;/p&gt;
-
-&lt;p&gt;The following settings can be configured here:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Home&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Brigthness (2)&lt;/strong&gt; - this should be configured as needed but ideally should be set to no more than middle level brightness. Make sure that screen brigthness is not set to maximum at any point as this will drain the battery device very quickly.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Press to return to the Home Screen.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Screen timeout (3)&lt;/strong&gt; - this settings determine how long the screen stays on when device is not in use. This should be set to about 10 minutes of inactivity. This is just about enough time for enumerators to ask questions and get a response and then record on the device without the screen going OFF and then the device going on lock.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Daydream (4)&lt;/strong&gt; - this is the screensaver for these devices. This should be turned OFF because when activated, a screen saver turns on when the device is inactive instead of the screen turning OFF and getting locked. This causes battery device drainage.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Display batter percentage (5)&lt;/strong&gt; - this should be checked. This will help enumerators to determine whethet their devices have anough power or not.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Press and hold to launch Google search.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;img src=&#34;/img/tutorials/49465425-9d8a-461a-b9df-8fe17c912a16.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Back&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Next tap on &lt;strong&gt;&lt;em&gt;&amp;lsquo;Mulit windows&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; setting &lt;strong&gt;(1)&lt;/strong&gt;. This should be unchecked (2). For the purposes of data collection, there is no use for the multi window functionality.
-&lt;img src=&#34;/img/tutorials/9cc72447-6005-4ae8-a646-0b59b1d8255b.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tap to return to the previous screen.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Next tap on the &lt;strong&gt;&lt;em&gt;&amp;lsquo;Lock screen&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; settting &lt;strong&gt;(1)&lt;/strong&gt;. Under this setting, there are two main things we need to configure.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Volume&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;The &lt;strong&gt;&lt;em&gt;&amp;lsquo;Owner information&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; setting &lt;strong&gt;(2)&lt;/strong&gt; would be good to configure because this allows you to name the device you are setting up. This is especially important when you are managing multiple devices for data collection and you need to identify one device from the other so you know what device goes to which enumerator and other management task.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Press to adjust the device volume.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;The &lt;strong&gt;&lt;em&gt;&amp;lsquo;Unlock effect&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(3)&lt;/strong&gt; should also be configured to None. This setting ensures that unlocking of the device is quick and easy without unnecessary effects.
-&lt;img src=&#34;/img/tutorials/3a74f296-3ecf-4c8e-bbe7-fbff003171bf.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
 
-&lt;p&gt;Now, tap on &lt;strong&gt;&lt;em&gt;&amp;lsquo;Font&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; setting.&lt;/p&gt;
+&lt;h2 id=&#34;2-charging-the-battery&#34;&gt;2. Charging the battery&lt;/h2&gt;
 
-&lt;p&gt;Here, there is one key setting to consider and that is the &lt;strong&gt;&lt;em&gt;&amp;lsquo;Font size&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;. You should consider the best font size that would make the text of the device easier to read for enumerators. The device defaults to Medium which is generally a good font size to use. Change this font size if you think a bigger or smaller font would be necessary.
-&lt;img src=&#34;/img/tutorials/f47e02fc-9667-4c25-a13b-ee855d7f0a1c.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Before using the device for the first time or when the battery has been unused for extended periods, you must charge the battery.&lt;/p&gt;
 
-&lt;h2 id=&#34;4-configure-the-controls-settings&#34;&gt;4. Configure the Controls settings&lt;/h2&gt;
+&lt;p&gt;Connect the USB cable to the USB power adaptor and then plug the end of the USB cable into the multipurpose jack.&lt;/p&gt;
 
-&lt;p&gt;Now, tap on the &lt;strong&gt;&lt;em&gt;&amp;lsquo;Controls&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; settings tab on top of the screen.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/samsungConnectPC.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;The first setting to configure is the &lt;strong&gt;&lt;em&gt;&amp;lsquo;Language and input&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; setting (1).&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;The device can be used while it is charging, but it may take longer to fully charge the battery.&lt;/p&gt;&lt;/li&gt;
 
-&lt;p&gt;The language used in the device can be configured to the language that is most appropriate for the data collection. When the &lt;strong&gt;&lt;em&gt;&amp;lsquo;Language&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; setting &lt;strong&gt;(2)&lt;/strong&gt; is set to a particular language, the device uses that language throughout the device. In this example, the device is set to &lt;strong&gt;&lt;em&gt;&amp;lsquo;English (United Kingdom)&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;If the device receives an unstable power supply while charging, the touch screen may not function. If this happens, unplug the charger from the device.&lt;/p&gt;&lt;/li&gt;
 
-&lt;p&gt;The next setting is &lt;strong&gt;&lt;em&gt;&amp;lsquo;Keyboards and input methods&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;. By default, Samsung devices uses the Samsung keyboard. However, there are various keyboard applications now available that provide much better keyboard input than the default Samsung keyboard. We recommend the use of &lt;strong&gt;SwiftKey&lt;/strong&gt; keyboard as the layout of the keyboard is much better than the Samsung keyboard which allows for much accurate text entry.&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;While charging, the device may heat up. This is normal and should not affect the device&amp;rsquo;s lifespan or performance. If the battery gets hotter than usual, the charger may stop charging.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;To be able to enable &lt;strong&gt;SwiftKey&lt;/strong&gt;, you first need to download the &lt;strong&gt;SwiftKey&lt;/strong&gt; application from the &lt;strong&gt;Google Play Store&lt;/strong&gt; (see this guide on how to download and install applications fron the &lt;strong&gt;Google Play Store&lt;/strong&gt;). Once installed, the &lt;strong&gt;SwiftKey&lt;/strong&gt; keyboard option now becomes available in the &amp;lsquo;Keyboards and input methods&amp;rsquo; settings (4). This keyboard option can now be checked. Checking this keyboard option includes &lt;strong&gt;SwiftKey&lt;/strong&gt; keyboard as a keyboard choice for the user. To make it default, tap on the &lt;strong&gt;&lt;em&gt;&amp;lsquo;Default&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; setting of the &lt;strong&gt;&lt;em&gt;&amp;lsquo;Keyboards and input methods&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;, and then select &lt;strong&gt;SwiftKey&lt;/strong&gt; as the default keyboard &lt;strong&gt;(3)&lt;/strong&gt;.
-&lt;img src=&#34;/img/tutorials/configure-the-controls-settings.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;After fully charging, disconnect the device from the charger.&lt;/p&gt;
 
-&lt;p&gt;Now, set the &lt;strong&gt;&lt;em&gt;&amp;lsquo;Palm motion&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; setting &lt;strong&gt;(1)&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Your device provides options that help you save the battery power. By customising these options and deactivating features in the background, you can use the device longer between charges:&lt;/p&gt;
 
-&lt;p&gt;Turn off the setting for both &lt;strong&gt;&lt;em&gt;&amp;lsquo;Capture screen&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(2)&lt;/strong&gt; and &lt;strong&gt;&lt;em&gt;&amp;lsquo;Mute/Pause&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(3)&lt;/strong&gt; setting. This avoids enumerators unintentioally activating this gesture input which can confuse them on what to do next.
-&lt;img src=&#34;/img/tutorials/d23a42fd-b7eb-4aae-9ef0-c84507215bf2.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;When you are not using the device, switch to sleep mode by pressing the Power button.&lt;/p&gt;&lt;/li&gt;
 
-&lt;p&gt;Now, set the &lt;strong&gt;&lt;em&gt;&amp;lsquo;Smart Screen&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; setting &lt;strong&gt;(1)&lt;/strong&gt;.&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;Close unnecessary applications with the task manager.&lt;/p&gt;&lt;/li&gt;
 
-&lt;p&gt;You should uncheck the &lt;strong&gt;&lt;em&gt;&amp;lsquo;Smart stay&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; option &lt;strong&gt;(2)&lt;/strong&gt;. Whilst this setting is a clever functionality, this can drain the battery device much quicker because it utilises the front camera to determine whether the user is looking at the screen or not.
-&lt;img src=&#34;/img/tutorials/6d344d6d-1855-4b22-9d93-77d9d548a36c.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;Deactivate the Bluetooth feature.&lt;/p&gt;&lt;/li&gt;
 
-&lt;h2 id=&#34;5-configure-the-general-settings&#34;&gt;5. Configure the General settings&lt;/h2&gt;
+&lt;li&gt;&lt;p&gt;Deactivate the WiFi feature.&lt;/p&gt;&lt;/li&gt;
 
-&lt;p&gt;Next, tap on the &lt;strong&gt;&lt;em&gt;&amp;lsquo;General&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; settings tab.&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;Deactivate auto-syncing of applications.&lt;/p&gt;&lt;/li&gt;
 
-&lt;p&gt;The &lt;strong&gt;&lt;em&gt;&amp;lsquo;Accounts&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; setting is the first to configure &lt;strong&gt;(1)&lt;/strong&gt;.&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;Decrease the backlight time.&lt;/p&gt;&lt;/li&gt;
 
-&lt;p&gt;If you have already configured your device with a &lt;strong&gt;Google&lt;/strong&gt; account, you should see under the &lt;strong&gt;&lt;em&gt;&amp;lsquo;Accounts&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; section the &lt;strong&gt;Google&lt;/strong&gt; icon &lt;strong&gt;(2)&lt;/strong&gt;. If not, this is the time to add your Google account. Click on &lt;strong&gt;&lt;em&gt;&amp;lsquo;Add account&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; and then follow the instructions after that.&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;Decrease the brightness of the display.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Other accounts can be added here. However, for purposes of data collection, there is no for these other accounts unless your data collection campaigns requires any other accounts setup in your device.
-&lt;img src=&#34;/img/tutorials/configure-the-general-settings.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
 
-&lt;p&gt;Now, we should set the &lt;strong&gt;&lt;em&gt;&amp;lsquo;Date and time&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; settings.&lt;/p&gt;
+&lt;h2 id=&#34;3-turning-the-device-on-and-off&#34;&gt;3. Turning the device on and off&lt;/h2&gt;
 
-&lt;p&gt;It would be important to set the &lt;strong&gt;&lt;em&gt;&amp;lsquo;Date and time&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; settings of the device appropriately. This is relevant to data collection because some forms that collects dates uses the date and time of the device to determine what the current date and time is. If these settings are not set correctly, then the recorded date and time in the forms will also be incorrect.
-&lt;img src=&#34;/img/tutorials/4342dc1e-28e2-4837-ab84-7efb907b9c5f.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;When turning on the device for the first time, follow the on-screen instructions to setup your device.&lt;/p&gt;
 
-&lt;p&gt;Next, tap on the &amp;lsquo;Application manager&amp;rsquo;.&lt;/p&gt;
+&lt;p&gt;Press and hold the Power button for a few seconds to turn on the device.&lt;/p&gt;
 
-&lt;p&gt;This setting allows you to &lt;strong&gt;&lt;em&gt;disable&lt;/em&gt;&lt;/strong&gt; or &lt;strong&gt;&lt;em&gt;uninstall&lt;/em&gt;&lt;/strong&gt; certain applications that is not really needed for your data collection. It is recommended that you disable or uninstall any applications installed on the device that will not be used by the enumerators for data collection. Doing so prevents unintended use of the device by the enumerators and ensures that the battery of the device is conserved and used only for data collection as much as possible.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/tabletOff.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;It should be noted however that certain applications come pre-installed by the brand manufacturers. For some of these, they cannot be uninstalled or disabled as they have been hard set to stay on the device.
-&lt;img src=&#34;/img/tutorials/70d6265c-5d6f-48be-bf96-c087d8ac1b97.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;To turn off the device, press and hold the Power button, and then tap &lt;strong&gt;Power off&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Next, tap on &lt;strong&gt;&lt;em&gt;&amp;lsquo;Power saving mode&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; settings &lt;strong&gt;(1)&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
 
-&lt;p&gt;The &lt;strong&gt;&lt;em&gt;&amp;lsquo;CPU Performance&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; option can be checked &lt;strong&gt;(2)&lt;/strong&gt;. Data collection doesn&amp;rsquo;t required great CPU performance at all and definitely will not require maximum performance at any point. This will increase battery life of the device.&lt;/p&gt;
+&lt;h2 id=&#34;4-locking-and-unlocking-the-device&#34;&gt;4. Locking and unlocking the device&lt;/h2&gt;
 
-&lt;p&gt;The &lt;strong&gt;&lt;em&gt;&amp;lsquo;Screen output&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; option can be checked &lt;strong&gt;(3)&lt;/strong&gt;. Data collection doesn&amp;rsquo;t require high frame rates (as compared to watching videos or playing games). Checking this option will increase battery life of the device.
-&lt;img src=&#34;/img/tutorials/59bba5a1-87d1-4c04-89fc-a18ab82b4191.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;When not in use, lock the device to prevent unwanted operation. Pressing the Power button turns off the screen and puts the device into lock mode. The device automatically gets locked if it is not used for a specified period.&lt;/p&gt;
+
+&lt;p&gt;To unlock the device, press the Power button or Home button when the touch screen is turned off, tap anywhere on the screen, and then flick your finger in any direction.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Deleting saved and blank forms on ODK Collect</title>
-      <link>/post/deleting-saved-and-blank-forms-on-odk-collect/</link>
-      <pubDate>Mon, 30 Apr 2018 08:00:00 +0000</pubDate>
+      <title>Installing ODK Collect on Android devices</title>
+      <link>/post/installing-odk-collect-on-android-devices/</link>
+      <pubDate>Mon, 30 Apr 2018 23:00:00 +0000</pubDate>
       
-      <guid>/post/deleting-saved-and-blank-forms-on-odk-collect/</guid>
+      <guid>/post/installing-odk-collect-on-android-devices/</guid>
       <description>
 
-&lt;p&gt;There will be situations when you will need to delete some forms, either saved or blank forms, from your &lt;strong&gt;ODK Collect&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Installing applications such as &lt;strong&gt;ODK Collect&lt;/strong&gt; on to mobile devices such as mobile phones and tablets is a straightforward process. This tutorial describes how to install applications onto Android-powered devices using the &lt;strong&gt;Google Play Store&lt;/strong&gt;. Specifically, this tutorial shows how to install &lt;strong&gt;ODK Collect&lt;/strong&gt; from the &lt;strong&gt;Google Play Store&lt;/strong&gt; on to your mobile device.&lt;/p&gt;
 
-&lt;p&gt;The most common reason for deleting saved forms is when you have already submitted your finalised forms to your chosen data or forms aggregator (this can be a web-based &lt;strong&gt;ODK server&lt;/strong&gt; provided by &lt;a href=&#34;https://formhub.org&#34; target=&#34;_blank&#34;&gt;Formhub&lt;/a&gt;, &lt;a href=&#34;http://www.surveycto.com/index.html&#34; target=&#34;_blank&#34;&gt;SureyCTO&lt;/a&gt;, &lt;a href=&#34;http://www.kobotoolbox.org&#34; target=&#34;_blank&#34;&gt;KoBoToolbox&lt;/a&gt;, &lt;a href=&#34;https://ona.io&#34; target=&#34;_blank&#34;&gt;ONA&lt;/a&gt; or &lt;a href=&#34;https://opendatakit.org/use/aggregate/&#34; target=&#34;_blank&#34;&gt;ODK Aggregate&lt;/a&gt; and the like or for variants of these servers that are locally-deployed i.e., server installed onto a local computer or through &lt;strong&gt;ODK Briefcase&lt;/strong&gt;) and you want to clear these submitted forms from your &lt;strong&gt;ODK Collect&lt;/strong&gt;. The default behaviour of &lt;strong&gt;ODK Collect&lt;/strong&gt; after forms submissions is to keep a copy of the saved form in &lt;strong&gt;ODK Collect&lt;/strong&gt; (which can be changed in **ODK Collect&amp;rsquo;s **&lt;strong&gt;&lt;em&gt;&amp;lsquo;General Settings&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;). However, extreme caution is always recommended when deleting saved forms because this can potentially lead to loss of data. If in doubt whether saved forms have been submitted already or not, make a backup of the data before deleting the saved forms.&lt;/p&gt;
+&lt;p&gt;This tutorial is aimed at &lt;strong&gt;IT administrators&lt;/strong&gt; and/or &lt;strong&gt;survey managers&lt;/strong&gt; or &lt;strong&gt;coordinators&lt;/strong&gt; who are tasked to setup the mobile devices in preparation for data collection.&lt;/p&gt;
 
-&lt;p&gt;The most common reason for deleting blank forms is to clear out forms that have been used for testing purposes or forms that were downloaded but eventually didn&amp;rsquo;t get used. Since these are blank forms and not associated with any data, these forms can be safely deleted.&lt;/p&gt;
-
-&lt;p&gt;This short tutorial shows how to delete saved forms and blank forms in &lt;strong&gt;ODK Collect&lt;/strong&gt;. This tutorial assumes that you have downloaded forms onto your &lt;strong&gt;ODK Collect&lt;/strong&gt; and may have some saved forms as well.
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;1-open-odk-collect&#34;&gt;1. Open ODK Collect&lt;/h2&gt;
-
-&lt;p&gt;Tap on ODK Collect application. Then tap on the &lt;strong&gt;&lt;em&gt;&amp;lsquo;Delete Saved Form&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; button as shown below.
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/tutorials/open-odk-collect.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;2-deleting-saved-forms&#34;&gt;2. Deleting saved forms&lt;/h2&gt;
-
-&lt;p&gt;You will then see the following screen on &lt;strong&gt;ODK Collect&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;On the upper portion of the &lt;strong&gt;ODK Collect&lt;/strong&gt; screen, you will see two tabs: &lt;strong&gt;Saved Forms (1)&lt;/strong&gt; and &lt;strong&gt;Blank Forms (2)&lt;/strong&gt;. By default, &lt;strong&gt;ODK Collect&lt;/strong&gt; will show first the items under the &lt;strong&gt;Saved Forms&lt;/strong&gt; tab. In the example below, there is one saved form in this &lt;strong&gt;ODK Collect&lt;/strong&gt;. The naming of the form is based on the syntax set during the creation of the form. In this example, it seems the saved form name starts with a date, then and ID and then a name &lt;strong&gt;(3)&lt;/strong&gt;. Below the form name is information on when the form was submitted &lt;strong&gt;(4)&lt;/strong&gt;. This is an indication that can be used to determine whether a saved form has been submitted or not. Remember, before proceeding with deleting saved forms, it would be good to make sure first that the form has been submitted. If in doubt, the recommendation is to backup the data before making any deletions.&lt;/p&gt;
-
-&lt;p&gt;Tick the box on the right side of the saved form name that you want to delete &lt;strong&gt;(5)&lt;/strong&gt;. Then tap on &amp;lsquo;Delete Selected&amp;rsquo; button at the bottom right corner of the &lt;strong&gt;ODK Collect&lt;/strong&gt; screen &lt;strong&gt;(6)&lt;/strong&gt;.
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/tutorials/deleting-saved-forms.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;You will then see the following prompt which will get a confirmation from you whether you really want to delete the form/s that you have selected &lt;strong&gt;(1)&lt;/strong&gt;. Again, make sure that you have submitted this form already or that you have backed up all data. If you are sure you want to delete the form, tap on &lt;strong&gt;&lt;em&gt;&amp;lsquo;Delete Forms&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;** (2)**.
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/tutorials/a21c69e3-7671-494e-bf63-1ef5aefe0328.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;You will then see the following prompt when the deletion has been completed &lt;strong&gt;(1)&lt;/strong&gt;. In this case, since there is no saved forms left, the screen also shows no forms to display &lt;strong&gt;(2)&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Congratulations! You have now deleted saved forms from your &lt;strong&gt;ODK Collect&lt;/strong&gt;.
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/tutorials/d56bc8da-924c-42e9-a384-027ce286b28e.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;3-deleting-blank-forms&#34;&gt;3. Deleting blank forms&lt;/h2&gt;
-
-&lt;p&gt;Deleting blank forms will follow the same steps as deleting saved forms described above.&lt;/p&gt;
-
-&lt;p&gt;When you have done step 1 and are now in the &lt;strong&gt;&lt;em&gt;&amp;lsquo;Delete Saved Form&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; screen &lt;strong&gt;(1)&lt;/strong&gt;, tap on &lt;strong&gt;Blank Forms&lt;/strong&gt; tab &lt;strong&gt;(2)&lt;/strong&gt; to view the blanks forms loaded into your &lt;strong&gt;ODK Collect&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;In this example, there is one blank form called &lt;strong&gt;Incidence (3)&lt;/strong&gt;. Below the form name, the data on which the form was added to &lt;strong&gt;ODK Collect&lt;/strong&gt; is indicated &lt;strong&gt;(4)&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Tick the box on the right side of the form name &lt;strong&gt;(5)&lt;/strong&gt; and then tap on &lt;strong&gt;&lt;em&gt;&amp;lsquo;Delete Selected&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; button &lt;strong&gt;(6)&lt;/strong&gt; on the bottom rigth corner of the screen.
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/tutorials/deleting-blank-forms.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;You will then see a prompt to confirm that you want to delete the selected form/s &lt;strong&gt;(1)&lt;/strong&gt;. Tap on ***&amp;lsquo;Delete Forms&amp;rsquo; ***&lt;strong&gt;(2)&lt;/strong&gt;.
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/tutorials/e42828e2-7adb-4a7a-ad26-ff88136edbd8.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;You will then see a prompt saying that the form has been deleted &lt;strong&gt;(1)&lt;/strong&gt; and that there is no other blank forms to display &lt;strong&gt;(2)&lt;/strong&gt;.
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/tutorials/2613e2dd-296b-416c-bd3a-25b7c61fbf93.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Getting blank forms onto ODK Collect via a server connection</title>
-      <link>/post/getting-blank-forms-onto-odk-collect-via-a-server-connection/</link>
-      <pubDate>Mon, 30 Apr 2018 07:00:00 +0000</pubDate>
-      
-      <guid>/post/getting-blank-forms-onto-odk-collect-via-a-server-connection/</guid>
-      <description>
-
-&lt;p&gt;To be able to use &lt;strong&gt;ODK Collect&lt;/strong&gt; for data collection, pre-designed data collection forms will have to be loaded onto the application. There are generally two ways of performing this task.&lt;/p&gt;
+&lt;p&gt;This tutorial assumes that:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Get blank forms from a pre-configured &lt;strong&gt;ODK server&lt;/strong&gt; designed to distribute blank forms and also to receive form submissions; and,&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Get blank froms directly onto the mobile device via a USB connection with a computer where the pre-designed data collection forms are located.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;You have internet connection;&lt;/li&gt;
+&lt;li&gt;You have a &lt;strong&gt;Google&lt;/strong&gt; account; and,&lt;/li&gt;
+&lt;li&gt;You have access to the &lt;strong&gt;Google Play Store&lt;/strong&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;This tutorial describes how to get blank forrms onto &lt;strong&gt;ODK Collect&lt;/strong&gt; through a pre-configured &lt;strong&gt;ODK server&lt;/strong&gt;. This tutorial is applicable for web-based or cloud-based &lt;strong&gt;ODK servers&lt;/strong&gt; such as &lt;a href=&#34;https://formhub.org&#34; target=&#34;_blank&#34;&gt;Formhub&lt;/a&gt;, &lt;a href=&#34;http://www.surveycto.com/index.html&#34; target=&#34;_blank&#34;&gt;SureyCTO&lt;/a&gt;, &lt;a href=&#34;http://www.kobotoolbox.org&#34; target=&#34;_blank&#34;&gt;KoBoToolbox&lt;/a&gt;, &lt;a href=&#34;https://ona.io&#34; target=&#34;_blank&#34;&gt;ONA&lt;/a&gt; or &lt;a href=&#34;https://opendatakit.org/use/aggregate/&#34; target=&#34;_blank&#34;&gt;ODK Aggregate&lt;/a&gt; or for variants of these servers that are locally-deployed (i.e., server installed onto a local computer). This tutorial assumes that you:&lt;/p&gt;
+&lt;h2 id=&#34;1-open-google-play-store&#34;&gt;1. Open Google Play Store&lt;/h2&gt;
 
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Have an account with one of the web-based or cloud-based &lt;strong&gt;ODK servers&lt;/strong&gt; or that you have your own web-based deployment of one of these &lt;strong&gt;ODK servers&lt;/strong&gt; or its variants or that you have your own locally-deployed &lt;strong&gt;ODK server&lt;/strong&gt;;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt;Have created forms using the &lt;/span&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt;&lt;strong&gt;XLSForm&lt;/strong&gt;&lt;/span&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt; standard. Instructions and guide on how to create forms using &lt;/span&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt;&lt;strong&gt;XLSForm&lt;/strong&gt;&lt;/span&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt; standard can be found &lt;/span&gt;&lt;span style=&#34;color: rgb(142,190,218)&#34;&gt;&lt;a href=&#34;http://xlsform.org/&#34;&gt;here&lt;/a&gt;&lt;/span&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt;. If you have created forms using &lt;/span&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt;&lt;strong&gt;XForms&lt;/strong&gt;&lt;/span&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt; standard, consider using the second approach of transferring blank forms directly onto mobile device via a USB connection with a computer;&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt;Have uploaded your forms onto your &lt;/span&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt;&lt;strong&gt;ODK server&lt;/strong&gt;&lt;/span&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt;. A tutorial on how to upload forms onto an &lt;/span&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt;&lt;strong&gt;ODK server&lt;/strong&gt;&lt;/span&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt; can be found &lt;/span&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt;&lt;a href=&#34;http://sudan.validmeasures.org/publishing-forms-onto-formhub-local-server/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/span&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt;;&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt;Have internet access (for web-based &lt;/span&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt;&lt;strong&gt;ODK servers&lt;/strong&gt;&lt;/span&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt;) or a local area network configured (for locally-deployed &lt;/span&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt;&lt;strong&gt;ODK servers&lt;/strong&gt;&lt;/span&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt;); and,&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt;Have &lt;/span&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt;&lt;strong&gt;ODK Collect&lt;/strong&gt;&lt;/span&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt; installed on your mobile device. &lt;/span&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Now, let&amp;rsquo;s get blank forms onto your mobile device.&lt;/p&gt;
-
-&lt;h2 id=&#34;1-open-odk-collect&#34;&gt;1. Open ODK Collect&lt;/h2&gt;
-
-&lt;p&gt;Find the &lt;strong&gt;ODK Collect&lt;/strong&gt; app icon on your device and tap. You will see the following on your screen.
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/tutorials/open-odk-collect.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;2-configure-odk-collect-server-settings&#34;&gt;2. Configure ODK Collect server settings&lt;/h2&gt;
-
-&lt;p&gt;On the upper right hand corner of the &lt;strong&gt;ODK Collect&lt;/strong&gt; screen, you will see three square dots on top of each other &lt;strong&gt;(1)&lt;/strong&gt;. Click on this and a dropdown menu will appear showing options for &lt;strong&gt;&lt;em&gt;&amp;lsquo;General Settings&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(2)&lt;/strong&gt; and for &lt;strong&gt;&lt;em&gt;&amp;lsquo;Admin Settings&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(3)&lt;/strong&gt;.
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/tutorials/configure-odk-collect-server-settings.png&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;2-1-tap-on-general-settings&#34;&gt;2.1 Tap on General Settings&lt;/h3&gt;
-
-&lt;p&gt;First, we should configure the &lt;strong&gt;&lt;em&gt;&amp;lsquo;General Settings&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; option of &lt;strong&gt;ODK Collect&lt;/strong&gt;. This is what you will see once you tap on &lt;strong&gt;&lt;em&gt;&amp;lsquo;General Settings&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;There are three main &amp;lsquo;General Settings&amp;rsquo; categories that can be configured: &lt;strong&gt;&lt;em&gt;Server Settings&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(1)&lt;/strong&gt;, &lt;strong&gt;&lt;em&gt;Auto Send&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(2)&lt;/strong&gt;, and &lt;strong&gt;&lt;em&gt;User Interface&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(3)&lt;/strong&gt;.
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/tutorials/tap-on-general-settings.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;2-2-tap-on-server-settings&#34;&gt;2.2 Tap on server settings&lt;/h3&gt;
-
-&lt;p&gt;In &lt;strong&gt;&lt;em&gt;&amp;lsquo;Server Settings&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;, there are two main settings that will need configuring: &lt;strong&gt;&lt;em&gt;Platform&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(1)&lt;/strong&gt; and &lt;strong&gt;&lt;em&gt;Platform settings&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(2)&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;First, tap on &lt;strong&gt;&lt;em&gt;Platform&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(1)&lt;/strong&gt;.
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/tutorials/tap-on-server-settings.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;You will then be presented with various platform options that you can select depending on the type of server that you are using for your data collection campaign. &lt;strong&gt;ODK Aggregate&lt;/strong&gt; is the default platform. For anything other than the default &lt;strong&gt;ODK Aggregate&lt;/strong&gt; platform that is provided on &lt;strong&gt;ODK Collect&lt;/strong&gt; by default, you will most likely need to select &lt;strong&gt;Other&lt;/strong&gt; option so that you can specify your own platform for your data collection server.
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/tutorials/7893044c-9d57-4395-8b68-853ed56bebf5.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Next, tap on &lt;strong&gt;&lt;em&gt;&amp;lsquo;Configure platform settings&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(2)&lt;/strong&gt;.
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/tutorials/7298b62a-d734-49a9-b1b6-8f0d6d4baeb6.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;You will then see the following options on your screen. Here you can specify the settings of the server used by your platform specifically the &lt;strong&gt;URL of your server&lt;/strong&gt; &lt;strong&gt;(1)&lt;/strong&gt;, the &lt;strong&gt;username&lt;/strong&gt; &lt;strong&gt;(2)&lt;/strong&gt; and &lt;strong&gt;password&lt;/strong&gt; &lt;strong&gt;(3)&lt;/strong&gt; used to login to your server. If you do not know these settings, you should ask your IT administrator or whoever setup your server platform to provide you with these settings. For most service providers offering servers for use by ODK, these settings are made explicit within your account so all you might need to do is to login to your account and find these settings.
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/tutorials/bb41af04-0c2d-4a35-873d-65783400301e.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;For example, if you are using a locally-deployed &lt;strong&gt;Formhub&lt;/strong&gt; server as your &lt;strong&gt;ODK&lt;/strong&gt; platform, you can find your server settings by logging in to your account and then scrolling down to the bottom of the webpage of the Formhub portal, you will see the following information about your Formhub server which you can use to setup the platform settings on your ODK Collect.
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/tutorials/0f69dcbf-841f-4fcf-a113-b010e4bc7016.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;3-get-blanks-forms-from-the-server&#34;&gt;3. Get blanks forms from the server&lt;/h2&gt;
-
-&lt;p&gt;Once you have configured the server settings, go back to the main screen of &lt;strong&gt;ODK Collect&lt;/strong&gt; (as shown below) and then tap on &lt;strong&gt;&lt;em&gt;&amp;lsquo;Get Blank Form&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;.
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/tutorials/get-blanks-forms-from-the-server.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;You will then see a list of the various blank forms that are available from the server. In the example below, there is only one form available called **Incidence / **&lt;strong&gt;حدوث&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Select this form by ticking the box on its right hand side &lt;strong&gt;&lt;em&gt;(1)&lt;/em&gt;&lt;/strong&gt;. Then tap the button on the bottom right hand corner of the &lt;strong&gt;ODK Collect&lt;/strong&gt; screen labeled ***&amp;lsquo;Get selected&amp;rsquo; ***&lt;strong&gt;(2)&lt;/strong&gt;.
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/tutorials/3bbba33a-8611-48ea-b4a9-a6f4b5220f1e.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;You will then see the following prompt indicating that &lt;strong&gt;ODK Collect&lt;/strong&gt; is communicating with the server and downloading the **Incidence / **&lt;strong&gt;حدوث&lt;/strong&gt; blank form.
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/tutorials/f1845190-e09f-42ff-98c8-88e7154c90bc.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;The following prompt will come out on your screen once the download process is finished.&lt;/p&gt;
-
-&lt;p&gt;Congratulations, you have successfully downloaded a blank form from your specified server!
-&lt;br /&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Localising ODK Collect to specific language</title>
-      <link>/post/localising-odk-collect-to-specific-language/</link>
-      <pubDate>Mon, 30 Apr 2018 06:00:00 +0000</pubDate>
-      
-      <guid>/post/localising-odk-collect-to-specific-language/</guid>
-      <description>
-
-&lt;p&gt;The &lt;strong&gt;ODK Collect&lt;/strong&gt; application for devices running Android can be localised into several different languages. Currently, the application has been fully translated into 11 different languages and is partly translated into 41 other languages.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;ODK Collect&lt;/strong&gt; language localisation is dependent on the language localisation of the mobile device to which &lt;strong&gt;ODK Collect&lt;/strong&gt; is installed in. The language to which the mobile device is set will be the language to which &lt;strong&gt;ODK Collect&lt;/strong&gt; will localise to.&lt;/p&gt;
-
-&lt;p&gt;This tutorial shows how to change the language settings of a mobile device running Android. As an example, this tutorial will show how to change the language settings of the mobile device from &lt;strong&gt;&lt;em&gt;English (United Kingdom)&lt;/em&gt;&lt;/strong&gt; to &lt;strong&gt;&lt;em&gt;Arabic&lt;/em&gt;&lt;/strong&gt;.
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;1-go-to-settings&#34;&gt;1. Go to settings&lt;/h2&gt;
-
-&lt;p&gt;On your tablet device, tap on the &lt;strong&gt;&lt;em&gt;&amp;lsquo;Settings&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;.
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/tutorials/go-to-settings.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;You will then see the following on your tablet screen. There are four (4) tabs on top of the screen named &lt;strong&gt;&lt;em&gt;1) Connections&lt;/em&gt;&lt;/strong&gt;; &lt;strong&gt;&lt;em&gt;2) Device&lt;/em&gt;&lt;/strong&gt;; &lt;strong&gt;&lt;em&gt;3) Controls&lt;/em&gt;&lt;/strong&gt;; and &lt;strong&gt;&lt;em&gt;4) General&lt;/em&gt;&lt;/strong&gt;. These are the four settings categories that can be configured as needed.
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/tutorials/3ba30222-26ba-4975-9997-de287121c885.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;2-tap-on-controls&#34;&gt;2. Tap on &amp;lsquo;Controls&amp;rsquo;&lt;/h2&gt;
-
-&lt;p&gt;To change language settings, tap &lt;strong&gt;&lt;em&gt;&amp;lsquo;Controls&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;** (1), **then tap on &lt;strong&gt;&lt;em&gt;&amp;lsquo;Language and input&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;** (2)** and then tap on &lt;strong&gt;&lt;em&gt;&amp;lsquo;Language&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;** (3)**
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/tutorials/tap-on-controls-.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;You will then see the following Language options on your screen.
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/tutorials/b6c398c9-c109-4358-8e9e-0343200e237c.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;3-select-language-to-set-device-to&#34;&gt;3. Select language to set device to&lt;/h2&gt;
-
-&lt;p&gt;For this example, we will change the language from &lt;strong&gt;&lt;em&gt;English (United Kingdom)&lt;/em&gt;&lt;/strong&gt; to &lt;strong&gt;&lt;em&gt;Arabic&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Scroll down the language list and look for &lt;strong&gt;&lt;em&gt;Arabic (which is written in Arabic script)&lt;/em&gt;&lt;/strong&gt;. Tap to select &lt;strong&gt;&lt;em&gt;Arabic&lt;/em&gt;&lt;/strong&gt;.
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/tutorials/select-language-to-set-device-to.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;You will then see that the language used in your mobile device is now &lt;strong&gt;&lt;em&gt;Arabic&lt;/em&gt;&lt;/strong&gt; as shown below.
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/tutorials/21cfc60b-6205-4c87-9582-6fa840ae89f3.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Setting the default language of your device to a specific language will affect applications installed in your mobile device that also have language localisation features. For these applications, their default language will change to the language of the mobile device.&lt;/p&gt;
-
-&lt;p&gt;This will be the case for &lt;strong&gt;ODK Collect&lt;/strong&gt;. Since you have changed the default language of your device to &lt;strong&gt;&lt;em&gt;Arabic&lt;/em&gt;&lt;/strong&gt;, &lt;strong&gt;ODK Collect&lt;/strong&gt; will now use &lt;strong&gt;&lt;em&gt;Arabic&lt;/em&gt;&lt;/strong&gt; as the default language for the application. This means that the menus and the text in &lt;strong&gt;ODK Collect&lt;/strong&gt; will now all be in &lt;strong&gt;Arabic&lt;/strong&gt; as shown below.&lt;/p&gt;
-
-&lt;p&gt;It should be noted, however, that this language localisation only affects the text in the &lt;strong&gt;ODK Collect&lt;/strong&gt; application. This language localisation will not affect the default language that is set in the forms that are loaded into &lt;strong&gt;ODK Collect&lt;/strong&gt;. So, for example, if a form that is created in English is loaded onto &lt;strong&gt;ODK Collect&lt;/strong&gt; that is localised in &lt;strong&gt;&lt;em&gt;Arabic&lt;/em&gt;&lt;/strong&gt;, the form will still show in &lt;strong&gt;&lt;em&gt;English&lt;/em&gt;&lt;/strong&gt; and not in &lt;strong&gt;&lt;em&gt;Arabic&lt;/em&gt;&lt;/strong&gt;. In order for this form to be localised into &lt;strong&gt;&lt;em&gt;Arabic&lt;/em&gt;&lt;/strong&gt;, the form should have been authored in both &lt;strong&gt;&lt;em&gt;English&lt;/em&gt;&lt;/strong&gt; and &lt;strong&gt;&lt;em&gt;Arabic&lt;/em&gt;&lt;/strong&gt; and then the language settings for the form is set into &lt;strong&gt;&lt;em&gt;Arabic&lt;/em&gt;&lt;/strong&gt; (as shown in this &lt;a href=&#34;http://sudan.validmeasures.org/changing-odk-collect-language-settings/&#34; target=&#34;_blank&#34;&gt;tutorial&lt;/a&gt;).
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/tutorials/dda85138-ec23-465f-8171-a449792e2207.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Changing ODK Collect language settings</title>
-      <link>/post/changing-odk-collect-language-settings/</link>
-      <pubDate>Mon, 30 Apr 2018 05:00:00 +0000</pubDate>
-      
-      <guid>/post/changing-odk-collect-language-settings/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;ODK Collect&lt;/strong&gt; supports forms written in multiple languages. &lt;strong&gt;XLSForm&lt;/strong&gt; or &lt;strong&gt;XForms&lt;/strong&gt; standard used for creating forms usable in &lt;strong&gt;ODK Collect&lt;/strong&gt; also provide functionality that encodes multiple language support within the same single form being created (for more information, see &lt;a href=&#34;http://xlsform.org/#language&#34; target=&#34;_blank&#34;&gt;multiple language support in XLSForm standard&lt;/a&gt;). If a form has been created to support multiple languages, &lt;strong&gt;ODK Collect&lt;/strong&gt; is able to provide options for users to change the language of the form as needed.&lt;/p&gt;
-
-&lt;p&gt;This tutorial describes how to change the &lt;strong&gt;ODK Collect&lt;/strong&gt; language settings. This tutorial assumes that:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;You have &lt;strong&gt;ODK Collect&lt;/strong&gt; installed on your mobile device. See &lt;a href=&#34;http://sudan.validmeasures.org/installing-odk-collect-1/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; for instructions on installing &lt;strong&gt;ODK Collect&lt;/strong&gt; onto your mobile device.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;You already have created a form using &lt;strong&gt;XLSForm&lt;/strong&gt; standard that has multiple languages encoded. See &lt;a href=&#34;http://xlsform.org&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; for a guide on how to create forms using &lt;strong&gt;XLSForm&lt;/strong&gt; and &lt;a href=&#34;http://xlsform.org/#language&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; for a guide on how to included multiple language support on your form.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;You have already uploaded your form that supports multiple languages onto &lt;strong&gt;ODK Collect&lt;/strong&gt;.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;This tutorial is aimed at &lt;strong&gt;IT administrators&lt;/strong&gt; and/or &lt;strong&gt;survey managers&lt;/strong&gt; or &lt;strong&gt;coordinators&lt;/strong&gt; to allow them to change language settings on &lt;strong&gt;ODK Collect&lt;/strong&gt; in time for data collection.
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;1-open-a-blank-form-that-supports-multiple-languages&#34;&gt;1. Open a blank form that supports multiple languages&lt;/h2&gt;
-
-&lt;p&gt;Tap on &lt;strong&gt;ODK Collect&lt;/strong&gt; then tap on &lt;strong&gt;&lt;em&gt;&amp;lsquo;Fill Blank Form&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;.
-&lt;img src=&#34;/img/tutorials/open-a-blank-form-that-supports-multiple-languages.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;You will then be shown a list of forms that are uploaded onto your &lt;strong&gt;ODK Collect&lt;/strong&gt;. Tap on the form that you want to use in &lt;strong&gt;ODK Collect&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;In this example, only one form is loaded onto &lt;strong&gt;ODK Collect&lt;/strong&gt;. The form&amp;rsquo;s name is in &lt;strong&gt;&lt;em&gt;Arabic&lt;/em&gt;&lt;/strong&gt;.
-&lt;img src=&#34;/img/tutorials/6b560b03-49a4-41a4-9a52-505f66ef32e1.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;After tapping on the form you want to use in &lt;strong&gt;ODK Collect&lt;/strong&gt;, you will be presented with the &lt;strong&gt;&lt;em&gt;&amp;lsquo;cover page&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; of the form that shows:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;The form logo if it has been provided by the creator of the form and if the logo has been uploaded into &lt;strong&gt;ODK Collect&lt;/strong&gt; as well. In the example below the form logo has been provided &lt;strong&gt;(1)&lt;/strong&gt;.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;An introductory message &lt;strong&gt;(2)&lt;/strong&gt; saying that you are at the start of the form that you selected and instructing you to tap the arrow buttons below to go backward and forward on the forms or to swipe backward and forward depending on how ODK has been configured (see &lt;a href=&#34;http://sudan.validmeasures.org/configuring-odk-collect-for-data-collection/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; regarding &lt;strong&gt;ODK Collect&lt;/strong&gt; settings and configuration).&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Tap on the forward button (or do a forward swipe) to see the first page of the form and to have an idea of what the form&amp;rsquo;s default language is &lt;strong&gt;(3)&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;In this example, we will take a look at what the form with an &lt;strong&gt;&lt;em&gt;Arabic&lt;/em&gt;&lt;/strong&gt; name looks like and what default language it uses.
-&lt;img src=&#34;/img/tutorials/19b29197-8fa7-4c88-bc7c-cd74265e9b9e.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;You now get to see the first page &lt;strong&gt;(1)&lt;/strong&gt; of the form that you have selected. &lt;strong&gt;ODK Collect&lt;/strong&gt; will always dispaly the form in the default language set for the form. Hence, the language that you see being used in the form in the first page is the default language of the form.&lt;/p&gt;
-
-&lt;p&gt;In this example, the default language of the form is English.&lt;/p&gt;
-
-&lt;p&gt;Now, tap on the backward button &lt;strong&gt;(2)&lt;/strong&gt; to get back to the &lt;strong&gt;&lt;em&gt;&amp;lsquo;cover page&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; of the form.
-&lt;img src=&#34;/img/tutorials/891c82f3-1856-43b3-b18b-fb2ecb6de605.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;2-go-to-odk-collect-s-change-language-settings&#34;&gt;2. Go to ODK Collect&amp;rsquo;s Change Language settings&lt;/h2&gt;
-
-&lt;p&gt;Once you are back to the &lt;strong&gt;&lt;em&gt;&amp;lsquo;cover page&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;, look at the top right corner of the screen. Here you will see an icon with three square dots on top of each other &lt;strong&gt;(1)&lt;/strong&gt;. This is the button that allows you to change the settings of &lt;strong&gt;ODK Collect&lt;/strong&gt; including the &lt;strong&gt;&lt;em&gt;&amp;lsquo;Change Language&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; settings &lt;strong&gt;(2)&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Once you have located this, tap on &lt;strong&gt;&lt;em&gt;&amp;lsquo;Change Language&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;.
-&lt;img src=&#34;/img/tutorials/go-to-odk-collect-s-change-language-settings.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;3-select-language-you-want-to-use-for-your-form&#34;&gt;3. Select language you want to use for your form&lt;/h2&gt;
-
-&lt;p&gt;You will then see the following dialog box giving options of the languages supported by the form. The selected language is the language that is currently being used by the form. Choose the language that you want to use for the form.&lt;/p&gt;
-
-&lt;p&gt;In the example below, the form is currently using &lt;strong&gt;&lt;em&gt;English&lt;/em&gt;&lt;/strong&gt;. We wil now select ***Arabic *** by tapping on the radio button beside that specific language.
-&lt;img src=&#34;/img/tutorials/select-language-you-want-to-use-for-your-form.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;4-check-the-language-now-used-by-the-form&#34;&gt;4. Check the language now used by the form&lt;/h2&gt;
-
-&lt;p&gt;You can now check the language being used by the form by tapping on the forward button again from the &lt;strong&gt;&lt;em&gt;&amp;lsquo;cover page&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;. You will now see that the form is displayed in the language that you have chosen which in this example is &lt;strong&gt;&lt;em&gt;Arabic&lt;/em&gt;&lt;/strong&gt;.
-&lt;img src=&#34;/img/tutorials/check-the-language-now-used-by-the-form.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Configuring ODK Collect for data collection</title>
-      <link>/post/configuring-odk-collect-for-data-collection/</link>
-      <pubDate>Mon, 30 Apr 2018 04:00:00 +0000</pubDate>
-      
-      <guid>/post/configuring-odk-collect-for-data-collection/</guid>
-      <description>
-
-&lt;p&gt;Once &lt;strong&gt;ODK Collect&lt;/strong&gt; has been installed on the mobile device/s that you will be using for data collection, you may want to configure it&amp;rsquo;s settings so as to be able to fully maximise its use and also to make it as easy as possible to use by your enumerators. Depending on how involved you aim your enumerators to be in the management of the data collection process, you may want to make available or limit certain settings or functions of &lt;strong&gt;ODK Collect&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;This tutorial describes how to setup the various configuration options of &lt;strong&gt;ODK Collect&lt;/strong&gt; with the aim of minimising possible unintended interference by enumerators on the various settings that might be detrimental to your data collection campaign. These include the options to load blank forms and change the settings of the server platform (if you are using any). This guide is aimed at IT administrators and/or survey coordinators/managers who will be setting up &lt;strong&gt;ODK Collect&lt;/strong&gt; prior to distribution of the mobile devices to enumerators.&lt;/p&gt;
-
-&lt;p&gt;This tutorial assumes that &lt;strong&gt;ODK Collect&lt;/strong&gt; is already installed on your mobile devices. The following &lt;a href=&#34;http://sudan.validmeasures.org/installing-odk-collect-1/&#34; target=&#34;_blank&#34;&gt;tutorial&lt;/a&gt; shows how to install &lt;strong&gt;ODK Collect&lt;/strong&gt; on mobile devices.
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;1-open-odk-collect&#34;&gt;1. Open ODK Collect&lt;/h2&gt;
-
-&lt;p&gt;Find the &lt;strong&gt;ODK Collect&lt;/strong&gt; app icon on your device and tap. You will see the following on your screen. This is the default configuration of ODK Collect when it is first installed on a device and the configurations have not been changed yet.
-&lt;img src=&#34;/img/tutorials/open-odk-collect.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;2-tap-on-the-odk-collect-settings-menu&#34;&gt;2. Tap on the ODK Collect settings menu&lt;/h2&gt;
-
-&lt;p&gt;On the upper right hand corner, you will see three square dots on top of each other &lt;strong&gt;(1)&lt;/strong&gt;. Click on this and a dropdown menu will appear showing options for &lt;strong&gt;&lt;em&gt;&amp;lsquo;General Settings&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(2)&lt;/strong&gt; and for &lt;strong&gt;&lt;em&gt;&amp;lsquo;Admin Settings&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(3)&lt;/strong&gt;.
-&lt;img src=&#34;/img/tutorials/tap-on-the-odk-collect-settings-menu.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;3-tap-on-general-settings&#34;&gt;3. Tap on General Settings&lt;/h2&gt;
-
-&lt;p&gt;First, we should configure the &lt;strong&gt;&lt;em&gt;&amp;lsquo;General Settings&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; option of &lt;strong&gt;ODK Collect&lt;/strong&gt;. This is what you will see once you tap on &lt;strong&gt;&lt;em&gt;&amp;lsquo;General Settings&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;There are three main &amp;lsquo;General Settings&amp;rsquo; categories that can be configured: &lt;strong&gt;&lt;em&gt;Server Settings&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(1)&lt;/strong&gt;, &lt;strong&gt;&lt;em&gt;Auto Send&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(2)&lt;/strong&gt;, and &lt;strong&gt;&lt;em&gt;User Interface&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(3)&lt;/strong&gt;.
-&lt;img src=&#34;/img/tutorials/tap-on-general-settings.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;3-1-configure-server-settings&#34;&gt;3.1 Configure Server settings&lt;/h3&gt;
-
-&lt;p&gt;In &lt;strong&gt;&lt;em&gt;&amp;lsquo;Server Settings&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;, there are three main settings that will need configuring: &lt;strong&gt;&lt;em&gt;Platform&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(1)&lt;/strong&gt;, &lt;strong&gt;&lt;em&gt;Platform settings&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(2)&lt;/strong&gt; and &lt;strong&gt;&lt;em&gt;Google account&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(3)&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;First, tap on &lt;strong&gt;&lt;em&gt;Platform&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(1)&lt;/strong&gt;.
-&lt;img src=&#34;/img/tutorials/configure-server-settings.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;You will then be presented with various platform options that you can select depending on the type of server that you are using for your data collection campaign. &lt;strong&gt;ODK Aggregate&lt;/strong&gt; is the default platform. For anything other than the default &lt;strong&gt;ODK Aggregate&lt;/strong&gt; platform that is provided on &lt;strong&gt;ODK Collect&lt;/strong&gt; by default, you will most likley need to select &lt;strong&gt;Other&lt;/strong&gt; option so that you can specify your own platform for your data collection server.
-&lt;img src=&#34;/img/tutorials/31ef1184-ca3c-4bce-bc48-8c353c74c89c.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Next, tap on &lt;strong&gt;&lt;em&gt;&amp;lsquo;Configure platform settings&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(2)&lt;/strong&gt;.
-&lt;img src=&#34;/img/tutorials/a7f48316-38cf-4341-af23-43862b88ce14.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;You will then see the following options on your screen. Here you can specify the settings of the server used by your platform specifically the &lt;strong&gt;URL of your server&lt;/strong&gt; &lt;strong&gt;(1)&lt;/strong&gt;, the &lt;strong&gt;username&lt;/strong&gt; &lt;strong&gt;(2)&lt;/strong&gt; and &lt;strong&gt;password&lt;/strong&gt; &lt;strong&gt;(3)&lt;/strong&gt; use to login to your server. If you do not know these settings, you should ask your IT administrator or whoever setup your server platform to provide you with these settings. For most service providers offering servers for use by ODK, these settings are made explicit within your account so all you might need to do is to login to your account and find these settings.
-&lt;img src=&#34;/img/tutorials/88cfe68e-ce2c-4df7-8d57-f75de667a6f3.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;For example, if you are using a locally-deployed &lt;strong&gt;Formhub&lt;/strong&gt; server as your &lt;strong&gt;ODK&lt;/strong&gt; platform, you can find your server settings by logging in to your account and then scrolling down to the bottom of the webpage of the Formhub portal, you will see the following information about your Formhub server which you can use to setup the platform settings on your ODK Collect.
-&lt;img src=&#34;/img/tutorials/72c17efc-c1d2-409a-8670-f542ef7df08e.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Next, configure your &lt;strong&gt;&lt;em&gt;&amp;lsquo;Google accont&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; if you have one. This is not absolutely necessary and should be configured if you want to connect your &lt;strong&gt;ODK Collect&lt;/strong&gt; with your &lt;strong&gt;Google account&lt;/strong&gt; (if you have one). The advantage of doing this is that your data can be backed up to your &lt;strong&gt;Google account&lt;/strong&gt;.
-&lt;img src=&#34;/img/tutorials/08563fc6-c78c-41d2-9fdd-73d6a0c4d0bf.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;3-2-configure-auto-send-settings&#34;&gt;3.2 Configure Auto Send settings&lt;/h3&gt;
-
-&lt;p&gt;Now you can configure &lt;strong&gt;Auto Send&lt;/strong&gt; settings. There are two settings to setup: &lt;strong&gt;&lt;em&gt;&amp;lsquo;Auto send with Wi-Fi&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(1)&lt;/strong&gt; and &lt;strong&gt;&lt;em&gt;&amp;lsquo;Auto send with network&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(2)&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;By default, these options are unchecked. It is recommended that you keep the default (unchecked) settings in place. This would mean that completed and finalised forms will be saved onto the device memory even when the device is connected on Wi-Fi and will not be sent unless the user specifically sends the forms for submission over the internet. It is good to have it this way because this allows for some type of checking of forms on the tablets themselves before they are sent to the server.
-This is also good when there is no reliable Wi-Fi and/or network connection or if no server has been setup for the data collection campaign. The option to send the forms by Wi-Fi or over the network can be done later on when there is reliable network and/or when a server has been setup. Otherwise, manual sending of finalised forms via direct mobile device to computer connection can be done.
-&lt;img src=&#34;/img/tutorials/configure-auto-send-settings.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;3-3-configure-user-interface-settings&#34;&gt;3.3 Configure User Interface settings&lt;/h3&gt;
-
-&lt;p&gt;Now you can configure the &lt;strong&gt;&lt;em&gt;&amp;lsquo;User Interface&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; settings. Following are the settings that you can configure or change:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Constraint processing behaviour&lt;/em&gt;&lt;/strong&gt;** (1)** - this is the option that determines how &lt;strong&gt;ODK Collect&lt;/strong&gt; processes the check and constraints that have been specified in your form. There are two options here. The first option is for &lt;strong&gt;ODK Collect&lt;/strong&gt; to process the constraints at the end of the form when you are about to finalise the form. The second option is for &lt;strong&gt;ODK Collect&lt;/strong&gt; to process the constraints everytime you move to the next question in the form. The default behaviour is to process the constraints after every question. It is recommended that the default option be kept (Validate upon forward swipe).&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Navigation&lt;/em&gt;&lt;/strong&gt;** (2)** - this is the option that determines how the user can move from one question to the next in a form. The default behaviour is to use horizontal swipes. It is recommended that the option for use of forward/backward buttons be selected instead. Swiping is very user dependent and not all find it easy to use swiping gestures to move to the next question. Buttons, however, is universally acceptable and easy to train enumerators on using.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Text font size&lt;/em&gt;&lt;/strong&gt;** (3)** - this is the option to change the font size used in &lt;strong&gt;ODK Collect&lt;/strong&gt;. By default, this is set to Medium. This default is more than adequate and can be kept as is.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Default to finalized&lt;/em&gt;&lt;/strong&gt;** (4)** - this is the option of whether all forms are by default finalized when you reach the end of the questionnaire. This is by default checked and when you reach the end of your questionnaire, you will see a prompt asking whether you want to mark the form as finalized and this option will be checked automatically because of this setting. It is recommended to keep this setting as is.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Delete after send&lt;/em&gt;&lt;/strong&gt;** (5)** - this is the option of whether forms should be deleted after it has been sent to the server. By default this is unchecked. It is recommended that this option be kept unchecked as it is useful to have the forms kept on the devices as backup which can be retrieved later on manually via mobile device to computer connection as a form of backup. This is especially important in settings where internet is unreliable and that a backup of the data on the device is crucial.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Enable hi-res video&lt;/em&gt;&lt;/strong&gt;** (6)** - this is the option of whether hi-res video playback is required. Unless you require video for your forms, it is recommended to uncheck this option.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Show splash screen&lt;/em&gt;&lt;/strong&gt;** (7)** - this option determines if a splash screen on startup of &lt;strong&gt;ODK Collect&lt;/strong&gt; should be shown. This option by default is turned off. It is recommended that this default is kept as is as there is no need for a splash screen and this only delays the startup of the &lt;strong&gt;ODK Collect&lt;/strong&gt; application.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/tutorials/configure-user-interface-settings.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;4-tap-on-admin-settings&#34;&gt;4. Tap on Admin Settings&lt;/h2&gt;
-
-&lt;p&gt;Now, you should configure the &lt;strong&gt;&lt;em&gt;&amp;lsquo;Admin Settings&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(3)&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;The &lt;strong&gt;&lt;em&gt;&amp;lsquo;Admin Settings&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; allow you to control what kinds of items are made available to the user of &lt;strong&gt;ODK Collect&lt;/strong&gt;.
-&lt;img src=&#34;/img/tutorials/tap-on-admin-settings.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;4-1-setting-an-admin-password&#34;&gt;4.1 Setting an Admin password&lt;/h3&gt;
-
-&lt;p&gt;If you would like to block access to the &lt;strong&gt;&lt;em&gt;&amp;lsquo;Admin Settings&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; on the &lt;strong&gt;ODK Collect&lt;/strong&gt;, it would be recommended to set a password for access.
-&lt;img src=&#34;/img/tutorials/setting-an-admin-password.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;4-2-form-processing-logic&#34;&gt;4.2 Form processing logic&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;&amp;lsquo;Form processing logic&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; settings should be kept as default.
-&lt;img src=&#34;/img/tutorials/form-processing-logic.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;4-3-configure-user-can-access-main-menu-items-settings&#34;&gt;4.3 Configure User Can Access Main Menu Items settings&lt;/h3&gt;
-
-&lt;p&gt;Now to configure the &lt;strong&gt;&lt;em&gt;&amp;lsquo;User Can Access Main Menu Items&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; settings.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Edit Saved Form&lt;/em&gt;&lt;/strong&gt;** (1)** - this is checked by default. Keep checked.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Send Finalized Form&lt;/em&gt;&lt;/strong&gt;** (2)** - this is checked by default. Keep checked.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Get Blank Form&lt;/em&gt;&lt;/strong&gt;** (3)** - this is checked by default. Uncheck this option. Unchecking this will hide it from the Main Menu. This will prevent unintended pulling of forms from the server that is not needed for your current data collection campaign.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;***Delete Saved Form ***&lt;strong&gt;(4)&lt;/strong&gt; - this is checked by default. Uncheck this option. Unchecking this will hide is from the Main Menu. This will prevent unintended deletion of forms from the &lt;strong&gt;ODK Collect&lt;/strong&gt;.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/tutorials/configure-user-can-access-main-menu-items-settings.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;4-4-configure-user-can-access-change-settings-items-settings&#34;&gt;4.4 Configure User Can Access Change Settings Items settings&lt;/h3&gt;
-
-&lt;p&gt;Now, configure the &lt;strong&gt;&lt;em&gt;&amp;lsquo;User Can Access Change Settings Items&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; settings.&lt;/p&gt;
-
-&lt;p&gt;The first five settings are shown here &lt;strong&gt;(1-5)&lt;/strong&gt;. It is recommended that all of these be unchecked to avoid unintend changing of settings.
-&lt;img src=&#34;/img/tutorials/configure-user-can-access-change-settings-items-settings.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;The next set of settings are shown here &lt;strong&gt;(6-14)&lt;/strong&gt;. All these settings should be unchecked except for &lt;strong&gt;&lt;em&gt;&amp;lsquo;Text font size&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;. This will avoid unintended changing of settings.
-&lt;img src=&#34;/img/tutorials/a9e43315-b32f-48b0-a0eb-074265679696.png&#34;` /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;4-5-configure-user-can-access-form-entry-items-settings&#34;&gt;4.5 Configure User Can Access Form Entry Items settings&lt;/h3&gt;
-
-&lt;p&gt;Now you can configure &lt;strong&gt;&lt;em&gt;&amp;lsquo;User Can Access Form Entry Items&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; settings.&lt;/p&gt;
-
-&lt;p&gt;The settings are shown below &lt;strong&gt;(1-6)&lt;/strong&gt;. All options should be kept checked except for &lt;strong&gt;&lt;em&gt;&amp;lsquo;Name this Form&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; which should be unchecked.
-&lt;img src=&#34;/img/tutorials/configure-user-can-access-form-entry-items-settings.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;5-reminders&#34;&gt;5. Reminders&lt;/h2&gt;
-
-&lt;p&gt;You should configure the &lt;strong&gt;&lt;em&gt;General Settings&lt;/em&gt;&lt;/strong&gt; first before you change the &lt;strong&gt;&lt;em&gt;Admin Settings&lt;/em&gt;&lt;/strong&gt;. This is because the menu items needed to configure General Settings will not be available to you anymore one you have changed the Admin Settings as per recommendation above.&lt;/p&gt;
-
-&lt;p&gt;This means you should also get the blank forms loaded onto &lt;strong&gt;ODK Collect&lt;/strong&gt; already before changing the &lt;strong&gt;&lt;em&gt;Admin Settings&lt;/em&gt;&lt;/strong&gt; because you will not have the option to get blank forms once you have changed the &lt;strong&gt;&lt;em&gt;Admin Settings&lt;/em&gt;&lt;/strong&gt;. However, if you need to load forms onto &lt;strong&gt;ODK Collect&lt;/strong&gt;, you can still do so by transferring the &lt;strong&gt;XForms&lt;/strong&gt; version of the form straight into the mobile device from your computer using a mobile device to computer connection. Or you can activate the &lt;strong&gt;&lt;em&gt;Get Blank Forms&lt;/em&gt;&lt;/strong&gt; option again so that you can pull the blank forms from your server.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Installing ODK Collect without using Google Play Store - Approach 2</title>
-      <link>/post/installing-odk-collect-without-using-google-play-store-2/</link>
-      <pubDate>Mon, 30 Apr 2018 03:00:00 +0000</pubDate>
-      
-      <guid>/post/installing-odk-collect-without-using-google-play-store-2/</guid>
-      <description>
-
-&lt;p&gt;There are situations in which access to the &lt;strong&gt;Google Play Store&lt;/strong&gt; might be limited for a variety reasons.&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;You may not have a &lt;strong&gt;Google account&lt;/strong&gt; which is required to be able to access the &lt;strong&gt;Google Play Store&lt;/strong&gt;;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;There may be region or country-specific limitations to accessing either your &lt;strong&gt;Google account&lt;/strong&gt; or &lt;strong&gt;Google Play Store&lt;/strong&gt; or both; or,&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;There is simply no internet connectivity in the area you are located in.&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Such situations would limit your ability to install applications including &lt;strong&gt;ODK Collect&lt;/strong&gt;. This is a problem when the mobile devices you are going to use for your data collection are not yet configured and &lt;strong&gt;ODK Collect&lt;/strong&gt; not yet installed.&lt;/p&gt;
-
-&lt;p&gt;This tutorial addresses the problem described in &lt;strong&gt;&lt;em&gt;situation 1&lt;/em&gt;&lt;/strong&gt; and &lt;strong&gt;&lt;em&gt;2&lt;/em&gt;&lt;/strong&gt; above where access to &lt;strong&gt;Google account&lt;/strong&gt; and/or &lt;strong&gt;Google Play Store&lt;/strong&gt; is limited but access to internet is not.&lt;/p&gt;
-
-&lt;p&gt;For &lt;strong&gt;&lt;em&gt;situation 3&lt;/em&gt;&lt;/strong&gt;, steps 2 and 3 of this tutorial will still apply but it would require that you have already done step 1 ahead of time where access to internet is available which will allow you to download a copy of the application on your tablet.&lt;/p&gt;
-
-&lt;p&gt;This tutorial shows how to install &lt;strong&gt;ODK Collect&lt;/strong&gt; without using &lt;strong&gt;Google Play Store&lt;/strong&gt; (and without requiring a &lt;strong&gt;Google account&lt;/strong&gt;). Instead, the &lt;strong&gt;Open Data Kit&lt;/strong&gt; application package is downloaded direct onto your tablet and then installed directly without going through &lt;strong&gt;Google Play Store&lt;/strong&gt;.
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;1-download-open-data-kit-apk&#34;&gt;1. Download Open Data Kit APK&lt;/h2&gt;
-
-&lt;p&gt;First you need to download the &lt;strong&gt;Open Data Kit APK&lt;/strong&gt; on your tablet. &lt;strong&gt;APK&lt;/strong&gt; is short for Android application package which is the package file format used by the Android operating system for distribution and installation of mobile apps. Here are the steps to download the &lt;strong&gt;Open Data Kit APK&lt;/strong&gt; on your tablet.
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;1-1-go-to-the-open-data-kit-website&#34;&gt;1.1 Go to the Open Data Kit website&lt;/h3&gt;
-
-&lt;p&gt;Using the web browser in your tablet, type in &lt;a href=&#34;https://opendatakit.org.&#34;&gt;https://opendatakit.org.&lt;/a&gt; You will then see the following webpage on your tablet&amp;rsquo;s browser.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/tutorials/Screenshot_2016-02-11-08-14-00-640x1024.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;1-2-go-to-the-download-page&#34;&gt;1.2 Go to the Download page&lt;/h3&gt;
-
-&lt;p&gt;On top of the webpage, you will see the menu of the website one of which is named &lt;strong&gt;&lt;em&gt;&amp;lsquo;Download&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Tap on &lt;strong&gt;&lt;em&gt;&amp;lsquo;Download&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;.
-&lt;img src=&#34;/img/tutorials/go-to-the-download-page-1-1-640x1024.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;1-3-select-the-odk-collect-apk-from-the-download-list&#34;&gt;1.3 Select the ODK Collect APK from the download list&lt;/h3&gt;
-
-&lt;p&gt;Once you are at the Download page, you will see a list of the various downloads that are available from the Open Data Kit site.&lt;/p&gt;
-
-&lt;p&gt;You will find the &lt;strong&gt;ODK Collect APK&lt;/strong&gt; as item number 3 in the Collect section of the Download page &lt;strong&gt;(1)&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Once you have found the &lt;strong&gt;ODK Collect APK&lt;/strong&gt;, tap on the link.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/tutorials/select-the-odk-collect-apk-from-the-download-list-1-1-640x1024.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;1-4-tap-download&#34;&gt;1.4 Tap Download&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/tutorials/tap-download-640x1024.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;2-set-up-tablet-device-to-allow-installation-of-applications-outside-of-the-google-play-store&#34;&gt;2. Set-up tablet device to allow installation of applications outside of the Google Play Store&lt;/h2&gt;
-
-&lt;p&gt;You will now need to set-up your tablet device to allow installation of application outside of &lt;strong&gt;Google Play Store&lt;/strong&gt;. Following are the steps you need to take.
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;2-1-go-to-security-settings-of-your-tablet&#34;&gt;2.1 Go to Security settings of your tablet&lt;/h3&gt;
-
-&lt;p&gt;In your tablet device, open the &lt;strong&gt;&lt;em&gt;Settings&lt;/em&gt;&lt;/strong&gt; application, then navigate to the &lt;strong&gt;&lt;em&gt;General&lt;/em&gt;&lt;/strong&gt; tab &lt;strong&gt;(1)&lt;/strong&gt; &amp;nbsp;and then the &lt;strong&gt;&lt;em&gt;Security&lt;/em&gt;&lt;/strong&gt; settings &lt;strong&gt;(2)&lt;/strong&gt;. You will now see the various &lt;strong&gt;&lt;em&gt;Security&lt;/em&gt;&lt;/strong&gt; settings. For this step, you wll need to focus on the &lt;strong&gt;&lt;em&gt;Device Administration&lt;/em&gt;&lt;/strong&gt; section specifically the &lt;strong&gt;&lt;em&gt;Unknown sources&lt;/em&gt;&lt;/strong&gt; option &lt;strong&gt;(3)&lt;/strong&gt;. This is the option that will allow you to install applications from other sources other than the Google Play Store. By default, this option is not checked. Check this option.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/tutorials/go-to-security-settings-of-your-tablet.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;2-2-nbsp-set-up-tablet-device-to-allow-installation-of-applications-outside-of-the-google-play-store&#34;&gt;2.2 &amp;nbsp; Set-up tablet device to allow installation of applications outside of the Google Play Store&lt;/h3&gt;
-
-&lt;p&gt;Once you check this option, you will get a warning regarding installint application from unknown sources. Tap on &lt;strong&gt;&lt;em&gt;&amp;lsquo;OK&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; to continue.
-&lt;img src=&#34;/img/tutorials/31-set-up-tablet-device-to-allow-installation-of-applications-outside-of-the-google-play-store.png&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/open-google-play-store.png&#34; /&gt;
 &lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;The option to install from unknown sources is now checked &lt;strong&gt;(1)&lt;/strong&gt;. You can now continue with the next steps for installing &lt;strong&gt;ODK Collect&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/tutorials/31-set-up-tablet-device-to-allow-installation-of-applications-outside-of-the-google-play-store-1.png&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/a60d5834-1bc4-4628-b69e-6e32ca96d1a5.png&#34; /&gt;
 &lt;br /&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;3-install-odk-collect-on-your-tablet&#34;&gt;3. Install ODK Collect on your tablet&lt;/h2&gt;
+&lt;h2 id=&#34;2-search-for-odk-collect&#34;&gt;2. Search for ODK Collect&lt;/h2&gt;
 
-&lt;p&gt;Now, you need to install &lt;strong&gt;ODK Collect&lt;/strong&gt; on your tablet using the &lt;strong&gt;ODK Collect APK&lt;/strong&gt; that you just transferred to your tablet. This can be done by following these steps.
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/search-for-odk-collect.png&#34; /&gt;
 &lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;3-1-navigate-to-the-download-folder-of-your-tablet&#34;&gt;3.1 Navigate to the Download folder of your tablet&lt;/h3&gt;
 
-&lt;p&gt;For this step, you will need a file manager application to be able to navigate the contents of your tablet. For some devices such as those from the Samsung line of mobile devices, there is a pre-installed file manager application called &lt;strong&gt;&lt;em&gt;&amp;lsquo;My Files&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;3-tap-on-odk-collect&#34;&gt;3. Tap on ODK Collect&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&#34;/img/tutorials/navigate-to-the-download-folder-of-your-tablet.png&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/tap-on-odk-collect.png&#34; /&gt;
 &lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;Open the &lt;strong&gt;&lt;em&gt;&amp;lsquo;My Files&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; file manager application and then click on ***&amp;lsquo;Device Storage&amp;rsquo; ***&lt;strong&gt;(1)&lt;/strong&gt;. You will now see all the folders inside the tablet including the &lt;strong&gt;Download&lt;/strong&gt; folder &lt;strong&gt;(2)&lt;/strong&gt;. Open the &lt;strong&gt;Download&lt;/strong&gt; folder.&lt;/p&gt;
+&lt;h2 id=&#34;4-install-odk-collect&#34;&gt;4. Install ODK Collect&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&#34;/img/tutorials/41-navigate-to-download-folder-of-your-tablet.png&#34; /&gt;
+&lt;p&gt;Tap on &lt;strong&gt;&lt;em&gt;&amp;lsquo;Install&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; to start installation of &lt;strong&gt;ODK collect&lt;/strong&gt;.
+&lt;img src=&#34;/img/tutorials/install-odk-collect.png&#34; /&gt;
 &lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;You will now see the &lt;strong&gt;ODK Collect APK&lt;/strong&gt; which you have transferred earlier from your computer &lt;strong&gt;(1)&lt;/strong&gt;. You can now proceed with installing the &lt;strong&gt;ODK Collect APK&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/tutorials/41-navigate-to-download-folder-on-your-tablet.png&#34; /&gt;
+&lt;p&gt;Give permissions to ODK Collect to access your information and other related applications in your device to proceed with installation.
+&lt;img src=&#34;/img/tutorials/aee6a05f-b4d5-43c5-976e-269b07e78972.png&#34; /&gt;
 &lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;3-2-tap-on-the-odk-collect-apk&#34;&gt;3.2 Tap on the ODK Collect APK&lt;/h3&gt;
 
-&lt;p&gt;Once you have found the &lt;strong&gt;ODK Collect APK&lt;/strong&gt; on the &lt;strong&gt;Download&lt;/strong&gt; folder of your tablet, tap the APK to initiate installation. You will now see the following prompt on your tablet screen. Tap &lt;strong&gt;&lt;em&gt;&amp;lsquo;Next&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;5-wait-while-odk-collect-installs&#34;&gt;5. Wait while ODK Collect installs&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&#34;/img/tutorials/tap-on-the-odk-collect-apk.png&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/wait-while-odk-collect-installs.png&#34; /&gt;
 &lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;The next screen will look like this. Tap on &lt;strong&gt;&lt;em&gt;&amp;lsquo;Intsall&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/tutorials/42-tap-on-the-odk-collect-apk.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;6-open-odk-collect&#34;&gt;6. Open ODK Collect&lt;/h2&gt;
 
-&lt;p&gt;The next screen will indicate that ODK Collect is now installing on your tablet.&lt;/p&gt;
+&lt;p&gt;You know &lt;strong&gt;ODK Collect&lt;/strong&gt; has been successfully installed when you see the &lt;strong&gt;&lt;em&gt;&amp;lsquo;Open&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; button.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;/img/tutorials/42-tap-on-the-odk-collect-apk-1.png&#34; /&gt;
+&lt;p&gt;Tap on &lt;strong&gt;&lt;em&gt;&amp;lsquo;Open&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; button to start &lt;strong&gt;ODK Collect&lt;/strong&gt;.
+&lt;img src=&#34;/img/tutorials/open-odk-collect-1.png&#34; /&gt;
 &lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;You will see this screen on your tablet to indicate the &lt;strong&gt;ODK Collect&lt;/strong&gt; has been installed. You can tap on &lt;strong&gt;&lt;em&gt;&amp;lsquo;Open&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; to start using &lt;strong&gt;ODK Collect&lt;/strong&gt; on your tablet device.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/tutorials/42-tap-on-the-odk-collect-apk-2.png&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/fee4bde7-9224-49ca-bc78-12a8811267b3.png&#34; /&gt;
 &lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;3-3-start-using-odk-collect&#34;&gt;3.3 Start using ODK Collect&lt;/h3&gt;
 
-&lt;p&gt;You can now start using &lt;strong&gt;ODK Collect&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/tutorials/start-using-odk-collect.png&#34; /&gt;
-&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Congratulations! You have now successfully installed ODK Collect on your Android-powered device.
+&lt;img src=&#34;/img/tutorials/e9368bdb-3ef8-44b8-ace2-5b66a3a6f20e.png&#34; /&gt;
+&amp;nbsp;&lt;br /&gt;
+&amp;nbsp;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Installing ODK Collect without using Google Play Store - Approach 1</title>
       <link>/post/installing-odk-collect-without-using-google-play-store-1/</link>
-      <pubDate>Mon, 30 Apr 2018 02:00:00 +0000</pubDate>
+      <pubDate>Mon, 30 Apr 2018 22:00:00 +0000</pubDate>
       
       <guid>/post/installing-odk-collect-without-using-google-play-store-1/</guid>
       <description>
@@ -1022,197 +417,802 @@ This is also good when there is no reliable Wi-Fi and/or network connection or i
     </item>
     
     <item>
-      <title>Installing ODK Collect on Android devices</title>
-      <link>/post/installing-odk-collect-on-android-devices/</link>
-      <pubDate>Mon, 30 Apr 2018 01:00:00 +0000</pubDate>
+      <title>Installing ODK Collect without using Google Play Store - Approach 2</title>
+      <link>/post/installing-odk-collect-without-using-google-play-store-2/</link>
+      <pubDate>Mon, 30 Apr 2018 21:00:00 +0000</pubDate>
       
-      <guid>/post/installing-odk-collect-on-android-devices/</guid>
+      <guid>/post/installing-odk-collect-without-using-google-play-store-2/</guid>
       <description>
 
-&lt;p&gt;Installing applications such as &lt;strong&gt;ODK Collect&lt;/strong&gt; on to mobile devices such as mobile phones and tablets is a straightforward process. This tutorial describes how to install applications onto Android-powered devices using the &lt;strong&gt;Google Play Store&lt;/strong&gt;. Specifically, this tutorial shows how to install &lt;strong&gt;ODK Collect&lt;/strong&gt; from the &lt;strong&gt;Google Play Store&lt;/strong&gt; on to your mobile device.&lt;/p&gt;
+&lt;p&gt;There are situations in which access to the &lt;strong&gt;Google Play Store&lt;/strong&gt; might be limited for a variety reasons.&lt;/p&gt;
 
-&lt;p&gt;This tutorial is aimed at &lt;strong&gt;IT administrators&lt;/strong&gt; and/or &lt;strong&gt;survey managers&lt;/strong&gt; or &lt;strong&gt;coordinators&lt;/strong&gt; who are tasked to setup the mobile devices in preparation for data collection.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;You may not have a &lt;strong&gt;Google account&lt;/strong&gt; which is required to be able to access the &lt;strong&gt;Google Play Store&lt;/strong&gt;;&lt;/p&gt;&lt;/li&gt;
 
-&lt;p&gt;This tutorial assumes that:&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;There may be region or country-specific limitations to accessing either your &lt;strong&gt;Google account&lt;/strong&gt; or &lt;strong&gt;Google Play Store&lt;/strong&gt; or both; or,&lt;/p&gt;&lt;/li&gt;
 
-&lt;ul&gt;
-&lt;li&gt;You have internet connection;&lt;/li&gt;
-&lt;li&gt;You have a &lt;strong&gt;Google&lt;/strong&gt; account; and,&lt;/li&gt;
-&lt;li&gt;You have access to the &lt;strong&gt;Google Play Store&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;li&gt;&lt;p&gt;There is simply no internet connectivity in the area you are located in.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;h2 id=&#34;1-open-google-play-store&#34;&gt;1. Open Google Play Store&lt;/h2&gt;
+&lt;p&gt;Such situations would limit your ability to install applications including &lt;strong&gt;ODK Collect&lt;/strong&gt;. This is a problem when the mobile devices you are going to use for your data collection are not yet configured and &lt;strong&gt;ODK Collect&lt;/strong&gt; not yet installed.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;/img/tutorials/open-google-play-store.png&#34; /&gt;
+&lt;p&gt;This tutorial addresses the problem described in &lt;strong&gt;&lt;em&gt;situation 1&lt;/em&gt;&lt;/strong&gt; and &lt;strong&gt;&lt;em&gt;2&lt;/em&gt;&lt;/strong&gt; above where access to &lt;strong&gt;Google account&lt;/strong&gt; and/or &lt;strong&gt;Google Play Store&lt;/strong&gt; is limited but access to internet is not.&lt;/p&gt;
+
+&lt;p&gt;For &lt;strong&gt;&lt;em&gt;situation 3&lt;/em&gt;&lt;/strong&gt;, steps 2 and 3 of this tutorial will still apply but it would require that you have already done step 1 ahead of time where access to internet is available which will allow you to download a copy of the application on your tablet.&lt;/p&gt;
+
+&lt;p&gt;This tutorial shows how to install &lt;strong&gt;ODK Collect&lt;/strong&gt; without using &lt;strong&gt;Google Play Store&lt;/strong&gt; (and without requiring a &lt;strong&gt;Google account&lt;/strong&gt;). Instead, the &lt;strong&gt;Open Data Kit&lt;/strong&gt; application package is downloaded direct onto your tablet and then installed directly without going through &lt;strong&gt;Google Play Store&lt;/strong&gt;.
 &lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;/img/tutorials/a60d5834-1bc4-4628-b69e-6e32ca96d1a5.png&#34; /&gt;
+&lt;h2 id=&#34;1-download-open-data-kit-apk&#34;&gt;1. Download Open Data Kit APK&lt;/h2&gt;
+
+&lt;p&gt;First you need to download the &lt;strong&gt;Open Data Kit APK&lt;/strong&gt; on your tablet. &lt;strong&gt;APK&lt;/strong&gt; is short for Android application package which is the package file format used by the Android operating system for distribution and installation of mobile apps. Here are the steps to download the &lt;strong&gt;Open Data Kit APK&lt;/strong&gt; on your tablet.
 &lt;br /&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;2-search-for-odk-collect&#34;&gt;2. Search for ODK Collect&lt;/h2&gt;
+&lt;h3 id=&#34;1-1-go-to-the-open-data-kit-website&#34;&gt;1.1 Go to the Open Data Kit website&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&#34;/img/tutorials/search-for-odk-collect.png&#34; /&gt;
+&lt;p&gt;Using the web browser in your tablet, type in &lt;a href=&#34;https://opendatakit.org.&#34;&gt;https://opendatakit.org.&lt;/a&gt; You will then see the following webpage on your tablet&amp;rsquo;s browser.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/Screenshot_2016-02-11-08-14-00-640x1024.png&#34; /&gt;
 &lt;br /&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;3-tap-on-odk-collect&#34;&gt;3. Tap on ODK Collect&lt;/h2&gt;
+&lt;h3 id=&#34;1-2-go-to-the-download-page&#34;&gt;1.2 Go to the Download page&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&#34;/img/tutorials/tap-on-odk-collect.png&#34; /&gt;
+&lt;p&gt;On top of the webpage, you will see the menu of the website one of which is named &lt;strong&gt;&lt;em&gt;&amp;lsquo;Download&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Tap on &lt;strong&gt;&lt;em&gt;&amp;lsquo;Download&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;.
+&lt;img src=&#34;/img/tutorials/go-to-the-download-page-1-1-640x1024.png&#34; /&gt;
 &lt;br /&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;4-install-odk-collect&#34;&gt;4. Install ODK Collect&lt;/h2&gt;
+&lt;h3 id=&#34;1-3-select-the-odk-collect-apk-from-the-download-list&#34;&gt;1.3 Select the ODK Collect APK from the download list&lt;/h3&gt;
 
-&lt;p&gt;Tap on &lt;strong&gt;&lt;em&gt;&amp;lsquo;Install&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; to start installation of &lt;strong&gt;ODK collect&lt;/strong&gt;.
-&lt;img src=&#34;/img/tutorials/install-odk-collect.png&#34; /&gt;
+&lt;p&gt;Once you are at the Download page, you will see a list of the various downloads that are available from the Open Data Kit site.&lt;/p&gt;
+
+&lt;p&gt;You will find the &lt;strong&gt;ODK Collect APK&lt;/strong&gt; as item number 3 in the Collect section of the Download page &lt;strong&gt;(1)&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Once you have found the &lt;strong&gt;ODK Collect APK&lt;/strong&gt;, tap on the link.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/select-the-odk-collect-apk-from-the-download-list-1-1-640x1024.png&#34; /&gt;
 &lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;Give permissions to ODK Collect to access your information and other related applications in your device to proceed with installation.
-&lt;img src=&#34;/img/tutorials/aee6a05f-b4d5-43c5-976e-269b07e78972.png&#34; /&gt;
+&lt;h3 id=&#34;1-4-tap-download&#34;&gt;1.4 Tap Download&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/tap-download-640x1024.png&#34; /&gt;
 &lt;br /&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;5-wait-while-odk-collect-installs&#34;&gt;5. Wait while ODK Collect installs&lt;/h2&gt;
+&lt;h2 id=&#34;2-set-up-tablet-device-to-allow-installation-of-applications-outside-of-the-google-play-store&#34;&gt;2. Set-up tablet device to allow installation of applications outside of the Google Play Store&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&#34;/img/tutorials/wait-while-odk-collect-installs.png&#34; /&gt;
+&lt;p&gt;You will now need to set-up your tablet device to allow installation of application outside of &lt;strong&gt;Google Play Store&lt;/strong&gt;. Following are the steps you need to take.
 &lt;br /&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;6-open-odk-collect&#34;&gt;6. Open ODK Collect&lt;/h2&gt;
+&lt;h3 id=&#34;2-1-go-to-security-settings-of-your-tablet&#34;&gt;2.1 Go to Security settings of your tablet&lt;/h3&gt;
 
-&lt;p&gt;You know &lt;strong&gt;ODK Collect&lt;/strong&gt; has been successfully installed when you see the &lt;strong&gt;&lt;em&gt;&amp;lsquo;Open&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; button.&lt;/p&gt;
+&lt;p&gt;In your tablet device, open the &lt;strong&gt;&lt;em&gt;Settings&lt;/em&gt;&lt;/strong&gt; application, then navigate to the &lt;strong&gt;&lt;em&gt;General&lt;/em&gt;&lt;/strong&gt; tab &lt;strong&gt;(1)&lt;/strong&gt; &amp;nbsp;and then the &lt;strong&gt;&lt;em&gt;Security&lt;/em&gt;&lt;/strong&gt; settings &lt;strong&gt;(2)&lt;/strong&gt;. You will now see the various &lt;strong&gt;&lt;em&gt;Security&lt;/em&gt;&lt;/strong&gt; settings. For this step, you wll need to focus on the &lt;strong&gt;&lt;em&gt;Device Administration&lt;/em&gt;&lt;/strong&gt; section specifically the &lt;strong&gt;&lt;em&gt;Unknown sources&lt;/em&gt;&lt;/strong&gt; option &lt;strong&gt;(3)&lt;/strong&gt;. This is the option that will allow you to install applications from other sources other than the Google Play Store. By default, this option is not checked. Check this option.&lt;/p&gt;
 
-&lt;p&gt;Tap on &lt;strong&gt;&lt;em&gt;&amp;lsquo;Open&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; button to start &lt;strong&gt;ODK Collect&lt;/strong&gt;.
-&lt;img src=&#34;/img/tutorials/open-odk-collect-1.png&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/go-to-security-settings-of-your-tablet.png&#34; /&gt;
 &lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;/img/tutorials/fee4bde7-9224-49ca-bc78-12a8811267b3.png&#34; /&gt;
+&lt;h3 id=&#34;2-2-nbsp-set-up-tablet-device-to-allow-installation-of-applications-outside-of-the-google-play-store&#34;&gt;2.2 &amp;nbsp; Set-up tablet device to allow installation of applications outside of the Google Play Store&lt;/h3&gt;
+
+&lt;p&gt;Once you check this option, you will get a warning regarding installint application from unknown sources. Tap on &lt;strong&gt;&lt;em&gt;&amp;lsquo;OK&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; to continue.
+&lt;img src=&#34;/img/tutorials/31-set-up-tablet-device-to-allow-installation-of-applications-outside-of-the-google-play-store.png&#34; /&gt;
 &lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;Congratulations! You have now successfully installed ODK Collect on your Android-powered device.
-&lt;img src=&#34;/img/tutorials/e9368bdb-3ef8-44b8-ace2-5b66a3a6f20e.png&#34; /&gt;
-&amp;nbsp;&lt;br /&gt;
-&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;The option to install from unknown sources is now checked &lt;strong&gt;(1)&lt;/strong&gt;. You can now continue with the next steps for installing &lt;strong&gt;ODK Collect&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/31-set-up-tablet-device-to-allow-installation-of-applications-outside-of-the-google-play-store-1.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;3-install-odk-collect-on-your-tablet&#34;&gt;3. Install ODK Collect on your tablet&lt;/h2&gt;
+
+&lt;p&gt;Now, you need to install &lt;strong&gt;ODK Collect&lt;/strong&gt; on your tablet using the &lt;strong&gt;ODK Collect APK&lt;/strong&gt; that you just transferred to your tablet. This can be done by following these steps.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;3-1-navigate-to-the-download-folder-of-your-tablet&#34;&gt;3.1 Navigate to the Download folder of your tablet&lt;/h3&gt;
+
+&lt;p&gt;For this step, you will need a file manager application to be able to navigate the contents of your tablet. For some devices such as those from the Samsung line of mobile devices, there is a pre-installed file manager application called &lt;strong&gt;&lt;em&gt;&amp;lsquo;My Files&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/navigate-to-the-download-folder-of-your-tablet.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Open the &lt;strong&gt;&lt;em&gt;&amp;lsquo;My Files&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; file manager application and then click on ***&amp;lsquo;Device Storage&amp;rsquo; ***&lt;strong&gt;(1)&lt;/strong&gt;. You will now see all the folders inside the tablet including the &lt;strong&gt;Download&lt;/strong&gt; folder &lt;strong&gt;(2)&lt;/strong&gt;. Open the &lt;strong&gt;Download&lt;/strong&gt; folder.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/41-navigate-to-download-folder-of-your-tablet.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;You will now see the &lt;strong&gt;ODK Collect APK&lt;/strong&gt; which you have transferred earlier from your computer &lt;strong&gt;(1)&lt;/strong&gt;. You can now proceed with installing the &lt;strong&gt;ODK Collect APK&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/41-navigate-to-download-folder-on-your-tablet.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;3-2-tap-on-the-odk-collect-apk&#34;&gt;3.2 Tap on the ODK Collect APK&lt;/h3&gt;
+
+&lt;p&gt;Once you have found the &lt;strong&gt;ODK Collect APK&lt;/strong&gt; on the &lt;strong&gt;Download&lt;/strong&gt; folder of your tablet, tap the APK to initiate installation. You will now see the following prompt on your tablet screen. Tap &lt;strong&gt;&lt;em&gt;&amp;lsquo;Next&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/tap-on-the-odk-collect-apk.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The next screen will look like this. Tap on &lt;strong&gt;&lt;em&gt;&amp;lsquo;Intsall&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/42-tap-on-the-odk-collect-apk.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The next screen will indicate that ODK Collect is now installing on your tablet.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/42-tap-on-the-odk-collect-apk-1.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;You will see this screen on your tablet to indicate the &lt;strong&gt;ODK Collect&lt;/strong&gt; has been installed. You can tap on &lt;strong&gt;&lt;em&gt;&amp;lsquo;Open&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; to start using &lt;strong&gt;ODK Collect&lt;/strong&gt; on your tablet device.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/42-tap-on-the-odk-collect-apk-2.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;3-3-start-using-odk-collect&#34;&gt;3.3 Start using ODK Collect&lt;/h3&gt;
+
+&lt;p&gt;You can now start using &lt;strong&gt;ODK Collect&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/start-using-odk-collect.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Getting started with your Android tablet</title>
-      <link>/post/getting-started-with-your-android-tablet/</link>
-      <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
+      <title>Configuring ODK Collect for data collection</title>
+      <link>/post/configuring-odk-collect-for-data-collection/</link>
+      <pubDate>Mon, 30 Apr 2018 20:00:00 +0000</pubDate>
       
-      <guid>/post/getting-started-with-your-android-tablet/</guid>
+      <guid>/post/configuring-odk-collect-for-data-collection/</guid>
       <description>
 
-&lt;p&gt;Mobile devices such as mobile phones and tablets have become valuable tools in data collection. Various applications have been and are being developed specifically to harness the utility of mobile devices for collecting data. An understanding of how mobile devices work specifically those powered by &lt;a href=&#34;https://www.android.com&#34; target=&#34;_blank&#34;&gt;Android operating system&lt;/a&gt; is therefore a requisite knowledge for anyone involved in a data collection campaign that utilises these devices for data collection.&lt;/p&gt;
+&lt;p&gt;Once &lt;strong&gt;ODK Collect&lt;/strong&gt; has been installed on the mobile device/s that you will be using for data collection, you may want to configure it&amp;rsquo;s settings so as to be able to fully maximise its use and also to make it as easy as possible to use by your enumerators. Depending on how involved you aim your enumerators to be in the management of the data collection process, you may want to make available or limit certain settings or functions of &lt;strong&gt;ODK Collect&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p&gt;This tutorial gives a brief overview on how to get started with an Android device. We chose to focus on the use of tablet devices because we think that the smaller sized tablets (up to 7-inch) are a good mix of the mobility and handiness of a mobile phone and the wider screen size of a tablet which is good for fitting relatively dense question sets adequately. We also chose to focus on Samsung-branded because they are probably the most common brand of mobile devices available and we think most users have most likely had an experience using devices from this brand beforehand. For this specific tutorial, we use the &lt;strong&gt;Samsung SM-T230&lt;/strong&gt; as the model device for instructional purposes.&lt;/p&gt;
+&lt;p&gt;This tutorial describes how to setup the various configuration options of &lt;strong&gt;ODK Collect&lt;/strong&gt; with the aim of minimising possible unintended interference by enumerators on the various settings that might be detrimental to your data collection campaign. These include the options to load blank forms and change the settings of the server platform (if you are using any). This guide is aimed at IT administrators and/or survey coordinators/managers who will be setting up &lt;strong&gt;ODK Collect&lt;/strong&gt; prior to distribution of the mobile devices to enumerators.&lt;/p&gt;
 
-&lt;p&gt;This tutorial is aimed at enumerators who may have not been exposed to smartphones particularly Android-powered devices.&lt;/p&gt;
+&lt;p&gt;This tutorial assumes that &lt;strong&gt;ODK Collect&lt;/strong&gt; is already installed on your mobile devices. The following &lt;a href=&#34;http://sudan.validmeasures.org/installing-odk-collect-1/&#34; target=&#34;_blank&#34;&gt;tutorial&lt;/a&gt; shows how to install &lt;strong&gt;ODK Collect&lt;/strong&gt; on mobile devices.
+&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;h2 id=&#34;1-open-odk-collect&#34;&gt;1. Open ODK Collect&lt;/h2&gt;
 
-&lt;h2 id=&#34;1-device-layout&#34;&gt;1. Device layout&lt;/h2&gt;
+&lt;p&gt;Find the &lt;strong&gt;ODK Collect&lt;/strong&gt; app icon on your device and tap. You will see the following on your screen. This is the default configuration of ODK Collect when it is first installed on a device and the configurations have not been changed yet.
+&lt;img src=&#34;/img/tutorials/open-odk-collect.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;The front layout of the &lt;strong&gt;Samsung SM-T230&lt;/strong&gt; is as follows:&lt;/p&gt;
+&lt;h2 id=&#34;2-tap-on-the-odk-collect-settings-menu&#34;&gt;2. Tap on the ODK Collect settings menu&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&#34;/img/tutorials/tabletFront.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;On the upper right hand corner, you will see three square dots on top of each other &lt;strong&gt;(1)&lt;/strong&gt;. Click on this and a dropdown menu will appear showing options for &lt;strong&gt;&lt;em&gt;&amp;lsquo;General Settings&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(2)&lt;/strong&gt; and for &lt;strong&gt;&lt;em&gt;&amp;lsquo;Admin Settings&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(3)&lt;/strong&gt;.
+&lt;img src=&#34;/img/tutorials/tap-on-the-odk-collect-settings-menu.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;The back layout looks like this:&lt;/p&gt;
+&lt;h2 id=&#34;3-tap-on-general-settings&#34;&gt;3. Tap on General Settings&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&#34;/img/tutorials/tabletBack.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;First, we should configure the &lt;strong&gt;&lt;em&gt;&amp;lsquo;General Settings&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; option of &lt;strong&gt;ODK Collect&lt;/strong&gt;. This is what you will see once you tap on &lt;strong&gt;&lt;em&gt;&amp;lsquo;General Settings&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;h3 id=&#34;buttons&#34;&gt;Buttons&lt;/h3&gt;
+&lt;p&gt;There are three main &amp;lsquo;General Settings&amp;rsquo; categories that can be configured: &lt;strong&gt;&lt;em&gt;Server Settings&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(1)&lt;/strong&gt;, &lt;strong&gt;&lt;em&gt;Auto Send&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(2)&lt;/strong&gt;, and &lt;strong&gt;&lt;em&gt;User Interface&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(3)&lt;/strong&gt;.
+&lt;img src=&#34;/img/tutorials/tap-on-general-settings.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Power&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;3-1-configure-server-settings&#34;&gt;3.1 Configure Server settings&lt;/h3&gt;
 
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Press and hold to turn the device on or off.&lt;/p&gt;&lt;/li&gt;
+&lt;p&gt;In &lt;strong&gt;&lt;em&gt;&amp;lsquo;Server Settings&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;, there are three main settings that will need configuring: &lt;strong&gt;&lt;em&gt;Platform&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(1)&lt;/strong&gt;, &lt;strong&gt;&lt;em&gt;Platform settings&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(2)&lt;/strong&gt; and &lt;strong&gt;&lt;em&gt;Google account&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(3)&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;li&gt;&lt;p&gt;Press and hold for 8 seconds to reset the device if it has fatal errors or hang-ups, or freezes.&lt;/p&gt;&lt;/li&gt;
+&lt;p&gt;First, tap on &lt;strong&gt;&lt;em&gt;Platform&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(1)&lt;/strong&gt;.
+&lt;img src=&#34;/img/tutorials/configure-server-settings.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
 
-&lt;li&gt;&lt;p&gt;Press to lock the device. The device goes into lock mode when the touch screen turns off.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;You will then be presented with various platform options that you can select depending on the type of server that you are using for your data collection campaign. &lt;strong&gt;ODK Aggregate&lt;/strong&gt; is the default platform. For anything other than the default &lt;strong&gt;ODK Aggregate&lt;/strong&gt; platform that is provided on &lt;strong&gt;ODK Collect&lt;/strong&gt; by default, you will most likley need to select &lt;strong&gt;Other&lt;/strong&gt; option so that you can specify your own platform for your data collection server.
+&lt;img src=&#34;/img/tutorials/31ef1184-ca3c-4bce-bc48-8c353c74c89c.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Recent apps&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Next, tap on &lt;strong&gt;&lt;em&gt;&amp;lsquo;Configure platform settings&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(2)&lt;/strong&gt;.
+&lt;img src=&#34;/img/tutorials/a7f48316-38cf-4341-af23-43862b88ce14.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Tap to open the list of recent applications.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;You will then see the following options on your screen. Here you can specify the settings of the server used by your platform specifically the &lt;strong&gt;URL of your server&lt;/strong&gt; &lt;strong&gt;(1)&lt;/strong&gt;, the &lt;strong&gt;username&lt;/strong&gt; &lt;strong&gt;(2)&lt;/strong&gt; and &lt;strong&gt;password&lt;/strong&gt; &lt;strong&gt;(3)&lt;/strong&gt; use to login to your server. If you do not know these settings, you should ask your IT administrator or whoever setup your server platform to provide you with these settings. For most service providers offering servers for use by ODK, these settings are made explicit within your account so all you might need to do is to login to your account and find these settings.
+&lt;img src=&#34;/img/tutorials/88cfe68e-ce2c-4df7-8d57-f75de667a6f3.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Home&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;For example, if you are using a locally-deployed &lt;strong&gt;Formhub&lt;/strong&gt; server as your &lt;strong&gt;ODK&lt;/strong&gt; platform, you can find your server settings by logging in to your account and then scrolling down to the bottom of the webpage of the Formhub portal, you will see the following information about your Formhub server which you can use to setup the platform settings on your ODK Collect.
+&lt;img src=&#34;/img/tutorials/72c17efc-c1d2-409a-8670-f542ef7df08e.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Press to return to the Home Screen.&lt;/p&gt;&lt;/li&gt;
+&lt;p&gt;Next, configure your &lt;strong&gt;&lt;em&gt;&amp;lsquo;Google accont&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; if you have one. This is not absolutely necessary and should be configured if you want to connect your &lt;strong&gt;ODK Collect&lt;/strong&gt; with your &lt;strong&gt;Google account&lt;/strong&gt; (if you have one). The advantage of doing this is that your data can be backed up to your &lt;strong&gt;Google account&lt;/strong&gt;.
+&lt;img src=&#34;/img/tutorials/08563fc6-c78c-41d2-9fdd-73d6a0c4d0bf.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
 
-&lt;li&gt;&lt;p&gt;Press and hold to launch Google search.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h3 id=&#34;3-2-configure-auto-send-settings&#34;&gt;3.2 Configure Auto Send settings&lt;/h3&gt;
 
-&lt;p&gt;&lt;strong&gt;Back&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Now you can configure &lt;strong&gt;Auto Send&lt;/strong&gt; settings. There are two settings to setup: &lt;strong&gt;&lt;em&gt;&amp;lsquo;Auto send with Wi-Fi&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(1)&lt;/strong&gt; and &lt;strong&gt;&lt;em&gt;&amp;lsquo;Auto send with network&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(2)&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Tap to return to the previous screen.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;By default, these options are unchecked. It is recommended that you keep the default (unchecked) settings in place. This would mean that completed and finalised forms will be saved onto the device memory even when the device is connected on Wi-Fi and will not be sent unless the user specifically sends the forms for submission over the internet. It is good to have it this way because this allows for some type of checking of forms on the tablets themselves before they are sent to the server.
+This is also good when there is no reliable Wi-Fi and/or network connection or if no server has been setup for the data collection campaign. The option to send the forms by Wi-Fi or over the network can be done later on when there is reliable network and/or when a server has been setup. Otherwise, manual sending of finalised forms via direct mobile device to computer connection can be done.
+&lt;img src=&#34;/img/tutorials/configure-auto-send-settings.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Volume&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;3-3-configure-user-interface-settings&#34;&gt;3.3 Configure User Interface settings&lt;/h3&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Press to adjust the device volume.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;2-charging-the-battery&#34;&gt;2. Charging the battery&lt;/h2&gt;
-
-&lt;p&gt;Before using the device for the first time or when the battery has been unused for extended periods, you must charge the battery.&lt;/p&gt;
-
-&lt;p&gt;Connect the USB cable to the USB power adaptor and then plug the end of the USB cable into the multipurpose jack.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/tutorials/samsungConnectPC.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;The device can be used while it is charging, but it may take longer to fully charge the battery.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;If the device receives an unstable power supply while charging, the touch screen may not function. If this happens, unplug the charger from the device.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;While charging, the device may heat up. This is normal and should not affect the device&amp;rsquo;s lifespan or performance. If the battery gets hotter than usual, the charger may stop charging.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;After fully charging, disconnect the device from the charger.&lt;/p&gt;
-
-&lt;p&gt;Your device provides options that help you save the battery power. By customising these options and deactivating features in the background, you can use the device longer between charges:&lt;/p&gt;
+&lt;p&gt;Now you can configure the &lt;strong&gt;&lt;em&gt;&amp;lsquo;User Interface&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; settings. Following are the settings that you can configure or change:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;When you are not using the device, switch to sleep mode by pressing the Power button.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Constraint processing behaviour&lt;/em&gt;&lt;/strong&gt;** (1)** - this is the option that determines how &lt;strong&gt;ODK Collect&lt;/strong&gt; processes the check and constraints that have been specified in your form. There are two options here. The first option is for &lt;strong&gt;ODK Collect&lt;/strong&gt; to process the constraints at the end of the form when you are about to finalise the form. The second option is for &lt;strong&gt;ODK Collect&lt;/strong&gt; to process the constraints everytime you move to the next question in the form. The default behaviour is to process the constraints after every question. It is recommended that the default option be kept (Validate upon forward swipe).&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Close unnecessary applications with the task manager.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Navigation&lt;/em&gt;&lt;/strong&gt;** (2)** - this is the option that determines how the user can move from one question to the next in a form. The default behaviour is to use horizontal swipes. It is recommended that the option for use of forward/backward buttons be selected instead. Swiping is very user dependent and not all find it easy to use swiping gestures to move to the next question. Buttons, however, is universally acceptable and easy to train enumerators on using.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Deactivate the Bluetooth feature.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Text font size&lt;/em&gt;&lt;/strong&gt;** (3)** - this is the option to change the font size used in &lt;strong&gt;ODK Collect&lt;/strong&gt;. By default, this is set to Medium. This default is more than adequate and can be kept as is.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Deactivate the WiFi feature.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Default to finalized&lt;/em&gt;&lt;/strong&gt;** (4)** - this is the option of whether all forms are by default finalized when you reach the end of the questionnaire. This is by default checked and when you reach the end of your questionnaire, you will see a prompt asking whether you want to mark the form as finalized and this option will be checked automatically because of this setting. It is recommended to keep this setting as is.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Deactivate auto-syncing of applications.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Delete after send&lt;/em&gt;&lt;/strong&gt;** (5)** - this is the option of whether forms should be deleted after it has been sent to the server. By default this is unchecked. It is recommended that this option be kept unchecked as it is useful to have the forms kept on the devices as backup which can be retrieved later on manually via mobile device to computer connection as a form of backup. This is especially important in settings where internet is unreliable and that a backup of the data on the device is crucial.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Decrease the backlight time.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Enable hi-res video&lt;/em&gt;&lt;/strong&gt;** (6)** - this is the option of whether hi-res video playback is required. Unless you require video for your forms, it is recommended to uncheck this option.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Decrease the brightness of the display.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Show splash screen&lt;/em&gt;&lt;/strong&gt;** (7)** - this option determines if a splash screen on startup of &lt;strong&gt;ODK Collect&lt;/strong&gt; should be shown. This option by default is turned off. It is recommended that this default is kept as is as there is no need for a splash screen and this only delays the startup of the &lt;strong&gt;ODK Collect&lt;/strong&gt; application.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/configure-user-interface-settings.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;3-turning-the-device-on-and-off&#34;&gt;3. Turning the device on and off&lt;/h2&gt;
+&lt;h2 id=&#34;4-tap-on-admin-settings&#34;&gt;4. Tap on Admin Settings&lt;/h2&gt;
 
-&lt;p&gt;When turning on the device for the first time, follow the on-screen instructions to setup your device.&lt;/p&gt;
+&lt;p&gt;Now, you should configure the &lt;strong&gt;&lt;em&gt;&amp;lsquo;Admin Settings&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(3)&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p&gt;Press and hold the Power button for a few seconds to turn on the device.&lt;/p&gt;
+&lt;p&gt;The &lt;strong&gt;&lt;em&gt;&amp;lsquo;Admin Settings&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; allow you to control what kinds of items are made available to the user of &lt;strong&gt;ODK Collect&lt;/strong&gt;.
+&lt;img src=&#34;/img/tutorials/tap-on-admin-settings.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;/img/tutorials/tabletOff.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;4-1-setting-an-admin-password&#34;&gt;4.1 Setting an Admin password&lt;/h3&gt;
 
-&lt;p&gt;To turn off the device, press and hold the Power button, and then tap &lt;strong&gt;Power off&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;If you would like to block access to the &lt;strong&gt;&lt;em&gt;&amp;lsquo;Admin Settings&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; on the &lt;strong&gt;ODK Collect&lt;/strong&gt;, it would be recommended to set a password for access.
+&lt;img src=&#34;/img/tutorials/setting-an-admin-password.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;h3 id=&#34;4-2-form-processing-logic&#34;&gt;4.2 Form processing logic&lt;/h3&gt;
 
-&lt;h2 id=&#34;4-locking-and-unlocking-the-device&#34;&gt;4. Locking and unlocking the device&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;&amp;lsquo;Form processing logic&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; settings should be kept as default.
+&lt;img src=&#34;/img/tutorials/form-processing-logic.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;When not in use, lock the device to prevent unwanted operation. Pressing the Power button turns off the screen and puts the device into lock mode. The device automatically gets locked if it is not used for a specified period.&lt;/p&gt;
+&lt;h3 id=&#34;4-3-configure-user-can-access-main-menu-items-settings&#34;&gt;4.3 Configure User Can Access Main Menu Items settings&lt;/h3&gt;
 
-&lt;p&gt;To unlock the device, press the Power button or Home button when the touch screen is turned off, tap anywhere on the screen, and then flick your finger in any direction.&lt;/p&gt;
+&lt;p&gt;Now to configure the &lt;strong&gt;&lt;em&gt;&amp;lsquo;User Can Access Main Menu Items&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; settings.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Edit Saved Form&lt;/em&gt;&lt;/strong&gt;** (1)** - this is checked by default. Keep checked.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Send Finalized Form&lt;/em&gt;&lt;/strong&gt;** (2)** - this is checked by default. Keep checked.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Get Blank Form&lt;/em&gt;&lt;/strong&gt;** (3)** - this is checked by default. Uncheck this option. Unchecking this will hide it from the Main Menu. This will prevent unintended pulling of forms from the server that is not needed for your current data collection campaign.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;***Delete Saved Form ***&lt;strong&gt;(4)&lt;/strong&gt; - this is checked by default. Uncheck this option. Unchecking this will hide is from the Main Menu. This will prevent unintended deletion of forms from the &lt;strong&gt;ODK Collect&lt;/strong&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/configure-user-can-access-main-menu-items-settings.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;4-4-configure-user-can-access-change-settings-items-settings&#34;&gt;4.4 Configure User Can Access Change Settings Items settings&lt;/h3&gt;
+
+&lt;p&gt;Now, configure the &lt;strong&gt;&lt;em&gt;&amp;lsquo;User Can Access Change Settings Items&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; settings.&lt;/p&gt;
+
+&lt;p&gt;The first five settings are shown here &lt;strong&gt;(1-5)&lt;/strong&gt;. It is recommended that all of these be unchecked to avoid unintend changing of settings.
+&lt;img src=&#34;/img/tutorials/configure-user-can-access-change-settings-items-settings.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The next set of settings are shown here &lt;strong&gt;(6-14)&lt;/strong&gt;. All these settings should be unchecked except for &lt;strong&gt;&lt;em&gt;&amp;lsquo;Text font size&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;. This will avoid unintended changing of settings.
+&lt;img src=&#34;/img/tutorials/a9e43315-b32f-48b0-a0eb-074265679696.png&#34;` /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;4-5-configure-user-can-access-form-entry-items-settings&#34;&gt;4.5 Configure User Can Access Form Entry Items settings&lt;/h3&gt;
+
+&lt;p&gt;Now you can configure &lt;strong&gt;&lt;em&gt;&amp;lsquo;User Can Access Form Entry Items&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; settings.&lt;/p&gt;
+
+&lt;p&gt;The settings are shown below &lt;strong&gt;(1-6)&lt;/strong&gt;. All options should be kept checked except for &lt;strong&gt;&lt;em&gt;&amp;lsquo;Name this Form&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; which should be unchecked.
+&lt;img src=&#34;/img/tutorials/configure-user-can-access-form-entry-items-settings.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;5-reminders&#34;&gt;5. Reminders&lt;/h2&gt;
+
+&lt;p&gt;You should configure the &lt;strong&gt;&lt;em&gt;General Settings&lt;/em&gt;&lt;/strong&gt; first before you change the &lt;strong&gt;&lt;em&gt;Admin Settings&lt;/em&gt;&lt;/strong&gt;. This is because the menu items needed to configure General Settings will not be available to you anymore one you have changed the Admin Settings as per recommendation above.&lt;/p&gt;
+
+&lt;p&gt;This means you should also get the blank forms loaded onto &lt;strong&gt;ODK Collect&lt;/strong&gt; already before changing the &lt;strong&gt;&lt;em&gt;Admin Settings&lt;/em&gt;&lt;/strong&gt; because you will not have the option to get blank forms once you have changed the &lt;strong&gt;&lt;em&gt;Admin Settings&lt;/em&gt;&lt;/strong&gt;. However, if you need to load forms onto &lt;strong&gt;ODK Collect&lt;/strong&gt;, you can still do so by transferring the &lt;strong&gt;XForms&lt;/strong&gt; version of the form straight into the mobile device from your computer using a mobile device to computer connection. Or you can activate the &lt;strong&gt;&lt;em&gt;Get Blank Forms&lt;/em&gt;&lt;/strong&gt; option again so that you can pull the blank forms from your server.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Changing ODK Collect language settings</title>
+      <link>/post/changing-odk-collect-language-settings/</link>
+      <pubDate>Mon, 30 Apr 2018 19:00:00 +0000</pubDate>
+      
+      <guid>/post/changing-odk-collect-language-settings/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;ODK Collect&lt;/strong&gt; supports forms written in multiple languages. &lt;strong&gt;XLSForm&lt;/strong&gt; or &lt;strong&gt;XForms&lt;/strong&gt; standard used for creating forms usable in &lt;strong&gt;ODK Collect&lt;/strong&gt; also provide functionality that encodes multiple language support within the same single form being created (for more information, see &lt;a href=&#34;http://xlsform.org/#language&#34; target=&#34;_blank&#34;&gt;multiple language support in XLSForm standard&lt;/a&gt;). If a form has been created to support multiple languages, &lt;strong&gt;ODK Collect&lt;/strong&gt; is able to provide options for users to change the language of the form as needed.&lt;/p&gt;
+
+&lt;p&gt;This tutorial describes how to change the &lt;strong&gt;ODK Collect&lt;/strong&gt; language settings. This tutorial assumes that:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;You have &lt;strong&gt;ODK Collect&lt;/strong&gt; installed on your mobile device. See &lt;a href=&#34;http://sudan.validmeasures.org/installing-odk-collect-1/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; for instructions on installing &lt;strong&gt;ODK Collect&lt;/strong&gt; onto your mobile device.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;You already have created a form using &lt;strong&gt;XLSForm&lt;/strong&gt; standard that has multiple languages encoded. See &lt;a href=&#34;http://xlsform.org&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; for a guide on how to create forms using &lt;strong&gt;XLSForm&lt;/strong&gt; and &lt;a href=&#34;http://xlsform.org/#language&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; for a guide on how to included multiple language support on your form.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;You have already uploaded your form that supports multiple languages onto &lt;strong&gt;ODK Collect&lt;/strong&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This tutorial is aimed at &lt;strong&gt;IT administrators&lt;/strong&gt; and/or &lt;strong&gt;survey managers&lt;/strong&gt; or &lt;strong&gt;coordinators&lt;/strong&gt; to allow them to change language settings on &lt;strong&gt;ODK Collect&lt;/strong&gt; in time for data collection.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;1-open-a-blank-form-that-supports-multiple-languages&#34;&gt;1. Open a blank form that supports multiple languages&lt;/h2&gt;
+
+&lt;p&gt;Tap on &lt;strong&gt;ODK Collect&lt;/strong&gt; then tap on &lt;strong&gt;&lt;em&gt;&amp;lsquo;Fill Blank Form&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;.
+&lt;img src=&#34;/img/tutorials/open-a-blank-form-that-supports-multiple-languages.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;You will then be shown a list of forms that are uploaded onto your &lt;strong&gt;ODK Collect&lt;/strong&gt;. Tap on the form that you want to use in &lt;strong&gt;ODK Collect&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;In this example, only one form is loaded onto &lt;strong&gt;ODK Collect&lt;/strong&gt;. The form&amp;rsquo;s name is in &lt;strong&gt;&lt;em&gt;Arabic&lt;/em&gt;&lt;/strong&gt;.
+&lt;img src=&#34;/img/tutorials/6b560b03-49a4-41a4-9a52-505f66ef32e1.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;After tapping on the form you want to use in &lt;strong&gt;ODK Collect&lt;/strong&gt;, you will be presented with the &lt;strong&gt;&lt;em&gt;&amp;lsquo;cover page&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; of the form that shows:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;The form logo if it has been provided by the creator of the form and if the logo has been uploaded into &lt;strong&gt;ODK Collect&lt;/strong&gt; as well. In the example below the form logo has been provided &lt;strong&gt;(1)&lt;/strong&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;An introductory message &lt;strong&gt;(2)&lt;/strong&gt; saying that you are at the start of the form that you selected and instructing you to tap the arrow buttons below to go backward and forward on the forms or to swipe backward and forward depending on how ODK has been configured (see &lt;a href=&#34;http://sudan.validmeasures.org/configuring-odk-collect-for-data-collection/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; regarding &lt;strong&gt;ODK Collect&lt;/strong&gt; settings and configuration).&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Tap on the forward button (or do a forward swipe) to see the first page of the form and to have an idea of what the form&amp;rsquo;s default language is &lt;strong&gt;(3)&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;In this example, we will take a look at what the form with an &lt;strong&gt;&lt;em&gt;Arabic&lt;/em&gt;&lt;/strong&gt; name looks like and what default language it uses.
+&lt;img src=&#34;/img/tutorials/19b29197-8fa7-4c88-bc7c-cd74265e9b9e.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;You now get to see the first page &lt;strong&gt;(1)&lt;/strong&gt; of the form that you have selected. &lt;strong&gt;ODK Collect&lt;/strong&gt; will always dispaly the form in the default language set for the form. Hence, the language that you see being used in the form in the first page is the default language of the form.&lt;/p&gt;
+
+&lt;p&gt;In this example, the default language of the form is English.&lt;/p&gt;
+
+&lt;p&gt;Now, tap on the backward button &lt;strong&gt;(2)&lt;/strong&gt; to get back to the &lt;strong&gt;&lt;em&gt;&amp;lsquo;cover page&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; of the form.
+&lt;img src=&#34;/img/tutorials/891c82f3-1856-43b3-b18b-fb2ecb6de605.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;2-go-to-odk-collect-s-change-language-settings&#34;&gt;2. Go to ODK Collect&amp;rsquo;s Change Language settings&lt;/h2&gt;
+
+&lt;p&gt;Once you are back to the &lt;strong&gt;&lt;em&gt;&amp;lsquo;cover page&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;, look at the top right corner of the screen. Here you will see an icon with three square dots on top of each other &lt;strong&gt;(1)&lt;/strong&gt;. This is the button that allows you to change the settings of &lt;strong&gt;ODK Collect&lt;/strong&gt; including the &lt;strong&gt;&lt;em&gt;&amp;lsquo;Change Language&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; settings &lt;strong&gt;(2)&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Once you have located this, tap on &lt;strong&gt;&lt;em&gt;&amp;lsquo;Change Language&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;.
+&lt;img src=&#34;/img/tutorials/go-to-odk-collect-s-change-language-settings.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;3-select-language-you-want-to-use-for-your-form&#34;&gt;3. Select language you want to use for your form&lt;/h2&gt;
+
+&lt;p&gt;You will then see the following dialog box giving options of the languages supported by the form. The selected language is the language that is currently being used by the form. Choose the language that you want to use for the form.&lt;/p&gt;
+
+&lt;p&gt;In the example below, the form is currently using &lt;strong&gt;&lt;em&gt;English&lt;/em&gt;&lt;/strong&gt;. We wil now select ***Arabic *** by tapping on the radio button beside that specific language.
+&lt;img src=&#34;/img/tutorials/select-language-you-want-to-use-for-your-form.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;4-check-the-language-now-used-by-the-form&#34;&gt;4. Check the language now used by the form&lt;/h2&gt;
+
+&lt;p&gt;You can now check the language being used by the form by tapping on the forward button again from the &lt;strong&gt;&lt;em&gt;&amp;lsquo;cover page&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;. You will now see that the form is displayed in the language that you have chosen which in this example is &lt;strong&gt;&lt;em&gt;Arabic&lt;/em&gt;&lt;/strong&gt;.
+&lt;img src=&#34;/img/tutorials/check-the-language-now-used-by-the-form.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Getting blank forms onto ODK Collect via a server connection</title>
+      <link>/post/getting-blank-forms-onto-odk-collect-via-a-server-connection/</link>
+      <pubDate>Mon, 30 Apr 2018 18:00:00 +0000</pubDate>
+      
+      <guid>/post/getting-blank-forms-onto-odk-collect-via-a-server-connection/</guid>
+      <description>
+
+&lt;p&gt;To be able to use &lt;strong&gt;ODK Collect&lt;/strong&gt; for data collection, pre-designed data collection forms will have to be loaded onto the application. There are generally two ways of performing this task.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Get blank forms from a pre-configured &lt;strong&gt;ODK server&lt;/strong&gt; designed to distribute blank forms and also to receive form submissions; and,&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Get blank froms directly onto the mobile device via a USB connection with a computer where the pre-designed data collection forms are located.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This tutorial describes how to get blank forrms onto &lt;strong&gt;ODK Collect&lt;/strong&gt; through a pre-configured &lt;strong&gt;ODK server&lt;/strong&gt;. This tutorial is applicable for web-based or cloud-based &lt;strong&gt;ODK servers&lt;/strong&gt; such as &lt;a href=&#34;https://formhub.org&#34; target=&#34;_blank&#34;&gt;Formhub&lt;/a&gt;, &lt;a href=&#34;http://www.surveycto.com/index.html&#34; target=&#34;_blank&#34;&gt;SureyCTO&lt;/a&gt;, &lt;a href=&#34;http://www.kobotoolbox.org&#34; target=&#34;_blank&#34;&gt;KoBoToolbox&lt;/a&gt;, &lt;a href=&#34;https://ona.io&#34; target=&#34;_blank&#34;&gt;ONA&lt;/a&gt; or &lt;a href=&#34;https://opendatakit.org/use/aggregate/&#34; target=&#34;_blank&#34;&gt;ODK Aggregate&lt;/a&gt; or for variants of these servers that are locally-deployed (i.e., server installed onto a local computer). This tutorial assumes that you:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Have an account with one of the web-based or cloud-based &lt;strong&gt;ODK servers&lt;/strong&gt; or that you have your own web-based deployment of one of these &lt;strong&gt;ODK servers&lt;/strong&gt; or its variants or that you have your own locally-deployed &lt;strong&gt;ODK server&lt;/strong&gt;;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt;Have created forms using the &lt;/span&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt;&lt;strong&gt;XLSForm&lt;/strong&gt;&lt;/span&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt; standard. Instructions and guide on how to create forms using &lt;/span&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt;&lt;strong&gt;XLSForm&lt;/strong&gt;&lt;/span&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt; standard can be found &lt;/span&gt;&lt;span style=&#34;color: rgb(142,190,218)&#34;&gt;&lt;a href=&#34;http://xlsform.org/&#34;&gt;here&lt;/a&gt;&lt;/span&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt;. If you have created forms using &lt;/span&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt;&lt;strong&gt;XForms&lt;/strong&gt;&lt;/span&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt; standard, consider using the second approach of transferring blank forms directly onto mobile device via a USB connection with a computer;&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt;Have uploaded your forms onto your &lt;/span&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt;&lt;strong&gt;ODK server&lt;/strong&gt;&lt;/span&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt;. A tutorial on how to upload forms onto an &lt;/span&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt;&lt;strong&gt;ODK server&lt;/strong&gt;&lt;/span&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt; can be found &lt;/span&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt;&lt;a href=&#34;http://sudan.validmeasures.org/publishing-forms-onto-formhub-local-server/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/span&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt;;&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt;Have internet access (for web-based &lt;/span&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt;&lt;strong&gt;ODK servers&lt;/strong&gt;&lt;/span&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt;) or a local area network configured (for locally-deployed &lt;/span&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt;&lt;strong&gt;ODK servers&lt;/strong&gt;&lt;/span&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt;); and,&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt;Have &lt;/span&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt;&lt;strong&gt;ODK Collect&lt;/strong&gt;&lt;/span&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt; installed on your mobile device. &lt;/span&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Now, let&amp;rsquo;s get blank forms onto your mobile device.&lt;/p&gt;
+
+&lt;h2 id=&#34;1-open-odk-collect&#34;&gt;1. Open ODK Collect&lt;/h2&gt;
+
+&lt;p&gt;Find the &lt;strong&gt;ODK Collect&lt;/strong&gt; app icon on your device and tap. You will see the following on your screen.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/open-odk-collect.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;2-configure-odk-collect-server-settings&#34;&gt;2. Configure ODK Collect server settings&lt;/h2&gt;
+
+&lt;p&gt;On the upper right hand corner of the &lt;strong&gt;ODK Collect&lt;/strong&gt; screen, you will see three square dots on top of each other &lt;strong&gt;(1)&lt;/strong&gt;. Click on this and a dropdown menu will appear showing options for &lt;strong&gt;&lt;em&gt;&amp;lsquo;General Settings&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(2)&lt;/strong&gt; and for &lt;strong&gt;&lt;em&gt;&amp;lsquo;Admin Settings&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(3)&lt;/strong&gt;.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/configure-odk-collect-server-settings.png&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;2-1-tap-on-general-settings&#34;&gt;2.1 Tap on General Settings&lt;/h3&gt;
+
+&lt;p&gt;First, we should configure the &lt;strong&gt;&lt;em&gt;&amp;lsquo;General Settings&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; option of &lt;strong&gt;ODK Collect&lt;/strong&gt;. This is what you will see once you tap on &lt;strong&gt;&lt;em&gt;&amp;lsquo;General Settings&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;There are three main &amp;lsquo;General Settings&amp;rsquo; categories that can be configured: &lt;strong&gt;&lt;em&gt;Server Settings&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(1)&lt;/strong&gt;, &lt;strong&gt;&lt;em&gt;Auto Send&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(2)&lt;/strong&gt;, and &lt;strong&gt;&lt;em&gt;User Interface&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(3)&lt;/strong&gt;.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/tap-on-general-settings.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;2-2-tap-on-server-settings&#34;&gt;2.2 Tap on server settings&lt;/h3&gt;
+
+&lt;p&gt;In &lt;strong&gt;&lt;em&gt;&amp;lsquo;Server Settings&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;, there are two main settings that will need configuring: &lt;strong&gt;&lt;em&gt;Platform&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(1)&lt;/strong&gt; and &lt;strong&gt;&lt;em&gt;Platform settings&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(2)&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;First, tap on &lt;strong&gt;&lt;em&gt;Platform&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(1)&lt;/strong&gt;.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/tap-on-server-settings.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;You will then be presented with various platform options that you can select depending on the type of server that you are using for your data collection campaign. &lt;strong&gt;ODK Aggregate&lt;/strong&gt; is the default platform. For anything other than the default &lt;strong&gt;ODK Aggregate&lt;/strong&gt; platform that is provided on &lt;strong&gt;ODK Collect&lt;/strong&gt; by default, you will most likely need to select &lt;strong&gt;Other&lt;/strong&gt; option so that you can specify your own platform for your data collection server.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/7893044c-9d57-4395-8b68-853ed56bebf5.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Next, tap on &lt;strong&gt;&lt;em&gt;&amp;lsquo;Configure platform settings&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(2)&lt;/strong&gt;.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/7298b62a-d734-49a9-b1b6-8f0d6d4baeb6.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;You will then see the following options on your screen. Here you can specify the settings of the server used by your platform specifically the &lt;strong&gt;URL of your server&lt;/strong&gt; &lt;strong&gt;(1)&lt;/strong&gt;, the &lt;strong&gt;username&lt;/strong&gt; &lt;strong&gt;(2)&lt;/strong&gt; and &lt;strong&gt;password&lt;/strong&gt; &lt;strong&gt;(3)&lt;/strong&gt; used to login to your server. If you do not know these settings, you should ask your IT administrator or whoever setup your server platform to provide you with these settings. For most service providers offering servers for use by ODK, these settings are made explicit within your account so all you might need to do is to login to your account and find these settings.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/bb41af04-0c2d-4a35-873d-65783400301e.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;For example, if you are using a locally-deployed &lt;strong&gt;Formhub&lt;/strong&gt; server as your &lt;strong&gt;ODK&lt;/strong&gt; platform, you can find your server settings by logging in to your account and then scrolling down to the bottom of the webpage of the Formhub portal, you will see the following information about your Formhub server which you can use to setup the platform settings on your ODK Collect.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/0f69dcbf-841f-4fcf-a113-b010e4bc7016.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;3-get-blanks-forms-from-the-server&#34;&gt;3. Get blanks forms from the server&lt;/h2&gt;
+
+&lt;p&gt;Once you have configured the server settings, go back to the main screen of &lt;strong&gt;ODK Collect&lt;/strong&gt; (as shown below) and then tap on &lt;strong&gt;&lt;em&gt;&amp;lsquo;Get Blank Form&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/get-blanks-forms-from-the-server.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;You will then see a list of the various blank forms that are available from the server. In the example below, there is only one form available called **Incidence / **&lt;strong&gt;حدوث&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Select this form by ticking the box on its right hand side &lt;strong&gt;&lt;em&gt;(1)&lt;/em&gt;&lt;/strong&gt;. Then tap the button on the bottom right hand corner of the &lt;strong&gt;ODK Collect&lt;/strong&gt; screen labeled ***&amp;lsquo;Get selected&amp;rsquo; ***&lt;strong&gt;(2)&lt;/strong&gt;.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/3bbba33a-8611-48ea-b4a9-a6f4b5220f1e.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;You will then see the following prompt indicating that &lt;strong&gt;ODK Collect&lt;/strong&gt; is communicating with the server and downloading the **Incidence / **&lt;strong&gt;حدوث&lt;/strong&gt; blank form.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/f1845190-e09f-42ff-98c8-88e7154c90bc.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The following prompt will come out on your screen once the download process is finished.&lt;/p&gt;
+
+&lt;p&gt;Congratulations, you have successfully downloaded a blank form from your specified server!
+&lt;br /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Localising ODK Collect to specific language</title>
+      <link>/post/localising-odk-collect-to-specific-language/</link>
+      <pubDate>Mon, 30 Apr 2018 18:00:00 +0000</pubDate>
+      
+      <guid>/post/localising-odk-collect-to-specific-language/</guid>
+      <description>
+
+&lt;p&gt;The &lt;strong&gt;ODK Collect&lt;/strong&gt; application for devices running Android can be localised into several different languages. Currently, the application has been fully translated into 11 different languages and is partly translated into 41 other languages.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;ODK Collect&lt;/strong&gt; language localisation is dependent on the language localisation of the mobile device to which &lt;strong&gt;ODK Collect&lt;/strong&gt; is installed in. The language to which the mobile device is set will be the language to which &lt;strong&gt;ODK Collect&lt;/strong&gt; will localise to.&lt;/p&gt;
+
+&lt;p&gt;This tutorial shows how to change the language settings of a mobile device running Android. As an example, this tutorial will show how to change the language settings of the mobile device from &lt;strong&gt;&lt;em&gt;English (United Kingdom)&lt;/em&gt;&lt;/strong&gt; to &lt;strong&gt;&lt;em&gt;Arabic&lt;/em&gt;&lt;/strong&gt;.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;1-go-to-settings&#34;&gt;1. Go to settings&lt;/h2&gt;
+
+&lt;p&gt;On your tablet device, tap on the &lt;strong&gt;&lt;em&gt;&amp;lsquo;Settings&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/go-to-settings.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;You will then see the following on your tablet screen. There are four (4) tabs on top of the screen named &lt;strong&gt;&lt;em&gt;1) Connections&lt;/em&gt;&lt;/strong&gt;; &lt;strong&gt;&lt;em&gt;2) Device&lt;/em&gt;&lt;/strong&gt;; &lt;strong&gt;&lt;em&gt;3) Controls&lt;/em&gt;&lt;/strong&gt;; and &lt;strong&gt;&lt;em&gt;4) General&lt;/em&gt;&lt;/strong&gt;. These are the four settings categories that can be configured as needed.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/3ba30222-26ba-4975-9997-de287121c885.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;2-tap-on-controls&#34;&gt;2. Tap on &amp;lsquo;Controls&amp;rsquo;&lt;/h2&gt;
+
+&lt;p&gt;To change language settings, tap &lt;strong&gt;&lt;em&gt;&amp;lsquo;Controls&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;** (1), **then tap on &lt;strong&gt;&lt;em&gt;&amp;lsquo;Language and input&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;** (2)** and then tap on &lt;strong&gt;&lt;em&gt;&amp;lsquo;Language&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;** (3)**
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/tap-on-controls-.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;You will then see the following Language options on your screen.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/b6c398c9-c109-4358-8e9e-0343200e237c.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;3-select-language-to-set-device-to&#34;&gt;3. Select language to set device to&lt;/h2&gt;
+
+&lt;p&gt;For this example, we will change the language from &lt;strong&gt;&lt;em&gt;English (United Kingdom)&lt;/em&gt;&lt;/strong&gt; to &lt;strong&gt;&lt;em&gt;Arabic&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Scroll down the language list and look for &lt;strong&gt;&lt;em&gt;Arabic (which is written in Arabic script)&lt;/em&gt;&lt;/strong&gt;. Tap to select &lt;strong&gt;&lt;em&gt;Arabic&lt;/em&gt;&lt;/strong&gt;.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/select-language-to-set-device-to.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;You will then see that the language used in your mobile device is now &lt;strong&gt;&lt;em&gt;Arabic&lt;/em&gt;&lt;/strong&gt; as shown below.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/21cfc60b-6205-4c87-9582-6fa840ae89f3.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Setting the default language of your device to a specific language will affect applications installed in your mobile device that also have language localisation features. For these applications, their default language will change to the language of the mobile device.&lt;/p&gt;
+
+&lt;p&gt;This will be the case for &lt;strong&gt;ODK Collect&lt;/strong&gt;. Since you have changed the default language of your device to &lt;strong&gt;&lt;em&gt;Arabic&lt;/em&gt;&lt;/strong&gt;, &lt;strong&gt;ODK Collect&lt;/strong&gt; will now use &lt;strong&gt;&lt;em&gt;Arabic&lt;/em&gt;&lt;/strong&gt; as the default language for the application. This means that the menus and the text in &lt;strong&gt;ODK Collect&lt;/strong&gt; will now all be in &lt;strong&gt;Arabic&lt;/strong&gt; as shown below.&lt;/p&gt;
+
+&lt;p&gt;It should be noted, however, that this language localisation only affects the text in the &lt;strong&gt;ODK Collect&lt;/strong&gt; application. This language localisation will not affect the default language that is set in the forms that are loaded into &lt;strong&gt;ODK Collect&lt;/strong&gt;. So, for example, if a form that is created in English is loaded onto &lt;strong&gt;ODK Collect&lt;/strong&gt; that is localised in &lt;strong&gt;&lt;em&gt;Arabic&lt;/em&gt;&lt;/strong&gt;, the form will still show in &lt;strong&gt;&lt;em&gt;English&lt;/em&gt;&lt;/strong&gt; and not in &lt;strong&gt;&lt;em&gt;Arabic&lt;/em&gt;&lt;/strong&gt;. In order for this form to be localised into &lt;strong&gt;&lt;em&gt;Arabic&lt;/em&gt;&lt;/strong&gt;, the form should have been authored in both &lt;strong&gt;&lt;em&gt;English&lt;/em&gt;&lt;/strong&gt; and &lt;strong&gt;&lt;em&gt;Arabic&lt;/em&gt;&lt;/strong&gt; and then the language settings for the form is set into &lt;strong&gt;&lt;em&gt;Arabic&lt;/em&gt;&lt;/strong&gt; (as shown in this &lt;a href=&#34;http://sudan.validmeasures.org/changing-odk-collect-language-settings/&#34; target=&#34;_blank&#34;&gt;tutorial&lt;/a&gt;).
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/dda85138-ec23-465f-8171-a449792e2207.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deleting saved and blank forms on ODK Collect</title>
+      <link>/post/deleting-saved-and-blank-forms-on-odk-collect/</link>
+      <pubDate>Mon, 30 Apr 2018 17:00:00 +0000</pubDate>
+      
+      <guid>/post/deleting-saved-and-blank-forms-on-odk-collect/</guid>
+      <description>
+
+&lt;p&gt;There will be situations when you will need to delete some forms, either saved or blank forms, from your &lt;strong&gt;ODK Collect&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;The most common reason for deleting saved forms is when you have already submitted your finalised forms to your chosen data or forms aggregator (this can be a web-based &lt;strong&gt;ODK server&lt;/strong&gt; provided by &lt;a href=&#34;https://formhub.org&#34; target=&#34;_blank&#34;&gt;Formhub&lt;/a&gt;, &lt;a href=&#34;http://www.surveycto.com/index.html&#34; target=&#34;_blank&#34;&gt;SureyCTO&lt;/a&gt;, &lt;a href=&#34;http://www.kobotoolbox.org&#34; target=&#34;_blank&#34;&gt;KoBoToolbox&lt;/a&gt;, &lt;a href=&#34;https://ona.io&#34; target=&#34;_blank&#34;&gt;ONA&lt;/a&gt; or &lt;a href=&#34;https://opendatakit.org/use/aggregate/&#34; target=&#34;_blank&#34;&gt;ODK Aggregate&lt;/a&gt; and the like or for variants of these servers that are locally-deployed i.e., server installed onto a local computer or through &lt;strong&gt;ODK Briefcase&lt;/strong&gt;) and you want to clear these submitted forms from your &lt;strong&gt;ODK Collect&lt;/strong&gt;. The default behaviour of &lt;strong&gt;ODK Collect&lt;/strong&gt; after forms submissions is to keep a copy of the saved form in &lt;strong&gt;ODK Collect&lt;/strong&gt; (which can be changed in **ODK Collect&amp;rsquo;s **&lt;strong&gt;&lt;em&gt;&amp;lsquo;General Settings&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;). However, extreme caution is always recommended when deleting saved forms because this can potentially lead to loss of data. If in doubt whether saved forms have been submitted already or not, make a backup of the data before deleting the saved forms.&lt;/p&gt;
+
+&lt;p&gt;The most common reason for deleting blank forms is to clear out forms that have been used for testing purposes or forms that were downloaded but eventually didn&amp;rsquo;t get used. Since these are blank forms and not associated with any data, these forms can be safely deleted.&lt;/p&gt;
+
+&lt;p&gt;This short tutorial shows how to delete saved forms and blank forms in &lt;strong&gt;ODK Collect&lt;/strong&gt;. This tutorial assumes that you have downloaded forms onto your &lt;strong&gt;ODK Collect&lt;/strong&gt; and may have some saved forms as well.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;1-open-odk-collect&#34;&gt;1. Open ODK Collect&lt;/h2&gt;
+
+&lt;p&gt;Tap on ODK Collect application. Then tap on the &lt;strong&gt;&lt;em&gt;&amp;lsquo;Delete Saved Form&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; button as shown below.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/open-odk-collect.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;2-deleting-saved-forms&#34;&gt;2. Deleting saved forms&lt;/h2&gt;
+
+&lt;p&gt;You will then see the following screen on &lt;strong&gt;ODK Collect&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;On the upper portion of the &lt;strong&gt;ODK Collect&lt;/strong&gt; screen, you will see two tabs: &lt;strong&gt;Saved Forms (1)&lt;/strong&gt; and &lt;strong&gt;Blank Forms (2)&lt;/strong&gt;. By default, &lt;strong&gt;ODK Collect&lt;/strong&gt; will show first the items under the &lt;strong&gt;Saved Forms&lt;/strong&gt; tab. In the example below, there is one saved form in this &lt;strong&gt;ODK Collect&lt;/strong&gt;. The naming of the form is based on the syntax set during the creation of the form. In this example, it seems the saved form name starts with a date, then and ID and then a name &lt;strong&gt;(3)&lt;/strong&gt;. Below the form name is information on when the form was submitted &lt;strong&gt;(4)&lt;/strong&gt;. This is an indication that can be used to determine whether a saved form has been submitted or not. Remember, before proceeding with deleting saved forms, it would be good to make sure first that the form has been submitted. If in doubt, the recommendation is to backup the data before making any deletions.&lt;/p&gt;
+
+&lt;p&gt;Tick the box on the right side of the saved form name that you want to delete &lt;strong&gt;(5)&lt;/strong&gt;. Then tap on &amp;lsquo;Delete Selected&amp;rsquo; button at the bottom right corner of the &lt;strong&gt;ODK Collect&lt;/strong&gt; screen &lt;strong&gt;(6)&lt;/strong&gt;.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/deleting-saved-forms.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;You will then see the following prompt which will get a confirmation from you whether you really want to delete the form/s that you have selected &lt;strong&gt;(1)&lt;/strong&gt;. Again, make sure that you have submitted this form already or that you have backed up all data. If you are sure you want to delete the form, tap on &lt;strong&gt;&lt;em&gt;&amp;lsquo;Delete Forms&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;** (2)**.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/a21c69e3-7671-494e-bf63-1ef5aefe0328.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;You will then see the following prompt when the deletion has been completed &lt;strong&gt;(1)&lt;/strong&gt;. In this case, since there is no saved forms left, the screen also shows no forms to display &lt;strong&gt;(2)&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Congratulations! You have now deleted saved forms from your &lt;strong&gt;ODK Collect&lt;/strong&gt;.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/d56bc8da-924c-42e9-a384-027ce286b28e.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;3-deleting-blank-forms&#34;&gt;3. Deleting blank forms&lt;/h2&gt;
+
+&lt;p&gt;Deleting blank forms will follow the same steps as deleting saved forms described above.&lt;/p&gt;
+
+&lt;p&gt;When you have done step 1 and are now in the &lt;strong&gt;&lt;em&gt;&amp;lsquo;Delete Saved Form&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; screen &lt;strong&gt;(1)&lt;/strong&gt;, tap on &lt;strong&gt;Blank Forms&lt;/strong&gt; tab &lt;strong&gt;(2)&lt;/strong&gt; to view the blanks forms loaded into your &lt;strong&gt;ODK Collect&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;In this example, there is one blank form called &lt;strong&gt;Incidence (3)&lt;/strong&gt;. Below the form name, the data on which the form was added to &lt;strong&gt;ODK Collect&lt;/strong&gt; is indicated &lt;strong&gt;(4)&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Tick the box on the right side of the form name &lt;strong&gt;(5)&lt;/strong&gt; and then tap on &lt;strong&gt;&lt;em&gt;&amp;lsquo;Delete Selected&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; button &lt;strong&gt;(6)&lt;/strong&gt; on the bottom rigth corner of the screen.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/deleting-blank-forms.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;You will then see a prompt to confirm that you want to delete the selected form/s &lt;strong&gt;(1)&lt;/strong&gt;. Tap on ***&amp;lsquo;Delete Forms&amp;rsquo; ***&lt;strong&gt;(2)&lt;/strong&gt;.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/e42828e2-7adb-4a7a-ad26-ff88136edbd8.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;You will then see a prompt saying that the form has been deleted &lt;strong&gt;(1)&lt;/strong&gt; and that there is no other blank forms to display &lt;strong&gt;(2)&lt;/strong&gt;.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/2613e2dd-296b-416c-bd3a-25b7c61fbf93.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Configuring tablets for data collection campaigns</title>
+      <link>/post/configuring-tablets-for-data-collection-campaigns/</link>
+      <pubDate>Mon, 30 Apr 2018 16:00:00 +0000</pubDate>
+      
+      <guid>/post/configuring-tablets-for-data-collection-campaigns/</guid>
+      <description>
+
+&lt;p&gt;It is important to configure mobile devices such as &amp;nbsp;mobile phones or tablets that are going to be used for data collection. From the point of view of a &lt;strong&gt;&lt;em&gt;survey manager&lt;/em&gt;&lt;/strong&gt;, it will be important that the devices are configured in such a way that:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Prevents inappropriate use by enumerators;&lt;/li&gt;
+&lt;li&gt;Conserves the battery power of the device; and,&lt;/li&gt;
+&lt;li&gt;Maximises its use for data collection.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This tutorial describes how to configure a tablet device appropriately in preparation for a data collection campaign. This tutorial focuses on a tablet device specifically the &lt;strong&gt;Samsung SM -T230&lt;/strong&gt;. Although all &lt;a href=&#34;http://www.android.com&#34; target=&#34;_blank&#34;&gt;Android&lt;/a&gt;-powered devices have a similar type of settings that can be configured, the way that these settings are presented and arrived at and the process by which to adjust them might be slightly different depending on the brand of the device. This tutorial is aimed at &lt;strong&gt;IT administrators&lt;/strong&gt; and/or &lt;strong&gt;survey coordinators/managers&lt;/strong&gt; who are meant to configure the mobile devices for use by enumerators.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;1-go-to-settings&#34;&gt;1. Go to settings&lt;/h2&gt;
+
+&lt;p&gt;On your tablet device, tap on the &lt;strong&gt;&lt;em&gt;&amp;lsquo;Settings&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;.
+&lt;img src=&#34;/img/tutorials/go-to-settings.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;You will then see the following on your tablet screen. There are four (4) tabs on top of the screen named &lt;strong&gt;&lt;em&gt;1) Connections&lt;/em&gt;&lt;/strong&gt;; &lt;strong&gt;&lt;em&gt;2) Device&lt;/em&gt;&lt;/strong&gt;; &lt;strong&gt;&lt;em&gt;3) Controls&lt;/em&gt;&lt;/strong&gt;; and &lt;strong&gt;&lt;em&gt;4) General&lt;/em&gt;&lt;/strong&gt;. These are the four settings categories that can be configured as needed.
+&lt;img src=&#34;/img/tutorials/f757e156-1586-4b6d-8f13-60c006ef239f.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;** 2. Configure the Connections settings
+Under the &lt;strong&gt;&lt;em&gt;Connection&lt;/em&gt;&lt;/strong&gt;* *tab, the following settings should be configured:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;**Wi-Fi (1) **- this should be set to OFF during the data collection process. When ON, the device keeps on scanning for &lt;strong&gt;Wi-Fi&lt;/strong&gt; networks that are available. During the data collection process, there will most likely be no available &lt;strong&gt;Wi-Fi&lt;/strong&gt; network hence the continuous scanning will drain the battery device very quickly. However, when enumerators are meant to submit the data they have collected to the server, the &lt;strong&gt;Wi-Fi&lt;/strong&gt; will have to be turnen ON again so that the device can connect to the &lt;strong&gt;Wi-Fi&lt;/strong&gt; network that will enable the device to submit data to the server.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Bluetooth (2)&lt;/strong&gt; - the Bluetooth should be set to OFF during the data collection process. When Bluetooth is ON, the device keeps on scanning for Bluetooth devices to connect to. This continuous scanning will drain the batter device very quickly.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Location (3)&lt;/strong&gt; - this should be set to ON during the data collection process if you will be collecting GPS coordinates.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Nearby devices (4)&lt;/strong&gt; - this should be set to OFF. This settings uses near-field communication (NFC) to communicate with other devices that are NFC-enabled. Just like Bluetooth, when turned ON, the device will keep on scanning to look for devices to connect to which will drain the battery device very quickly.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/configure-the-connections-settings.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;3-configure-the-device-settings&#34;&gt;3. Configure the Device settings&lt;/h2&gt;
+
+&lt;p&gt;Tap on the &lt;strong&gt;&lt;em&gt;Device&lt;/em&gt;&lt;/strong&gt; tab. You will now see the following on your tablet&amp;rsquo;s screen.&lt;/p&gt;
+
+&lt;p&gt;The first settings to configure will be the &lt;strong&gt;&lt;em&gt;Sound and Display&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;For ***Sound ***&lt;strong&gt;(1)&lt;/strong&gt;, the most relevant settings to configure will be whether you would want to get sound-based feedback when you interact with the device such as touching the screen and making selections &lt;strong&gt;(2)&lt;/strong&gt; and when you lock or unlock the device &lt;strong&gt;(3)&lt;/strong&gt;. These settings are checked by default as most users prefer some form of feedback when they tap on the screen or when they lock or unlock the screen. Uncheck this device if you prefer not to have these sounds on. These settings have very little effect on the device battery life and is more a matter of preference.
+&lt;img src=&#34;/img/tutorials/configure-the-device-settings.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Next, tap on &lt;strong&gt;&lt;em&gt;&amp;lsquo;Display&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; settings &lt;strong&gt;(1)&lt;/strong&gt; under the &lt;strong&gt;&lt;em&gt;&amp;lsquo;Device&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; tab settings.&lt;/p&gt;
+
+&lt;p&gt;The following settings can be configured here:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Brigthness (2)&lt;/strong&gt; - this should be configured as needed but ideally should be set to no more than middle level brightness. Make sure that screen brigthness is not set to maximum at any point as this will drain the battery device very quickly.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Screen timeout (3)&lt;/strong&gt; - this settings determine how long the screen stays on when device is not in use. This should be set to about 10 minutes of inactivity. This is just about enough time for enumerators to ask questions and get a response and then record on the device without the screen going OFF and then the device going on lock.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Daydream (4)&lt;/strong&gt; - this is the screensaver for these devices. This should be turned OFF because when activated, a screen saver turns on when the device is inactive instead of the screen turning OFF and getting locked. This causes battery device drainage.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Display batter percentage (5)&lt;/strong&gt; - this should be checked. This will help enumerators to determine whethet their devices have anough power or not.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/49465425-9d8a-461a-b9df-8fe17c912a16.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Next tap on &lt;strong&gt;&lt;em&gt;&amp;lsquo;Mulit windows&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; setting &lt;strong&gt;(1)&lt;/strong&gt;. This should be unchecked (2). For the purposes of data collection, there is no use for the multi window functionality.
+&lt;img src=&#34;/img/tutorials/9cc72447-6005-4ae8-a646-0b59b1d8255b.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Next tap on the &lt;strong&gt;&lt;em&gt;&amp;lsquo;Lock screen&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; settting &lt;strong&gt;(1)&lt;/strong&gt;. Under this setting, there are two main things we need to configure.&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;&lt;em&gt;&amp;lsquo;Owner information&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; setting &lt;strong&gt;(2)&lt;/strong&gt; would be good to configure because this allows you to name the device you are setting up. This is especially important when you are managing multiple devices for data collection and you need to identify one device from the other so you know what device goes to which enumerator and other management task.&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;&lt;em&gt;&amp;lsquo;Unlock effect&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(3)&lt;/strong&gt; should also be configured to None. This setting ensures that unlocking of the device is quick and easy without unnecessary effects.
+&lt;img src=&#34;/img/tutorials/3a74f296-3ecf-4c8e-bbe7-fbff003171bf.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now, tap on &lt;strong&gt;&lt;em&gt;&amp;lsquo;Font&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; setting.&lt;/p&gt;
+
+&lt;p&gt;Here, there is one key setting to consider and that is the &lt;strong&gt;&lt;em&gt;&amp;lsquo;Font size&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;. You should consider the best font size that would make the text of the device easier to read for enumerators. The device defaults to Medium which is generally a good font size to use. Change this font size if you think a bigger or smaller font would be necessary.
+&lt;img src=&#34;/img/tutorials/f47e02fc-9667-4c25-a13b-ee855d7f0a1c.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;4-configure-the-controls-settings&#34;&gt;4. Configure the Controls settings&lt;/h2&gt;
+
+&lt;p&gt;Now, tap on the &lt;strong&gt;&lt;em&gt;&amp;lsquo;Controls&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; settings tab on top of the screen.&lt;/p&gt;
+
+&lt;p&gt;The first setting to configure is the &lt;strong&gt;&lt;em&gt;&amp;lsquo;Language and input&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; setting (1).&lt;/p&gt;
+
+&lt;p&gt;The language used in the device can be configured to the language that is most appropriate for the data collection. When the &lt;strong&gt;&lt;em&gt;&amp;lsquo;Language&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; setting &lt;strong&gt;(2)&lt;/strong&gt; is set to a particular language, the device uses that language throughout the device. In this example, the device is set to &lt;strong&gt;&lt;em&gt;&amp;lsquo;English (United Kingdom)&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;The next setting is &lt;strong&gt;&lt;em&gt;&amp;lsquo;Keyboards and input methods&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;. By default, Samsung devices uses the Samsung keyboard. However, there are various keyboard applications now available that provide much better keyboard input than the default Samsung keyboard. We recommend the use of &lt;strong&gt;SwiftKey&lt;/strong&gt; keyboard as the layout of the keyboard is much better than the Samsung keyboard which allows for much accurate text entry.&lt;/p&gt;
+
+&lt;p&gt;To be able to enable &lt;strong&gt;SwiftKey&lt;/strong&gt;, you first need to download the &lt;strong&gt;SwiftKey&lt;/strong&gt; application from the &lt;strong&gt;Google Play Store&lt;/strong&gt; (see this guide on how to download and install applications fron the &lt;strong&gt;Google Play Store&lt;/strong&gt;). Once installed, the &lt;strong&gt;SwiftKey&lt;/strong&gt; keyboard option now becomes available in the &amp;lsquo;Keyboards and input methods&amp;rsquo; settings (4). This keyboard option can now be checked. Checking this keyboard option includes &lt;strong&gt;SwiftKey&lt;/strong&gt; keyboard as a keyboard choice for the user. To make it default, tap on the &lt;strong&gt;&lt;em&gt;&amp;lsquo;Default&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; setting of the &lt;strong&gt;&lt;em&gt;&amp;lsquo;Keyboards and input methods&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;, and then select &lt;strong&gt;SwiftKey&lt;/strong&gt; as the default keyboard &lt;strong&gt;(3)&lt;/strong&gt;.
+&lt;img src=&#34;/img/tutorials/configure-the-controls-settings.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now, set the &lt;strong&gt;&lt;em&gt;&amp;lsquo;Palm motion&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; setting &lt;strong&gt;(1)&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Turn off the setting for both &lt;strong&gt;&lt;em&gt;&amp;lsquo;Capture screen&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(2)&lt;/strong&gt; and &lt;strong&gt;&lt;em&gt;&amp;lsquo;Mute/Pause&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(3)&lt;/strong&gt; setting. This avoids enumerators unintentioally activating this gesture input which can confuse them on what to do next.
+&lt;img src=&#34;/img/tutorials/d23a42fd-b7eb-4aae-9ef0-c84507215bf2.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now, set the &lt;strong&gt;&lt;em&gt;&amp;lsquo;Smart Screen&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; setting &lt;strong&gt;(1)&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;You should uncheck the &lt;strong&gt;&lt;em&gt;&amp;lsquo;Smart stay&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; option &lt;strong&gt;(2)&lt;/strong&gt;. Whilst this setting is a clever functionality, this can drain the battery device much quicker because it utilises the front camera to determine whether the user is looking at the screen or not.
+&lt;img src=&#34;/img/tutorials/6d344d6d-1855-4b22-9d93-77d9d548a36c.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;5-configure-the-general-settings&#34;&gt;5. Configure the General settings&lt;/h2&gt;
+
+&lt;p&gt;Next, tap on the &lt;strong&gt;&lt;em&gt;&amp;lsquo;General&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; settings tab.&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;&lt;em&gt;&amp;lsquo;Accounts&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; setting is the first to configure &lt;strong&gt;(1)&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you have already configured your device with a &lt;strong&gt;Google&lt;/strong&gt; account, you should see under the &lt;strong&gt;&lt;em&gt;&amp;lsquo;Accounts&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; section the &lt;strong&gt;Google&lt;/strong&gt; icon &lt;strong&gt;(2)&lt;/strong&gt;. If not, this is the time to add your Google account. Click on &lt;strong&gt;&lt;em&gt;&amp;lsquo;Add account&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; and then follow the instructions after that.&lt;/p&gt;
+
+&lt;p&gt;Other accounts can be added here. However, for purposes of data collection, there is no for these other accounts unless your data collection campaigns requires any other accounts setup in your device.
+&lt;img src=&#34;/img/tutorials/configure-the-general-settings.png&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now, we should set the &lt;strong&gt;&lt;em&gt;&amp;lsquo;Date and time&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; settings.&lt;/p&gt;
+
+&lt;p&gt;It would be important to set the &lt;strong&gt;&lt;em&gt;&amp;lsquo;Date and time&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; settings of the device appropriately. This is relevant to data collection because some forms that collects dates uses the date and time of the device to determine what the current date and time is. If these settings are not set correctly, then the recorded date and time in the forms will also be incorrect.
+&lt;img src=&#34;/img/tutorials/4342dc1e-28e2-4837-ab84-7efb907b9c5f.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Next, tap on the &amp;lsquo;Application manager&amp;rsquo;.&lt;/p&gt;
+
+&lt;p&gt;This setting allows you to &lt;strong&gt;&lt;em&gt;disable&lt;/em&gt;&lt;/strong&gt; or &lt;strong&gt;&lt;em&gt;uninstall&lt;/em&gt;&lt;/strong&gt; certain applications that is not really needed for your data collection. It is recommended that you disable or uninstall any applications installed on the device that will not be used by the enumerators for data collection. Doing so prevents unintended use of the device by the enumerators and ensures that the battery of the device is conserved and used only for data collection as much as possible.&lt;/p&gt;
+
+&lt;p&gt;It should be noted however that certain applications come pre-installed by the brand manufacturers. For some of these, they cannot be uninstalled or disabled as they have been hard set to stay on the device.
+&lt;img src=&#34;/img/tutorials/70d6265c-5d6f-48be-bf96-c087d8ac1b97.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Next, tap on &lt;strong&gt;&lt;em&gt;&amp;lsquo;Power saving mode&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; settings &lt;strong&gt;(1)&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;&lt;em&gt;&amp;lsquo;CPU Performance&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; option can be checked &lt;strong&gt;(2)&lt;/strong&gt;. Data collection doesn&amp;rsquo;t required great CPU performance at all and definitely will not require maximum performance at any point. This will increase battery life of the device.&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;&lt;em&gt;&amp;lsquo;Screen output&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; option can be checked &lt;strong&gt;(3)&lt;/strong&gt;. Data collection doesn&amp;rsquo;t require high frame rates (as compared to watching videos or playing games). Checking this option will increase battery life of the device.
+&lt;img src=&#34;/img/tutorials/59bba5a1-87d1-4c04-89fc-a18ab82b4191.png&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     

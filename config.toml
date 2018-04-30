@@ -256,8 +256,8 @@ defaultContentLanguageInSubdir = false
   weight = 3
 
 [[menu.main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Guides and Tutorials"
+  url = "#guides"
   weight = 4
 
 #[[menu.main]]

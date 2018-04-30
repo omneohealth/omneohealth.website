@@ -11,6 +11,166 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Configuring ODK Collect for data collection</title>
+      <link>/post/configuring-odk-collect-for-data-collection/</link>
+      <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/configuring-odk-collect-for-data-collection/</guid>
+      <description>
+
+&lt;p&gt;Once &lt;strong&gt;ODK Collect&lt;/strong&gt; has been installed on the mobile device/s that you will be using for data collection, you may want to configure it&amp;rsquo;s settings so as to be able to fully maximise its use and also to make it as easy as possible to use by your enumerators. Depending on how involved you aim your enumerators to be in the management of the data collection process, you may want to make available or limit certain settings or functions of &lt;strong&gt;ODK Collect&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;This tutorial describes how to setup the various configuration options of &lt;strong&gt;ODK Collect&lt;/strong&gt; with the aim of minimising possible unintended interference by enumerators on the various settings that might be detrimental to your data collection campaign. These include the options to load blank forms and change the settings of the server platform (if you are using any). This guide is aimed at IT administrators and/or survey coordinators/managers who will be setting up &lt;strong&gt;ODK Collect&lt;/strong&gt; prior to distribution of the mobile devices to enumerators.&lt;/p&gt;
+
+&lt;p&gt;This tutorial assumes that &lt;strong&gt;ODK Collect&lt;/strong&gt; is already installed on your mobile devices. The following &lt;a href=&#34;http://sudan.validmeasures.org/installing-odk-collect-1/&#34; target=&#34;_blank&#34;&gt;tutorial&lt;/a&gt; shows how to install &lt;strong&gt;ODK Collect&lt;/strong&gt; on mobile devices.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;1-open-odk-collect&#34;&gt;1. Open ODK Collect&lt;/h2&gt;
+
+&lt;p&gt;Find the &lt;strong&gt;ODK Collect&lt;/strong&gt; app icon on your device and tap. You will see the following on your screen. This is the default configuration of ODK Collect when it is first installed on a device and the configurations have not been changed yet.
+&lt;img src=&#34;/img/tutorials/open-odk-collect.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;2-tap-on-the-odk-collect-settings-menu&#34;&gt;2. Tap on the ODK Collect settings menu&lt;/h2&gt;
+
+&lt;p&gt;On the upper right hand corner, you will see three square dots on top of each other &lt;strong&gt;(1)&lt;/strong&gt;. Click on this and a dropdown menu will appear showing options for &lt;strong&gt;&lt;em&gt;&amp;lsquo;General Settings&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(2)&lt;/strong&gt; and for &lt;strong&gt;&lt;em&gt;&amp;lsquo;Admin Settings&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(3)&lt;/strong&gt;.
+&lt;img src=&#34;/img/tutorials/tap-on-the-odk-collect-settings-menu.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;3-tap-on-general-settings&#34;&gt;3. Tap on General Settings&lt;/h2&gt;
+
+&lt;p&gt;First, we should configure the &lt;strong&gt;&lt;em&gt;&amp;lsquo;General Settings&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; option of &lt;strong&gt;ODK Collect&lt;/strong&gt;. This is what you will see once you tap on &lt;strong&gt;&lt;em&gt;&amp;lsquo;General Settings&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;There are three main &amp;lsquo;General Settings&amp;rsquo; categories that can be configured: &lt;strong&gt;&lt;em&gt;Server Settings&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(1)&lt;/strong&gt;, &lt;strong&gt;&lt;em&gt;Auto Send&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(2)&lt;/strong&gt;, and &lt;strong&gt;&lt;em&gt;User Interface&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(3)&lt;/strong&gt;.
+&lt;img src=&#34;/img/tutorials/tap-on-general-settings.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;3-1-configure-server-settings&#34;&gt;3.1 Configure Server settings&lt;/h3&gt;
+
+&lt;p&gt;In &lt;strong&gt;&lt;em&gt;&amp;lsquo;Server Settings&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;, there are three main settings that will need configuring: &lt;strong&gt;&lt;em&gt;Platform&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(1)&lt;/strong&gt;, &lt;strong&gt;&lt;em&gt;Platform settings&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(2)&lt;/strong&gt; and &lt;strong&gt;&lt;em&gt;Google account&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(3)&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;First, tap on &lt;strong&gt;&lt;em&gt;Platform&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(1)&lt;/strong&gt;.
+&lt;img src=&#34;/img/tutorials/configure-server-settings.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;You will then be presented with various platform options that you can select depending on the type of server that you are using for your data collection campaign. &lt;strong&gt;ODK Aggregate&lt;/strong&gt; is the default platform. For anything other than the default &lt;strong&gt;ODK Aggregate&lt;/strong&gt; platform that is provided on &lt;strong&gt;ODK Collect&lt;/strong&gt; by default, you will most likley need to select &lt;strong&gt;Other&lt;/strong&gt; option so that you can specify your own platform for your data collection server.
+&lt;img src=&#34;/img/tutorials/31ef1184-ca3c-4bce-bc48-8c353c74c89c.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Next, tap on &lt;strong&gt;&lt;em&gt;&amp;lsquo;Configure platform settings&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(2)&lt;/strong&gt;.
+&lt;img src=&#34;/img/tutorials/a7f48316-38cf-4341-af23-43862b88ce14.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;You will then see the following options on your screen. Here you can specify the settings of the server used by your platform specifically the &lt;strong&gt;URL of your server&lt;/strong&gt; &lt;strong&gt;(1)&lt;/strong&gt;, the &lt;strong&gt;username&lt;/strong&gt; &lt;strong&gt;(2)&lt;/strong&gt; and &lt;strong&gt;password&lt;/strong&gt; &lt;strong&gt;(3)&lt;/strong&gt; use to login to your server. If you do not know these settings, you should ask your IT administrator or whoever setup your server platform to provide you with these settings. For most service providers offering servers for use by ODK, these settings are made explicit within your account so all you might need to do is to login to your account and find these settings.
+&lt;img src=&#34;/img/tutorials/88cfe68e-ce2c-4df7-8d57-f75de667a6f3.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;For example, if you are using a locally-deployed &lt;strong&gt;Formhub&lt;/strong&gt; server as your &lt;strong&gt;ODK&lt;/strong&gt; platform, you can find your server settings by logging in to your account and then scrolling down to the bottom of the webpage of the Formhub portal, you will see the following information about your Formhub server which you can use to setup the platform settings on your ODK Collect.
+&lt;img src=&#34;/img/tutorials/72c17efc-c1d2-409a-8670-f542ef7df08e.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Next, configure your &lt;strong&gt;&lt;em&gt;&amp;lsquo;Google accont&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; if you have one. This is not absolutely necessary and should be configured if you want to connect your &lt;strong&gt;ODK Collect&lt;/strong&gt; with your &lt;strong&gt;Google account&lt;/strong&gt; (if you have one). The advantage of doing this is that your data can be backed up to your &lt;strong&gt;Google account&lt;/strong&gt;.
+&lt;img src=&#34;/img/tutorials/08563fc6-c78c-41d2-9fdd-73d6a0c4d0bf.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;3-2-configure-auto-send-settings&#34;&gt;3.2 Configure Auto Send settings&lt;/h3&gt;
+
+&lt;p&gt;Now you can configure &lt;strong&gt;Auto Send&lt;/strong&gt; settings. There are two settings to setup: &lt;strong&gt;&lt;em&gt;&amp;lsquo;Auto send with Wi-Fi&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(1)&lt;/strong&gt; and &lt;strong&gt;&lt;em&gt;&amp;lsquo;Auto send with network&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(2)&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;By default, these options are unchecked. It is recommended that you keep the default (unchecked) settings in place. This would mean that completed and finalised forms will be saved onto the device memory even when the device is connected on Wi-Fi and will not be sent unless the user specifically sends the forms for submission over the internet. It is good to have it this way because this allows for some type of checking of forms on the tablets themselves before they are sent to the server.
+This is also good when there is no reliable Wi-Fi and/or network connection or if no server has been setup for the data collection campaign. The option to send the forms by Wi-Fi or over the network can be done later on when there is reliable network and/or when a server has been setup. Otherwise, manual sending of finalised forms via direct mobile device to computer connection can be done.
+&lt;img src=&#34;/img/tutorials/configure-auto-send-settings.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;3-3-configure-user-interface-settings&#34;&gt;3.3 Configure User Interface settings&lt;/h3&gt;
+
+&lt;p&gt;Now you can configure the &lt;strong&gt;&lt;em&gt;&amp;lsquo;User Interface&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; settings. Following are the settings that you can configure or change:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Constraint processing behaviour&lt;/em&gt;&lt;/strong&gt;** (1)** - this is the option that determines how &lt;strong&gt;ODK Collect&lt;/strong&gt; processes the check and constraints that have been specified in your form. There are two options here. The first option is for &lt;strong&gt;ODK Collect&lt;/strong&gt; to process the constraints at the end of the form when you are about to finalise the form. The second option is for &lt;strong&gt;ODK Collect&lt;/strong&gt; to process the constraints everytime you move to the next question in the form. The default behaviour is to process the constraints after every question. It is recommended that the default option be kept (Validate upon forward swipe).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Navigation&lt;/em&gt;&lt;/strong&gt;** (2)** - this is the option that determines how the user can move from one question to the next in a form. The default behaviour is to use horizontal swipes. It is recommended that the option for use of forward/backward buttons be selected instead. Swiping is very user dependent and not all find it easy to use swiping gestures to move to the next question. Buttons, however, is universally acceptable and easy to train enumerators on using.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Text font size&lt;/em&gt;&lt;/strong&gt;** (3)** - this is the option to change the font size used in &lt;strong&gt;ODK Collect&lt;/strong&gt;. By default, this is set to Medium. This default is more than adequate and can be kept as is.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Default to finalized&lt;/em&gt;&lt;/strong&gt;** (4)** - this is the option of whether all forms are by default finalized when you reach the end of the questionnaire. This is by default checked and when you reach the end of your questionnaire, you will see a prompt asking whether you want to mark the form as finalized and this option will be checked automatically because of this setting. It is recommended to keep this setting as is.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Delete after send&lt;/em&gt;&lt;/strong&gt;** (5)** - this is the option of whether forms should be deleted after it has been sent to the server. By default this is unchecked. It is recommended that this option be kept unchecked as it is useful to have the forms kept on the devices as backup which can be retrieved later on manually via mobile device to computer connection as a form of backup. This is especially important in settings where internet is unreliable and that a backup of the data on the device is crucial.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Enable hi-res video&lt;/em&gt;&lt;/strong&gt;** (6)** - this is the option of whether hi-res video playback is required. Unless you require video for your forms, it is recommended to uncheck this option.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Show splash screen&lt;/em&gt;&lt;/strong&gt;** (7)** - this option determines if a splash screen on startup of &lt;strong&gt;ODK Collect&lt;/strong&gt; should be shown. This option by default is turned off. It is recommended that this default is kept as is as there is no need for a splash screen and this only delays the startup of the &lt;strong&gt;ODK Collect&lt;/strong&gt; application.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/configure-user-interface-settings.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;4-tap-on-admin-settings&#34;&gt;4. Tap on Admin Settings&lt;/h2&gt;
+
+&lt;p&gt;Now, you should configure the &lt;strong&gt;&lt;em&gt;&amp;lsquo;Admin Settings&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(3)&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;&lt;em&gt;&amp;lsquo;Admin Settings&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; allow you to control what kinds of items are made available to the user of &lt;strong&gt;ODK Collect&lt;/strong&gt;.
+&lt;img src=&#34;/img/tutorials/tap-on-admin-settings.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;4-1-setting-an-admin-password&#34;&gt;4.1 Setting an Admin password&lt;/h3&gt;
+
+&lt;p&gt;If you would like to block access to the &lt;strong&gt;&lt;em&gt;&amp;lsquo;Admin Settings&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; on the &lt;strong&gt;ODK Collect&lt;/strong&gt;, it would be recommended to set a password for access.
+&lt;img src=&#34;/img/tutorials/setting-an-admin-password.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;4-2-form-processing-logic&#34;&gt;4.2 Form processing logic&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;&amp;lsquo;Form processing logic&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; settings should be kept as default.
+&lt;img src=&#34;/img/tutorials/form-processing-logic.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;4-3-configure-user-can-access-main-menu-items-settings&#34;&gt;4.3 Configure User Can Access Main Menu Items settings&lt;/h3&gt;
+
+&lt;p&gt;Now to configure the &lt;strong&gt;&lt;em&gt;&amp;lsquo;User Can Access Main Menu Items&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; settings.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Edit Saved Form&lt;/em&gt;&lt;/strong&gt;** (1)** - this is checked by default. Keep checked.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Send Finalized Form&lt;/em&gt;&lt;/strong&gt;** (2)** - this is checked by default. Keep checked.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Get Blank Form&lt;/em&gt;&lt;/strong&gt;** (3)** - this is checked by default. Uncheck this option. Unchecking this will hide it from the Main Menu. This will prevent unintended pulling of forms from the server that is not needed for your current data collection campaign.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;***Delete Saved Form ***&lt;strong&gt;(4)&lt;/strong&gt; - this is checked by default. Uncheck this option. Unchecking this will hide is from the Main Menu. This will prevent unintended deletion of forms from the &lt;strong&gt;ODK Collect&lt;/strong&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/configure-user-can-access-main-menu-items-settings.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;4-4-configure-user-can-access-change-settings-items-settings&#34;&gt;4.4 Configure User Can Access Change Settings Items settings&lt;/h3&gt;
+
+&lt;p&gt;Now, configure the &lt;strong&gt;&lt;em&gt;&amp;lsquo;User Can Access Change Settings Items&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; settings.&lt;/p&gt;
+
+&lt;p&gt;The first five settings are shown here &lt;strong&gt;(1-5)&lt;/strong&gt;. It is recommended that all of these be unchecked to avoid unintend changing of settings.
+&lt;img src=&#34;/img/tutorials/configure-user-can-access-change-settings-items-settings.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The next set of settings are shown here &lt;strong&gt;(6-14)&lt;/strong&gt;. All these settings should be unchecked except for &lt;strong&gt;&lt;em&gt;&amp;lsquo;Text font size&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;. This will avoid unintended changing of settings.
+&lt;img src=&#34;/img/tutorials/a9e43315-b32f-48b0-a0eb-074265679696.png&#34;` /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;4-5-configure-user-can-access-form-entry-items-settings&#34;&gt;4.5 Configure User Can Access Form Entry Items settings&lt;/h3&gt;
+
+&lt;p&gt;Now you can configure &lt;strong&gt;&lt;em&gt;&amp;lsquo;User Can Access Form Entry Items&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; settings.&lt;/p&gt;
+
+&lt;p&gt;The settings are shown below &lt;strong&gt;(1-6)&lt;/strong&gt;. All options should be kept checked except for &lt;strong&gt;&lt;em&gt;&amp;lsquo;Name this Form&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; which should be unchecked.
+&lt;img src=&#34;/img/tutorials/configure-user-can-access-form-entry-items-settings.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;5-reminders&#34;&gt;5. Reminders&lt;/h2&gt;
+
+&lt;p&gt;You should configure the &lt;strong&gt;&lt;em&gt;General Settings&lt;/em&gt;&lt;/strong&gt; first before you change the &lt;strong&gt;&lt;em&gt;Admin Settings&lt;/em&gt;&lt;/strong&gt;. This is because the menu items needed to configure General Settings will not be available to you anymore one you have changed the Admin Settings as per recommendation above.&lt;/p&gt;
+
+&lt;p&gt;This means you should also get the blank forms loaded onto &lt;strong&gt;ODK Collect&lt;/strong&gt; already before changing the &lt;strong&gt;&lt;em&gt;Admin Settings&lt;/em&gt;&lt;/strong&gt; because you will not have the option to get blank forms once you have changed the &lt;strong&gt;&lt;em&gt;Admin Settings&lt;/em&gt;&lt;/strong&gt;. However, if you need to load forms onto &lt;strong&gt;ODK Collect&lt;/strong&gt;, you can still do so by transferring the &lt;strong&gt;XForms&lt;/strong&gt; version of the form straight into the mobile device from your computer using a mobile device to computer connection. Or you can activate the &lt;strong&gt;&lt;em&gt;Get Blank Forms&lt;/em&gt;&lt;/strong&gt; option again so that you can pull the blank forms from your server.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Getting started with your Android tablet</title>
       <link>/post/getting-started-with-your-android-tablet/</link>
       <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>

@@ -13,6 +13,15 @@
     
     
     <item>
+      <title>Configuring ODK Collect for data collection</title>
+      <link>/post/configuring-odk-collect-for-data-collection/</link>
+      <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/configuring-odk-collect-for-data-collection/</guid>
+      <description>Once ODK Collect has been installed on the mobile device/s that you will be using for data collection, you may want to configure it&amp;rsquo;s settings so as to be able to fully maximise its use and also to make it as easy as possible to use by your enumerators. Depending on how involved you aim your enumerators to be in the management of the data collection process, you may want to make available or limit certain settings or functions of ODK Collect.</description>
+    </item>
+    
+    <item>
       <title>Getting started with your Android tablet</title>
       <link>/post/getting-started-with-your-android-tablet/</link>
       <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>

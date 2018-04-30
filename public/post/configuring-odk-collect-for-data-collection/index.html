@@ -1,0 +1,579 @@
+<!DOCTYPE html>
+<html lang="en-gb">
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="theme" content="hugo-academic">
+  <meta name="generator" content="Hugo 0.37.1" />
+  <meta name="author" content="OMNeoHealth">
+
+  
+  
+  
+  
+    
+      
+    
+  
+  <meta name="description" content="Once ODK Collect has been installed on the mobile device/s that you will be using for data collection, you may want to configure it&rsquo;s settings so as to be able to fully maximise its use and also to make it as easy as possible to use by your enumerators. Depending on how involved you aim your enumerators to be in the management of the data collection process, you may want to make available or limit certain settings or functions of ODK Collect.">
+
+  
+  <link rel="alternate" hreflang="en-gb" href="/post/configuring-odk-collect-for-data-collection/">
+
+  
+
+
+  
+
+  
+  
+  <meta name="theme-color" content="#0095eb">
+  
+  
+  
+  
+    
+  
+  
+    
+    
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css">
+    
+  
+  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha512-6MXa8B6uaO18Hid6blRMetEIoPqHf7Ux1tnyIQdpt9qI5OACx7C+O3IVTr98vwGnlcg0LOLa02i9Y1HpVhlfiw==" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.1/css/academicons.min.css" integrity="sha512-NThgw3XKQ1absAahW6to7Ey42uycrVvfNfyjqcFNgCmOCQ5AR4AO0SiXrN+8ZtYeappp56lk1WtvjVmEa+VR6A==" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha512-SfTiTlX6kk+qitfevl/7LibUOeJWlt9rbyDn92a1DqWOw9vWG2MFoays0sgObmWazO5BQPiFucnnEAjpAB+/Sw==" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==" crossorigin="anonymous">
+  
+  
+  
+  
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700%7cRoboto:400,400italic,700%7cRoboto&#43;Mono">
+  
+  <link rel="stylesheet" href="/styles.css">
+  
+
+  
+
+  
+  <link rel="alternate" href="/index.xml" type="application/rss+xml" title="">
+  <link rel="feed" href="/index.xml" type="application/rss+xml" title="">
+  
+
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="/post/configuring-odk-collect-for-data-collection/">
+
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="twitter:site" content="@intdevhealth">
+  <meta property="twitter:creator" content="@intdevhealth">
+  
+  <meta property="og:site_name" content="">
+  <meta property="og:url" content="/post/configuring-odk-collect-for-data-collection/">
+  <meta property="og:title" content="Configuring ODK Collect for data collection | ">
+  <meta property="og:description" content="Once ODK Collect has been installed on the mobile device/s that you will be using for data collection, you may want to configure it&rsquo;s settings so as to be able to fully maximise its use and also to make it as easy as possible to use by your enumerators. Depending on how involved you aim your enumerators to be in the management of the data collection process, you may want to make available or limit certain settings or functions of ODK Collect.">
+  <meta property="og:locale" content="en-gb">
+  
+  <meta property="article:published_time" content="2018-04-30T00:00:00&#43;00:00">
+  
+  <meta property="article:modified_time" content="2018-04-30T00:00:00&#43;00:00">
+  
+
+  
+
+  <title>Configuring ODK Collect for data collection | </title>
+
+</head>
+<body id="top" data-spy="scroll" data-target="#toc" data-offset="71" >
+
+<nav class="navbar navbar-default navbar-fixed-top" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="navbar-header">
+      
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target=".navbar-collapse" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      
+      <a class="navbar-brand" href="/"></a>
+    </div>
+
+    
+    <div class="collapse navbar-collapse">
+
+      
+      
+      <ul class="nav navbar-nav navbar-right">
+        
+
+        
+        
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="/#about">
+            
+            <span>Home</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+        
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="/#projects">
+            
+            <span>Projects</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+        
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="/#guides">
+            
+            <span>Guides and Tutorials</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+        
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="/#contact">
+            
+            <span>Contact</span>
+            
+          </a>
+        </li>
+
+        
+        
+      
+
+      
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+<article class="article" itemscope itemtype="http://schema.org/Article">
+
+  
+
+
+  <div class="article-container">
+    <h1 itemprop="name">Configuring ODK Collect for data collection</h1>
+
+    
+
+<div class="article-metadata">
+
+  <span class="article-date">
+    
+    <time datetime="2018-04-30 00:00:00 &#43;0000 UTC" itemprop="datePublished dateModified">
+      30.4.2018
+    </time>
+  </span>
+  <span itemscope itemprop="author publisher" itemtype="http://schema.org/Person">
+    <meta itemprop="name" content="OMNeoHealth">
+  </span>
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    9 min read
+  </span>
+  
+
+  
+  
+
+  
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fa fa-folder"></i>
+    
+    <a href="/categories/data-collection">Data Collection</a
+    >
+    
+  </span>
+  
+  
+
+  
+  
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    <li>
+      <a class="twitter"
+         href="https://twitter.com/intent/tweet?text=Configuring%20ODK%20Collect%20for%20data%20collection&amp;url=%2fpost%2fconfiguring-odk-collect-for-data-collection%2f"
+         target="_blank" rel="noopener">
+        <i class="fa fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a class="facebook"
+         href="https://www.facebook.com/sharer.php?u=%2fpost%2fconfiguring-odk-collect-for-data-collection%2f"
+         target="_blank" rel="noopener">
+        <i class="fa fa-facebook"></i>
+      </a>
+    </li>
+    <li>
+      <a class="linkedin"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=%2fpost%2fconfiguring-odk-collect-for-data-collection%2f&amp;title=Configuring%20ODK%20Collect%20for%20data%20collection"
+         target="_blank" rel="noopener">
+        <i class="fa fa-linkedin"></i>
+      </a>
+    </li>
+    <li>
+      <a class="weibo"
+         href="http://service.weibo.com/share/share.php?url=%2fpost%2fconfiguring-odk-collect-for-data-collection%2f&amp;title=Configuring%20ODK%20Collect%20for%20data%20collection"
+         target="_blank" rel="noopener">
+        <i class="fa fa-weibo"></i>
+      </a>
+    </li>
+    <li>
+      <a class="email"
+         href="mailto:?subject=Configuring%20ODK%20Collect%20for%20data%20collection&amp;body=%2fpost%2fconfiguring-odk-collect-for-data-collection%2f">
+        <i class="fa fa-envelope"></i>
+      </a>
+    </li>
+  </ul>
+</div>
+
+
+  
+
+</div>
+
+
+    <div class="article-style" itemprop="articleBody">
+      
+
+<p>Once <strong>ODK Collect</strong> has been installed on the mobile device/s that you will be using for data collection, you may want to configure it&rsquo;s settings so as to be able to fully maximise its use and also to make it as easy as possible to use by your enumerators. Depending on how involved you aim your enumerators to be in the management of the data collection process, you may want to make available or limit certain settings or functions of <strong>ODK Collect</strong>.</p>
+
+<p>This tutorial describes how to setup the various configuration options of <strong>ODK Collect</strong> with the aim of minimising possible unintended interference by enumerators on the various settings that might be detrimental to your data collection campaign. These include the options to load blank forms and change the settings of the server platform (if you are using any). This guide is aimed at IT administrators and/or survey coordinators/managers who will be setting up <strong>ODK Collect</strong> prior to distribution of the mobile devices to enumerators.</p>
+
+<p>This tutorial assumes that <strong>ODK Collect</strong> is already installed on your mobile devices. The following <a href="http://sudan.validmeasures.org/installing-odk-collect-1/" target="_blank">tutorial</a> shows how to install <strong>ODK Collect</strong> on mobile devices.
+<br /></p>
+
+<h2 id="1-open-odk-collect">1. Open ODK Collect</h2>
+
+<p>Find the <strong>ODK Collect</strong> app icon on your device and tap. You will see the following on your screen. This is the default configuration of ODK Collect when it is first installed on a device and the configurations have not been changed yet.
+<img src="/img/tutorials/open-odk-collect.png" />
+<br /></p>
+
+<h2 id="2-tap-on-the-odk-collect-settings-menu">2. Tap on the ODK Collect settings menu</h2>
+
+<p>On the upper right hand corner, you will see three square dots on top of each other <strong>(1)</strong>. Click on this and a dropdown menu will appear showing options for <strong><em>&lsquo;General Settings&rsquo;</em></strong> <strong>(2)</strong> and for <strong><em>&lsquo;Admin Settings&rsquo;</em></strong> <strong>(3)</strong>.
+<img src="/img/tutorials/tap-on-the-odk-collect-settings-menu.png" />
+<br /></p>
+
+<h2 id="3-tap-on-general-settings">3. Tap on General Settings</h2>
+
+<p>First, we should configure the <strong><em>&lsquo;General Settings&rsquo;</em></strong> option of <strong>ODK Collect</strong>. This is what you will see once you tap on <strong><em>&lsquo;General Settings&rsquo;</em></strong>.</p>
+
+<p>There are three main &lsquo;General Settings&rsquo; categories that can be configured: <strong><em>Server Settings</em></strong> <strong>(1)</strong>, <strong><em>Auto Send</em></strong> <strong>(2)</strong>, and <strong><em>User Interface</em></strong> <strong>(3)</strong>.
+<img src="/img/tutorials/tap-on-general-settings.png" />
+<br /></p>
+
+<h3 id="3-1-configure-server-settings">3.1 Configure Server settings</h3>
+
+<p>In <strong><em>&lsquo;Server Settings&rsquo;</em></strong>, there are three main settings that will need configuring: <strong><em>Platform</em></strong> <strong>(1)</strong>, <strong><em>Platform settings</em></strong> <strong>(2)</strong> and <strong><em>Google account</em></strong> <strong>(3)</strong>.</p>
+
+<p>First, tap on <strong><em>Platform</em></strong> <strong>(1)</strong>.
+<img src="/img/tutorials/configure-server-settings.png" />
+<br /></p>
+
+<p>You will then be presented with various platform options that you can select depending on the type of server that you are using for your data collection campaign. <strong>ODK Aggregate</strong> is the default platform. For anything other than the default <strong>ODK Aggregate</strong> platform that is provided on <strong>ODK Collect</strong> by default, you will most likley need to select <strong>Other</strong> option so that you can specify your own platform for your data collection server.
+<img src="/img/tutorials/31ef1184-ca3c-4bce-bc48-8c353c74c89c.png" />
+<br /></p>
+
+<p>Next, tap on <strong><em>&lsquo;Configure platform settings&rsquo;</em></strong> <strong>(2)</strong>.
+<img src="/img/tutorials/a7f48316-38cf-4341-af23-43862b88ce14.png" />
+<br /></p>
+
+<p>You will then see the following options on your screen. Here you can specify the settings of the server used by your platform specifically the <strong>URL of your server</strong> <strong>(1)</strong>, the <strong>username</strong> <strong>(2)</strong> and <strong>password</strong> <strong>(3)</strong> use to login to your server. If you do not know these settings, you should ask your IT administrator or whoever setup your server platform to provide you with these settings. For most service providers offering servers for use by ODK, these settings are made explicit within your account so all you might need to do is to login to your account and find these settings.
+<img src="/img/tutorials/88cfe68e-ce2c-4df7-8d57-f75de667a6f3.png" />
+<br /></p>
+
+<p>For example, if you are using a locally-deployed <strong>Formhub</strong> server as your <strong>ODK</strong> platform, you can find your server settings by logging in to your account and then scrolling down to the bottom of the webpage of the Formhub portal, you will see the following information about your Formhub server which you can use to setup the platform settings on your ODK Collect.
+<img src="/img/tutorials/72c17efc-c1d2-409a-8670-f542ef7df08e.png" />
+<br /></p>
+
+<p>Next, configure your <strong><em>&lsquo;Google accont&rsquo;</em></strong> if you have one. This is not absolutely necessary and should be configured if you want to connect your <strong>ODK Collect</strong> with your <strong>Google account</strong> (if you have one). The advantage of doing this is that your data can be backed up to your <strong>Google account</strong>.
+<img src="/img/tutorials/08563fc6-c78c-41d2-9fdd-73d6a0c4d0bf.png" />
+<br /></p>
+
+<h3 id="3-2-configure-auto-send-settings">3.2 Configure Auto Send settings</h3>
+
+<p>Now you can configure <strong>Auto Send</strong> settings. There are two settings to setup: <strong><em>&lsquo;Auto send with Wi-Fi&rsquo;</em></strong> <strong>(1)</strong> and <strong><em>&lsquo;Auto send with network&rsquo;</em></strong> <strong>(2)</strong>.</p>
+
+<p>By default, these options are unchecked. It is recommended that you keep the default (unchecked) settings in place. This would mean that completed and finalised forms will be saved onto the device memory even when the device is connected on Wi-Fi and will not be sent unless the user specifically sends the forms for submission over the internet. It is good to have it this way because this allows for some type of checking of forms on the tablets themselves before they are sent to the server.
+This is also good when there is no reliable Wi-Fi and/or network connection or if no server has been setup for the data collection campaign. The option to send the forms by Wi-Fi or over the network can be done later on when there is reliable network and/or when a server has been setup. Otherwise, manual sending of finalised forms via direct mobile device to computer connection can be done.
+<img src="/img/tutorials/configure-auto-send-settings.png" />
+<br /></p>
+
+<h3 id="3-3-configure-user-interface-settings">3.3 Configure User Interface settings</h3>
+
+<p>Now you can configure the <strong><em>&lsquo;User Interface&rsquo;</em></strong> settings. Following are the settings that you can configure or change:</p>
+
+<ul>
+<li><p><strong><em>Constraint processing behaviour</em></strong>** (1)** - this is the option that determines how <strong>ODK Collect</strong> processes the check and constraints that have been specified in your form. There are two options here. The first option is for <strong>ODK Collect</strong> to process the constraints at the end of the form when you are about to finalise the form. The second option is for <strong>ODK Collect</strong> to process the constraints everytime you move to the next question in the form. The default behaviour is to process the constraints after every question. It is recommended that the default option be kept (Validate upon forward swipe).</p></li>
+
+<li><p><strong><em>Navigation</em></strong>** (2)** - this is the option that determines how the user can move from one question to the next in a form. The default behaviour is to use horizontal swipes. It is recommended that the option for use of forward/backward buttons be selected instead. Swiping is very user dependent and not all find it easy to use swiping gestures to move to the next question. Buttons, however, is universally acceptable and easy to train enumerators on using.</p></li>
+
+<li><p><strong><em>Text font size</em></strong>** (3)** - this is the option to change the font size used in <strong>ODK Collect</strong>. By default, this is set to Medium. This default is more than adequate and can be kept as is.</p></li>
+
+<li><p><strong><em>Default to finalized</em></strong>** (4)** - this is the option of whether all forms are by default finalized when you reach the end of the questionnaire. This is by default checked and when you reach the end of your questionnaire, you will see a prompt asking whether you want to mark the form as finalized and this option will be checked automatically because of this setting. It is recommended to keep this setting as is.</p></li>
+
+<li><p><strong><em>Delete after send</em></strong>** (5)** - this is the option of whether forms should be deleted after it has been sent to the server. By default this is unchecked. It is recommended that this option be kept unchecked as it is useful to have the forms kept on the devices as backup which can be retrieved later on manually via mobile device to computer connection as a form of backup. This is especially important in settings where internet is unreliable and that a backup of the data on the device is crucial.</p></li>
+
+<li><p><strong><em>Enable hi-res video</em></strong>** (6)** - this is the option of whether hi-res video playback is required. Unless you require video for your forms, it is recommended to uncheck this option.</p></li>
+
+<li><p><strong><em>Show splash screen</em></strong>** (7)** - this option determines if a splash screen on startup of <strong>ODK Collect</strong> should be shown. This option by default is turned off. It is recommended that this default is kept as is as there is no need for a splash screen and this only delays the startup of the <strong>ODK Collect</strong> application.</p></li>
+</ul>
+
+<p><img src="/img/tutorials/configure-user-interface-settings.png" />
+<br /></p>
+
+<h2 id="4-tap-on-admin-settings">4. Tap on Admin Settings</h2>
+
+<p>Now, you should configure the <strong><em>&lsquo;Admin Settings&rsquo;</em></strong> <strong>(3)</strong>.</p>
+
+<p>The <strong><em>&lsquo;Admin Settings&rsquo;</em></strong> allow you to control what kinds of items are made available to the user of <strong>ODK Collect</strong>.
+<img src="/img/tutorials/tap-on-admin-settings.png" />
+<br /></p>
+
+<h3 id="4-1-setting-an-admin-password">4.1 Setting an Admin password</h3>
+
+<p>If you would like to block access to the <strong><em>&lsquo;Admin Settings&rsquo;</em></strong> on the <strong>ODK Collect</strong>, it would be recommended to set a password for access.
+<img src="/img/tutorials/setting-an-admin-password.png" />
+<br /></p>
+
+<h3 id="4-2-form-processing-logic">4.2 Form processing logic</h3>
+
+<p><strong><em>&lsquo;Form processing logic&rsquo;</em></strong> settings should be kept as default.
+<img src="/img/tutorials/form-processing-logic.png" />
+<br /></p>
+
+<h3 id="4-3-configure-user-can-access-main-menu-items-settings">4.3 Configure User Can Access Main Menu Items settings</h3>
+
+<p>Now to configure the <strong><em>&lsquo;User Can Access Main Menu Items&rsquo;</em></strong> settings.</p>
+
+<ul>
+<li><p><strong><em>Edit Saved Form</em></strong>** (1)** - this is checked by default. Keep checked.</p></li>
+
+<li><p><strong><em>Send Finalized Form</em></strong>** (2)** - this is checked by default. Keep checked.</p></li>
+
+<li><p><strong><em>Get Blank Form</em></strong>** (3)** - this is checked by default. Uncheck this option. Unchecking this will hide it from the Main Menu. This will prevent unintended pulling of forms from the server that is not needed for your current data collection campaign.</p></li>
+
+<li><p>***Delete Saved Form ***<strong>(4)</strong> - this is checked by default. Uncheck this option. Unchecking this will hide is from the Main Menu. This will prevent unintended deletion of forms from the <strong>ODK Collect</strong>.</p></li>
+</ul>
+
+<p><img src="/img/tutorials/configure-user-can-access-main-menu-items-settings.png" />
+<br /></p>
+
+<h3 id="4-4-configure-user-can-access-change-settings-items-settings">4.4 Configure User Can Access Change Settings Items settings</h3>
+
+<p>Now, configure the <strong><em>&lsquo;User Can Access Change Settings Items&rsquo;</em></strong> settings.</p>
+
+<p>The first five settings are shown here <strong>(1-5)</strong>. It is recommended that all of these be unchecked to avoid unintend changing of settings.
+<img src="/img/tutorials/configure-user-can-access-change-settings-items-settings.png" />
+<br /></p>
+
+<p>The next set of settings are shown here <strong>(6-14)</strong>. All these settings should be unchecked except for <strong><em>&lsquo;Text font size&rsquo;</em></strong>. This will avoid unintended changing of settings.
+<img src="/img/tutorials/a9e43315-b32f-48b0-a0eb-074265679696.png"` />
+<br /></p>
+
+<h3 id="4-5-configure-user-can-access-form-entry-items-settings">4.5 Configure User Can Access Form Entry Items settings</h3>
+
+<p>Now you can configure <strong><em>&lsquo;User Can Access Form Entry Items&rsquo;</em></strong> settings.</p>
+
+<p>The settings are shown below <strong>(1-6)</strong>. All options should be kept checked except for <strong><em>&lsquo;Name this Form&rsquo;</em></strong> which should be unchecked.
+<img src="/img/tutorials/configure-user-can-access-form-entry-items-settings.png" />
+<br /></p>
+
+<h2 id="5-reminders">5. Reminders</h2>
+
+<p>You should configure the <strong><em>General Settings</em></strong> first before you change the <strong><em>Admin Settings</em></strong>. This is because the menu items needed to configure General Settings will not be available to you anymore one you have changed the Admin Settings as per recommendation above.</p>
+
+<p>This means you should also get the blank forms loaded onto <strong>ODK Collect</strong> already before changing the <strong><em>Admin Settings</em></strong> because you will not have the option to get blank forms once you have changed the <strong><em>Admin Settings</em></strong>. However, if you need to load forms onto <strong>ODK Collect</strong>, you can still do so by transferring the <strong>XForms</strong> version of the form straight into the mobile device from your computer using a mobile device to computer connection. Or you can activate the <strong><em>Get Blank Forms</em></strong> option again so that you can pull the blank forms from your server.</p>
+
+    </div>
+
+    
+
+
+<div class="article-tags">
+  
+  <a class="btn btn-primary btn-outline" href="/tags/tutorials">tutorials</a>
+  
+  <a class="btn btn-primary btn-outline" href="/tags/open-data-kit">open data kit</a>
+  
+</div>
+
+
+
+
+    
+    
+    <div class="article-widget">
+      <div class="hr-light"></div>
+      <h3>Related</h3>
+      <ul>
+        
+        <li><a href="/post/installing-odk-collect-without-using-google-play-store-2/">Installing ODK Collect without using Google Play Store - Approach 2</a></li>
+        
+        <li><a href="/post/getting-started-with-your-android-tablet/">Getting started with your Android tablet</a></li>
+        
+        <li><a href="/post/installing-odk-collect-without-using-google-play-store-1/">Installing ODK Collect without using Google Play Store - Approach 1</a></li>
+        
+      </ul>
+    </div>
+    
+
+    
+
+    
+
+
+  </div>
+</article>
+
+<footer class="site-footer">
+  <div class="container">
+    <p class="powered-by">
+
+      &copy; 2018 &middot; 
+
+      Powered by the
+      <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+      <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+      <span class="pull-right" aria-hidden="true">
+        <a href="#" id="back_to_top">
+          <span class="button_icon">
+            <i class="fa fa-chevron-up fa-2x"></i>
+          </span>
+        </a>
+      </span>
+
+    </p>
+  </div>
+</footer>
+
+
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close btn-large" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Cite</h4>
+      </div>
+      <div>
+        <pre><code class="modal-body tex"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-primary btn-outline js-copy-cite" href="#" target="_blank">
+          <i class="fa fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-primary btn-outline js-download-cite" href="#" target="_blank">
+          <i class="fa fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+
+    
+    
+
+    
+
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js" integrity="sha512-3P8rXCuGJdNZOnUx/03c1jOTnMn3rP63nBip5gOP2qmUh5YAdVAvFZ1E+QLZZbC1rtMrQb+mah3AfYW11RUrWA==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.3/imagesloaded.pkgd.min.js" integrity="sha512-umsR78NN0D23AzgoZ11K7raBD+R6hqKojyBZs1w8WvYlsI+QuKRGBx3LFCwhatzBunCjDuJpDHwxD13sLMbpRA==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha512-iztkobsvnjKfAtTNdHkGVjAYTrrtlC7mGp/54c40wowO7LhURYl3gVzzcEqGl/qKXQltJ2HwMrdLcNUdo+N/RQ==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.4/isotope.pkgd.min.js" integrity="sha512-VDBOIlDbuC4VWxGJNmuFRQ0Li0SKkDpmGyuhAG5LTDLd/dJ/S0WMVxriR2Y+CyPL5gzjpN4f/6iqWVBJlht0tQ==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.js" integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log==" crossorigin="anonymous"></script>
+    
+    
+    <script src="/js/hugo-academic.js"></script>
+    
+
+    
+    
+      
+      
+      <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+      
+
+      
+
+      
+
+      <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+
+  </body>
+</html>
+

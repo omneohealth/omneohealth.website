@@ -22,7 +22,8 @@
 
 &lt;p&gt;This tutorial gives a brief overview on how to get started with an Android device. We chose to focus on the use of tablet devices because we think that the smaller sized tablets (up to 7-inch) are a good mix of the mobility and handiness of a mobile phone and the wider screen size of a tablet which is good for fitting relatively dense question sets adequately. We also chose to focus on Samsung-branded because they are probably the most common brand of mobile devices available and we think most users have most likely had an experience using devices from this brand beforehand. For this specific tutorial, we use the &lt;strong&gt;Samsung SM-T230&lt;/strong&gt; as the model device for instructional purposes.&lt;/p&gt;
 
-&lt;p&gt;This tutorial is aimed at enumerators who may have not been exposed to smartphones particularly Android-powered devices.&lt;/p&gt;
+&lt;p&gt;This tutorial is aimed at enumerators who may have not been exposed to smartphones particularly Android-powered devices.
+&lt;br/&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;1-device-layout&#34;&gt;1. Device layout&lt;/h2&gt;
 
@@ -38,31 +39,36 @@
 
 &lt;p&gt;&lt;strong&gt;Power&lt;/strong&gt;&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;* Press and hold to turn the device on or off.
-* Press and hold for 8 seconds to reset the device if it has fatal errors or hang-ups, or freezes.
-* Press to lock the device. The device goes into lock mode when the touch screen turns off.
+&lt;pre&gt;&lt;code&gt;- Press and hold to turn the device on or off.
+
+- Press and hold for 8 seconds to reset the device if it has fatal errors or hang-ups, or freezes.
+
+- Press to lock the device. The device goes into lock mode when the touch screen turns off.
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;&lt;strong&gt;Recent apps&lt;/strong&gt;&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;* Tap to open the list of recent applications.
+&lt;pre&gt;&lt;code&gt;- Tap to open the list of recent applications.
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;&lt;strong&gt;Home&lt;/strong&gt;&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;* Press to return to the Home Screen.
-* Pressn and hold to launch Google search.
+&lt;pre&gt;&lt;code&gt;- Press to return to the Home Screen.
+
+- Press and hold to launch Google search.
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;&lt;strong&gt;Back&lt;/strong&gt;&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;* Tap to return to the previous screen.
+&lt;pre&gt;&lt;code&gt;- Tap to return to the previous screen.
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;&lt;strong&gt;Volume&lt;/strong&gt;&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;* Press to adjust the device volume.
+&lt;pre&gt;&lt;code&gt;- Press to adjust the device volume.
 &lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;2-charging-the-battery&#34;&gt;2. Charging the battery&lt;/h2&gt;
 
@@ -72,11 +78,11 @@
 
 &lt;p&gt;&lt;img src=&#34;/img/tutorials/samsungConnectPC.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;* The device can be used while it is charging, but it may take longer to fully charge the battery.
+&lt;pre&gt;&lt;code&gt;- The device can be used while it is charging, but it may take longer to fully charge the battery.
 
-* If the device receives an unstable power supply while charging, the touch screen may not function. If this happens, unplug the charger from the device.
+- If the device receives an unstable power supply while charging, the touch screen may not function. If this happens, unplug the charger from the device.
 
-* While charging, the device may heat up. This is normal and should not affect the device&#39;s lifespan or performance. If the battery gets hotter than usual, the charger may stop charging.
+- While charging, the device may heat up. This is normal and should not affect the device&#39;s lifespan or performance. If the battery gets hotter than usual, the charger may stop charging.
 &lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>

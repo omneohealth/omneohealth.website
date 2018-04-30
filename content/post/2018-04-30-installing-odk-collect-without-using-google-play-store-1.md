@@ -1,5 +1,5 @@
 ---
-title: Installing ODK Collect without using Google Play Store 1
+title: Installing ODK Collect without using Google Play Store
 author: ~
 date: '2018-04-30'
 slug: installing-odk-collect-without-using-google-play-store-1

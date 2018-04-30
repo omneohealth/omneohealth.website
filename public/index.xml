@@ -402,6 +402,84 @@ Under the &lt;strong&gt;&lt;em&gt;Connection&lt;/em&gt;&lt;/strong&gt;* *tab, th
     </item>
     
     <item>
+      <title>Deleting saved and blank forms on ODK Collect</title>
+      <link>/post/deleting-saved-and-blank-forms-on-odk-collect/</link>
+      <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/deleting-saved-and-blank-forms-on-odk-collect/</guid>
+      <description>
+
+&lt;p&gt;There will be situations when you will need to delete some forms, either saved or blank forms, from your &lt;strong&gt;ODK Collect&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;The most common reason for deleting saved forms is when you have already submitted your finalised forms to your chosen data or forms aggregator (this can be a web-based &lt;strong&gt;ODK server&lt;/strong&gt; provided by &lt;a href=&#34;https://formhub.org&#34; target=&#34;_blank&#34;&gt;Formhub&lt;/a&gt;, &lt;a href=&#34;http://www.surveycto.com/index.html&#34; target=&#34;_blank&#34;&gt;SureyCTO&lt;/a&gt;, &lt;a href=&#34;http://www.kobotoolbox.org&#34; target=&#34;_blank&#34;&gt;KoBoToolbox&lt;/a&gt;, &lt;a href=&#34;https://ona.io&#34; target=&#34;_blank&#34;&gt;ONA&lt;/a&gt; or &lt;a href=&#34;https://opendatakit.org/use/aggregate/&#34; target=&#34;_blank&#34;&gt;ODK Aggregate&lt;/a&gt; and the like or for variants of these servers that are locally-deployed i.e., server installed onto a local computer or through &lt;strong&gt;ODK Briefcase&lt;/strong&gt;) and you want to clear these submitted forms from your &lt;strong&gt;ODK Collect&lt;/strong&gt;. The default behaviour of &lt;strong&gt;ODK Collect&lt;/strong&gt; after forms submissions is to keep a copy of the saved form in &lt;strong&gt;ODK Collect&lt;/strong&gt; (which can be changed in **ODK Collect&amp;rsquo;s **&lt;strong&gt;&lt;em&gt;&amp;lsquo;General Settings&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;). However, extreme caution is always recommended when deleting saved forms because this can potentially lead to loss of data. If in doubt whether saved forms have been submitted already or not, make a backup of the data before deleting the saved forms.
+The most common reason for deleting blank forms is to clear out forms that have been used for testing purposes or forms that were downloaded but eventually didn&amp;rsquo;t get used. Since these are blank forms and not associated with any data, these forms can be safely deleted.&lt;/p&gt;
+
+&lt;p&gt;This short tutorial shows how to delete saved forms and blank forms in &lt;strong&gt;ODK Collect&lt;/strong&gt;. This tutorial assumes that you have downloaded forms onto your &lt;strong&gt;ODK Collect&lt;/strong&gt; and may have some saved forms as well.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;1-open-odk-collect&#34;&gt;1. Open ODK Collect&lt;/h2&gt;
+
+&lt;p&gt;Tap on ODK Collect application. Then tap on the &lt;strong&gt;&lt;em&gt;&amp;lsquo;Delete Saved Form&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; button as shown below.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/open-odk-collect.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;2-deleting-saved-forms&#34;&gt;2. Deleting saved forms&lt;/h2&gt;
+
+&lt;p&gt;You will then see the following screen on &lt;strong&gt;ODK Collect&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;On the upper portion of the &lt;strong&gt;ODK Collect&lt;/strong&gt; screen, you will see two tabs: &lt;strong&gt;Saved Forms (1)&lt;/strong&gt; and &lt;strong&gt;Blank Forms (2)&lt;/strong&gt;. By default, &lt;strong&gt;ODK Collect&lt;/strong&gt; will show first the items under the &lt;strong&gt;Saved Forms&lt;/strong&gt; tab. In the example below, there is one saved form in this &lt;strong&gt;ODK Collect&lt;/strong&gt;. The naming of the form is based on the syntax set during the creation of the form. In this example, it seems the saved form name starts with a date, then and ID and then a name &lt;strong&gt;(3)&lt;/strong&gt;. Below the form name is information on when the form was submitted &lt;strong&gt;(4)&lt;/strong&gt;. This is an indication that can be used to determine whether a saved form has been submitted or not. Remember, before proceeding with deleting saved forms, it would be good to make sure first that the form has been submitted. If in doubt, the recommendation is to backup the data before making any deletions.&lt;/p&gt;
+
+&lt;p&gt;Tick the box on the right side of the saved form name that you want to delete &lt;strong&gt;(5)&lt;/strong&gt;. Then tap on &amp;lsquo;Delete Selected&amp;rsquo; button at the bottom right corner of the &lt;strong&gt;ODK Collect&lt;/strong&gt; screen &lt;strong&gt;(6)&lt;/strong&gt;.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/deleting-saved-forms.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;You will then see the following prompt which will get a confirmation from you whether you really want to delete the form/s that you have selected &lt;strong&gt;(1)&lt;/strong&gt;. Again, make sure that you have submitted this form already or that you have backed up all data. If you are sure you want to delete the form, tap on &lt;strong&gt;&lt;em&gt;&amp;lsquo;Delete Forms&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;** (2)**.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/a21c69e3-7671-494e-bf63-1ef5aefe0328.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;You will then see the following prompt when the deletion has been completed &lt;strong&gt;(1)&lt;/strong&gt;. In this case, since there is no saved forms left, the screen also shows no forms to display &lt;strong&gt;(2)&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Congratulations! You have now deleted saved forms from your &lt;strong&gt;ODK Collect&lt;/strong&gt;.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/d56bc8da-924c-42e9-a384-027ce286b28e.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;3-deleting-blank-forms&#34;&gt;3. Deleting blank forms&lt;/h2&gt;
+
+&lt;p&gt;Deleting blank forms will follow the same steps as deleting saved forms described above.&lt;/p&gt;
+
+&lt;p&gt;When you have done step 1 and are now in the &lt;strong&gt;&lt;em&gt;&amp;lsquo;Delete Saved Form&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; screen &lt;strong&gt;(1)&lt;/strong&gt;, tap on &lt;strong&gt;Blank Forms&lt;/strong&gt; tab &lt;strong&gt;(2)&lt;/strong&gt; to view the blanks forms loaded into your &lt;strong&gt;ODK Collect&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;In this example, there is one blank form called &lt;strong&gt;Incidence (3)&lt;/strong&gt;. Below the form name, the data on which the form was added to &lt;strong&gt;ODK Collect&lt;/strong&gt; is indicated &lt;strong&gt;(4)&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Tick the box on the right side of the form name &lt;strong&gt;(5)&lt;/strong&gt; and then tap on &lt;strong&gt;&lt;em&gt;&amp;lsquo;Delete Selected&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; button &lt;strong&gt;(6)&lt;/strong&gt; on the bottom rigth corner of the screen.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/deleting-blank-forms.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;You will then see a prompt to confirm that you want to delete the selected form/s &lt;strong&gt;(1)&lt;/strong&gt;. Tap on ***&amp;lsquo;Delete Forms&amp;rsquo; ***&lt;strong&gt;(2)&lt;/strong&gt;.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/e42828e2-7adb-4a7a-ad26-ff88136edbd8.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;You will then see a prompt saying that the form has been deleted &lt;strong&gt;(1)&lt;/strong&gt; and that there is no other blank forms to display &lt;strong&gt;(2)&lt;/strong&gt;.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/2613e2dd-296b-416c-bd3a-25b7c61fbf93.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Getting started with your Android tablet</title>
       <link>/post/getting-started-with-your-android-tablet/</link>
       <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>

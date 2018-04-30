@@ -255,10 +255,23 @@ defaultContentLanguageInSubdir = false
   url = "#projects"
   weight = 3
 
-[[menu.main]]
-  name = "Guides and Tutorials"
-  url = "#guides"
-  weight = 4
+#[[menu.main]]
+#  name = "Guides and Tutorials"
+#  url = "#"
+#  weight = 4
+#  identifier = "guides"
+  
+#[[menu.main]]
+#  name = "Data Collection"
+#  url = "#guides/guide1"
+#  weight = 41
+#  parent = "guides"
+
+#[[menu.main]]
+#  name = "Data Analysis"
+#  url = "#guides/guide2"
+#  weight = 42
+#  parent = "guides"
 
 #[[menu.main]]
 #  name = "Teaching"

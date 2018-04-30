@@ -11,6 +11,87 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Changing ODK Collect language settings</title>
+      <link>/post/changing-odk-collect-language-settings/</link>
+      <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/changing-odk-collect-language-settings/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;ODK Collect&lt;/strong&gt; supports forms written in multiple languages. &lt;strong&gt;XLSForm&lt;/strong&gt; or &lt;strong&gt;XForms&lt;/strong&gt; standard used for creating forms usable in &lt;strong&gt;ODK Collect&lt;/strong&gt; also provide functionality that encodes multiple language support within the same single form being created (for more information, see &lt;a href=&#34;http://xlsform.org/#language&#34; target=&#34;_blank&#34;&gt;multiple language support in XLSForm standard&lt;/a&gt;). If a form has been created to support multiple languages, &lt;strong&gt;ODK Collect&lt;/strong&gt; is able to provide options for users to change the language of the form as needed.&lt;/p&gt;
+
+&lt;p&gt;This tutorial describes how to change the &lt;strong&gt;ODK Collect&lt;/strong&gt; language settings. This tutorial assumes that:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;You have &lt;strong&gt;ODK Collect&lt;/strong&gt; installed on your mobile device. See &lt;a href=&#34;http://sudan.validmeasures.org/installing-odk-collect-1/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; for instructions on installing &lt;strong&gt;ODK Collect&lt;/strong&gt; onto your mobile device.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;You already have created a form using &lt;strong&gt;XLSForm&lt;/strong&gt; standard that has multiple languages encoded. See &lt;a href=&#34;http://xlsform.org&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; for a guide on how to create forms using &lt;strong&gt;XLSForm&lt;/strong&gt; and &lt;a href=&#34;http://xlsform.org/#language&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; for a guide on how to included multiple language support on your form.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;You have already uploaded your form that supports multiple languages onto &lt;strong&gt;ODK Collect&lt;/strong&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This tutorial is aimed at &lt;strong&gt;IT administrators&lt;/strong&gt; and/or &lt;strong&gt;survey managers&lt;/strong&gt; or &lt;strong&gt;coordinators&lt;/strong&gt; to allow them to change language settings on &lt;strong&gt;ODK Collect&lt;/strong&gt; in time for data collection.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;1-open-a-blank-form-that-supports-multiple-languages&#34;&gt;1. Open a blank form that supports multiple languages&lt;/h2&gt;
+
+&lt;p&gt;Tap on &lt;strong&gt;ODK Collect&lt;/strong&gt; then tap on &lt;strong&gt;&lt;em&gt;&amp;lsquo;Fill Blank Form&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;.
+&lt;img src=&#34;/img/tutorials/open-a-blank-form-that-supports-multiple-languages.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;You will then be shown a list of forms that are uploaded onto your &lt;strong&gt;ODK Collect&lt;/strong&gt;. Tap on the form that you want to use in &lt;strong&gt;ODK Collect&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;In this example, only one form is loaded onto &lt;strong&gt;ODK Collect&lt;/strong&gt;. The form&amp;rsquo;s name is in &lt;strong&gt;&lt;em&gt;Arabic&lt;/em&gt;&lt;/strong&gt;.
+&lt;img src=&#34;/img/tutorials/6b560b03-49a4-41a4-9a52-505f66ef32e1.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;After tapping on the form you want to use in &lt;strong&gt;ODK Collect&lt;/strong&gt;, you will be presented with the &lt;strong&gt;&lt;em&gt;&amp;lsquo;cover page&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; of the form that shows:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;The form logo if it has been provided by the creator of the form and if the logo has been uploaded into &lt;strong&gt;ODK Collect&lt;/strong&gt; as well. In the example below the form logo has been provided &lt;strong&gt;(1)&lt;/strong&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;An introductory message &lt;strong&gt;(2)&lt;/strong&gt; saying that you are at the start of the form that you selected and instructing you to tap the arrow buttons below to go backward and forward on the forms or to swipe backward and forward depending on how ODK has been configured (see &lt;a href=&#34;http://sudan.validmeasures.org/configuring-odk-collect-for-data-collection/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; regarding &lt;strong&gt;ODK Collect&lt;/strong&gt; settings and configuration).&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Tap on the forward button (or do a forward swipe) to see the first page of the form and to have an idea of what the form&amp;rsquo;s default language is &lt;strong&gt;(3)&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;In this example, we will take a look at what the form with an &lt;strong&gt;&lt;em&gt;Arabic&lt;/em&gt;&lt;/strong&gt; name looks like and what default language it uses.
+&lt;img src=&#34;/img/tutorials/19b29197-8fa7-4c88-bc7c-cd74265e9b9e.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;You now get to see the first page &lt;strong&gt;(1)&lt;/strong&gt; of the form that you have selected. &lt;strong&gt;ODK Collect&lt;/strong&gt; will always dispaly the form in the default language set for the form. Hence, the language that you see being used in the form in the first page is the default language of the form.&lt;/p&gt;
+
+&lt;p&gt;In this example, the default language of the form is English.&lt;/p&gt;
+
+&lt;p&gt;Now, tap on the backward button &lt;strong&gt;(2)&lt;/strong&gt; to get back to the &lt;strong&gt;&lt;em&gt;&amp;lsquo;cover page&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; of the form.
+&lt;img src=&#34;/img/tutorials/891c82f3-1856-43b3-b18b-fb2ecb6de605.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;2-go-to-odk-collect-s-change-language-settings&#34;&gt;2. Go to ODK Collect&amp;rsquo;s Change Language settings&lt;/h2&gt;
+
+&lt;p&gt;Once you are back to the &lt;strong&gt;&lt;em&gt;&amp;lsquo;cover page&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;, look at the top right corner of the screen. Here you will see an icon with three square dots on top of each other &lt;strong&gt;(1)&lt;/strong&gt;. This is the button that allows you to change the settings of &lt;strong&gt;ODK Collect&lt;/strong&gt; including the &lt;strong&gt;&lt;em&gt;&amp;lsquo;Change Language&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; settings &lt;strong&gt;(2)&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Once you have located this, tap on &lt;strong&gt;&lt;em&gt;&amp;lsquo;Change Language&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;.
+&lt;img src=&#34;/img/tutorials/go-to-odk-collect-s-change-language-settings.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;3-select-language-you-want-to-use-for-your-form&#34;&gt;3. Select language you want to use for your form&lt;/h2&gt;
+
+&lt;p&gt;You will then see the following dialog box giving options of the languages supported by the form. The selected language is the language that is currently being used by the form. Choose the language that you want to use for the form.&lt;/p&gt;
+
+&lt;p&gt;In the example below, the form is currently using &lt;strong&gt;&lt;em&gt;English&lt;/em&gt;&lt;/strong&gt;. We wil now select ***Arabic *** by tapping on the radio button beside that specific language.
+&lt;img src=&#34;/img/tutorials/select-language-you-want-to-use-for-your-form.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;4-check-the-language-now-used-by-the-form&#34;&gt;4. Check the language now used by the form&lt;/h2&gt;
+
+&lt;p&gt;You can now check the language being used by the form by tapping on the forward button again from the &lt;strong&gt;&lt;em&gt;&amp;lsquo;cover page&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;. You will now see that the form is displayed in the language that you have chosen which in this example is &lt;strong&gt;&lt;em&gt;Arabic&lt;/em&gt;&lt;/strong&gt;.
+&lt;img src=&#34;/img/tutorials/check-the-language-now-used-by-the-form.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Configuring ODK Collect for data collection</title>
       <link>/post/configuring-odk-collect-for-data-collection/</link>
       <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>

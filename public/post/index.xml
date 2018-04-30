@@ -13,6 +13,15 @@
     
     
     <item>
+      <title>Changing ODK Collect language settings</title>
+      <link>/post/changing-odk-collect-language-settings/</link>
+      <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/changing-odk-collect-language-settings/</guid>
+      <description>ODK Collect supports forms written in multiple languages. XLSForm or XForms standard used for creating forms usable in ODK Collect also provide functionality that encodes multiple language support within the same single form being created (for more information, see multiple language support in XLSForm standard). If a form has been created to support multiple languages, ODK Collect is able to provide options for users to change the language of the form as needed.</description>
+    </item>
+    
+    <item>
       <title>Configuring ODK Collect for data collection</title>
       <link>/post/configuring-odk-collect-for-data-collection/</link>
       <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>

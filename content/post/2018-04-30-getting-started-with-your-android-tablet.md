@@ -4,9 +4,10 @@ author: ~
 date: '2018-04-30'
 slug: getting-started-with-your-android-tablet
 categories:
-    - Open Data Kit
+    - Data Collection
 tags:
     - tutorials
+    - open data kit
 header:
   caption: ''
   image: ''

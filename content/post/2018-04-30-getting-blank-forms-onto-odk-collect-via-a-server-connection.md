@@ -1,7 +1,7 @@
 ---
 title: Getting blank forms onto ODK Collect via a server connection
 author: ~
-date: '2018-04-30T07:00:00'
+date: '2018-04-30T18:00:00'
 slug: getting-blank-forms-onto-odk-collect-via-a-server-connection
 categories:
     - Data Collection

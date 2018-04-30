@@ -1,7 +1,7 @@
 ---
 title: Getting started with your Android tablet
 author: ''
-date: '2018-04-30'
+date: '2018-04-30T23:30:00'
 categories:
   - Data Collection
 tags:

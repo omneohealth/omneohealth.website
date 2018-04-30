@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on </title>
-    <link>/post/</link>
+    <link>https://omneohealth.org/post/</link>
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Mon, 30 Apr 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://omneohealth.org/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Getting started with your Android tablet</title>
-      <link>/post/getting-started-with-your-android-tablet/</link>
+      <link>https://omneohealth.org/post/getting-started-with-your-android-tablet/</link>
       <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/getting-started-with-your-android-tablet/</guid>
+      <guid>https://omneohealth.org/post/getting-started-with-your-android-tablet/</guid>
       <description>Mobile devices such as mobile phones and tablets have become valuable tools in data collection. Various applications have been and are being developed specifically to harness the utility of mobile devices for collecting data. An understanding of how mobile devices work specifically those powered by Android operating system is therefore a requisite knowledge for anyone involved in a data collection campaign that utilises these devices for data collection.
 This tutorial gives a brief overview on how to get started with an Android device.</description>
     </item>

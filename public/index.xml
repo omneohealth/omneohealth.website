@@ -135,6 +135,150 @@
     </item>
     
     <item>
+      <title>Installing ODK Collect without using Google Play Store 1</title>
+      <link>/post/installing-odk-collect-without-using-google-play-store-1/</link>
+      <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/installing-odk-collect-without-using-google-play-store-1/</guid>
+      <description>
+
+&lt;p&gt;There are situations in which access to the &lt;strong&gt;Google Play Store&lt;/strong&gt; might be limited for a variety reasons.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;You may not have a &lt;strong&gt;Google account&lt;/strong&gt; which is required to be able to access the &lt;strong&gt;Google Play Store&lt;/strong&gt;;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;There may be region or country-specific limitations to accessing either your &lt;strong&gt;Google account&lt;/strong&gt; or &lt;strong&gt;Google Play Store&lt;/strong&gt; or both; or,&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;There is simply no internet connectivity in the area you are located in.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Such situations would limit your ability to install applications including &lt;strong&gt;ODK Collect&lt;/strong&gt;. This is a problem when the mobile devices you are going to use for your data collection are not yet configured and &lt;strong&gt;ODK Collect&lt;/strong&gt; not yet installed.&lt;/p&gt;
+
+&lt;p&gt;This tutorial addresses the problem described in &lt;strong&gt;&lt;em&gt;situation 1&lt;/em&gt;&lt;/strong&gt; and &lt;strong&gt;&lt;em&gt;2&lt;/em&gt;&lt;/strong&gt; above where access to &lt;strong&gt;Google account&lt;/strong&gt; and/or &lt;strong&gt;Google Play Store&lt;/strong&gt; is limited but access to internet is not.&lt;/p&gt;
+
+&lt;p&gt;For &lt;strong&gt;&lt;em&gt;situation 3&lt;/em&gt;&lt;/strong&gt;, steps 2 to 4 of this tutorial will still apply but it would require that you have already done step 1 ahead of time where access to internet is available which will allow you to download a copy of the application to be installed.&lt;/p&gt;
+
+&lt;p&gt;This tutorial shows how to install &lt;strong&gt;ODK Collect&lt;/strong&gt; without using &lt;strong&gt;Google Play Store&lt;/strong&gt; (and without requiring a &lt;strong&gt;Google account&lt;/strong&gt;). Instead, the &lt;strong&gt;Open Data Kit&lt;/strong&gt; application package is downloaded onto a computer and then transferred to the tablet for installation.&lt;/p&gt;
+
+&lt;p&gt;This process requires a computer and a USB to micro-USB cable to connect the tablet to the computer.&lt;/p&gt;
+
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;1-download-open-data-kit-apk&#34;&gt;1. Download Open Data Kit APK&lt;/h2&gt;
+
+&lt;p&gt;First you need to download the &lt;strong&gt;Open Data Kit APK&lt;/strong&gt;. &lt;strong&gt;APK&lt;/strong&gt; is short for Android application package which is the package file format used by the Android operating system for distribution and installation of mobile apps. Here are the steps to download the &lt;strong&gt;Open Data Kit APK&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;1-1-go-to-the-open-data-kit-website&#34;&gt;1.1 Go to the Open Data Kit website&lt;/h3&gt;
+
+&lt;p&gt;On your web browser, type in &lt;a href=&#34;https://opendatakit.org.&#34;&gt;https://opendatakit.org.&lt;/a&gt; You will then see the following webpage on your browser.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/go-to-the-open-data-kit-website.png&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;1-2-go-to-the-download-page&#34;&gt;1.2 Go to the Download page&lt;/h3&gt;
+
+&lt;p&gt;On top of the webpage, you will see the menu of the website one of which is named &lt;em &lt;strong&gt;&amp;lsquo;Download&amp;rsquo;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Click on &lt;em&gt;&lt;strong&gt;&amp;lsquo;Download&amp;rsquo;&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;{{ site.baseurl }}/assets/go-to-the-download-page.png&#34; width=&#34;925&#34; height=&#34;617&#34; class=&#34;clarify-step-image&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+&amp;nbsp;&lt;/p&gt;
+&lt;h6&gt;1.3 Select the ODK Collect APK from the download list&lt;/h6&gt;
+&lt;p&gt;Once you are at the Download page, you will see a list of the various downloads that are available from the Open Data Kit site.&lt;/p&gt;
+&lt;p&gt;You will find the &lt;strong&gt;ODK Collect APK&lt;/strong&gt; as item number 3 in the Collect section of the Download page &lt;strong&gt;(1)&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Once you have found the &lt;strong&gt;ODK Collect APK&lt;/strong&gt;, click on the link.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;{{ site.baseurl }}/assets/select-the-odk-collect-apk-from-the-download-list-1.png&#34; width=&#34;915&#34; height=&#34;1051&#34; class=&#34;clarify-step-image&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+&amp;nbsp;&lt;/p&gt;
+&lt;h6&gt;1.4 Click Download&lt;/h6&gt;
+&lt;p&gt;&lt;img src=&#34;{{ site.baseurl }}/assets/click-download.png&#34; width=&#34;915&#34; height=&#34;665&#34; class=&#34;clarify-step-image&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+&amp;nbsp;&lt;/p&gt;
+&lt;h6&gt;1.5 Find the downloaded ODK Collect APK&lt;/h6&gt;
+&lt;p&gt;By default, all downloads are saved in the computer&#39;s &lt;strong&gt;Download&lt;/strong&gt; folder. Navigate to your computer&#39;s &lt;strong&gt;Download&lt;/strong&gt; folder to see that the &lt;strong&gt;ODK Collect APK&lt;/strong&gt; has been downloaded successfully.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;{{ site.baseurl }}/assets/find-the-downloaded-odk-collect-apk.png&#34; width=&#34;862&#34; height=&#34;609&#34; class=&#34;clarify-step-image&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+&amp;nbsp;&lt;/p&gt;
+&lt;h6&gt;1.6 Move ODK Collect APK to your Desktop&lt;/h6&gt;
+&lt;p&gt;This step is not absolutely necessary but it will make things easier in terms of the next steps because it will make it easier for you to locate the &lt;strong&gt;ODK Collect APK&lt;/strong&gt; file. Drag the ODK Collect APK file from the &lt;strong&gt;Downloads&lt;/strong&gt; folder onto your &lt;strong&gt;Desktop&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;{{ site.baseurl }}/assets/move-odk-collect-apk-to-your-desktop.png&#34; width=&#34;1056&#34; height=&#34;616&#34; class=&#34;clarify-step-image&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h6&gt;1.6 Move ODK Collect APK to your Desktop&lt;/h6&gt;
+&lt;p&gt;You will now see the &lt;strong&gt;ODK Collect APK&lt;/strong&gt; on your &lt;strong&gt;Desktop&lt;/strong&gt; making it easier to access later for the next steps.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;{{ site.baseurl }}/assets/16-move-odk-collect-apk-to-your-desktop.png&#34; width=&#34;1083&#34; height=&#34;611&#34; class=&#34;clarify-step-image&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+&amp;nbsp;&lt;/p&gt;
+&lt;h5&gt;2. Transfer the ODK Collect APK to your tablet&lt;/h5&gt;
+&lt;p&gt;You will now need to transfer the ODK Collect APK to your tablet. This can be done by following these steps.&lt;/p&gt;
+&lt;h6&gt;2.1 Connect your tablet to your computer&lt;/h6&gt;
+&lt;p&gt;Using the the USB to Micro-USB cable supplied with your tablet, connect the tablet to your computer.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;{{ site.baseurl }}/assets/samsungConnectPC-1024x654.png&#34; alt=&#34;samsungConnectPC&#34; width=&#34;700&#34; height=&#34;447&#34; class=&#34;aligncenter size-large wp-image-831&#34; /&gt;&lt;br /&gt;
+&amp;nbsp;&lt;/p&gt;
+&lt;h6&gt;2.2 Navigate to the directory of your tablet&lt;/h6&gt;
+&lt;p&gt;By default, tablets are configured in such a way that when they are connected to a computer, they function as a USB mass-storage device (just like a USB memory stick). This means that when you connect to a computer, the tablet will appear on the computer as another storage device with its own directory.&lt;/p&gt;
+&lt;p&gt;So, to be able to navigate to the directory of your tablet, open &lt;strong&gt;Windows Explorer&lt;/strong&gt; and you should find your tablet (if you have named your tablet, you will see the name of the tablet) listed as a storage device.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;{{ site.baseurl }}/assets/navigate-to-the-directory-of-your-tablet.png&#34; width=&#34;862&#34; height=&#34;609&#34; class=&#34;clarify-step-image&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;When you click on the name of your tablet, a sub-directory called &lt;em&gt;&lt;strong&gt;&#39;Tablet&#39;&lt;/strong&gt;&lt;/em&gt; will appear and then you will now see the contents of your tablet organised in folders.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;{{ site.baseurl }}/assets/22-navigate-to-the-directory-of-your-tablet.png&#34; width=&#34;862&#34; height=&#34;609&#34; class=&#34;clarify-step-image&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+&amp;nbsp;&lt;/p&gt;
+&lt;h6&gt;2.3 Find and open the Download folder of your tablet&lt;/h6&gt;
+&lt;p&gt;Open the Download folder of your tablet by double-clicking on it.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;{{ site.baseurl }}/assets/find-and-open-the-download-folder-of-your-tablet.png&#34; width=&#34;862&#34; height=&#34;609&#34; class=&#34;clarify-step-image&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Your &lt;strong&gt;Download&lt;/strong&gt; folder will contain all downloads that you have made on your tablet. In this case, there are no downloads yet on the tablet.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;{{ site.baseurl }}/assets/23-find-and-open-the-download-folder-of-your-tablet.png&#34; width=&#34;862&#34; height=&#34;609&#34; class=&#34;clarify-step-image&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+&amp;nbsp;&lt;/p&gt;
+&lt;h6&gt;2.4 Transfer the ODK Collect APK from your computer to the tablet&#39;s Download folder&lt;/h6&gt;
+&lt;p&gt;Remember, you have placed the &lt;strong&gt;ODK Collect APK&lt;/strong&gt; to the desktop which makes it more accessible to you for transferring into the tablets &lt;strong&gt;Donwload&lt;/strong&gt; folder. Select the &lt;strong&gt;ODK Collect APK&lt;/strong&gt; on your &lt;strong&gt;Desktop&lt;/strong&gt; and then drag and drop it to copy into your tablet&#39;s &lt;strong&gt;Download&lt;/strong&gt; folder.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;{{ site.baseurl }}/assets/transfer-the-odk-collect-apk-from-your-computer-to-the-tablet-s-download-folder.png&#34; width=&#34;1083&#34; height=&#34;611&#34; class=&#34;clarify-step-image&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;You will now see the &lt;strong&gt;ODK Collect APK&lt;/strong&gt; on your tablet&#39;s &lt;strong&gt;Download&lt;/strong&gt; folder.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;{{ site.baseurl }}/assets/24-transfer-the-odk-collect-apk-from-your-computer-to-the-tablet-s-download-folder.png&#34; width=&#34;862&#34; height=&#34;609&#34; class=&#34;clarify-step-image&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+&amp;nbsp;&lt;/p&gt;
+&lt;h5&gt;3. Set-up tablet device to allow installation of applications outside of the Google Play Store&lt;/h5&gt;
+&lt;p&gt;You will now need to set-up your tablet device to allow installation of application outside of Google Play Store. Following are the steps you need to take.&lt;br /&gt;
+&amp;nbsp;&lt;/p&gt;
+&lt;h6&gt;3.1 Go to Security settings of your tablet&lt;/h6&gt;
+&lt;p&gt;In your tablet device, open the &lt;em&gt;&lt;strong&gt;Settings&lt;/strong&gt;&lt;/em&gt; application, then navigate to the &lt;em&gt;&lt;strong&gt;General&lt;/strong&gt;&lt;/em&gt; tab &lt;strong&gt;(1)&lt;/strong&gt; &amp;nbsp;and then the &lt;em&gt;&lt;strong&gt;Security&lt;/strong&gt;&lt;/em&gt; settings &lt;strong&gt;(2)&lt;/strong&gt;. You will now see the various &lt;em&gt;&lt;strong&gt;Security&lt;/strong&gt;&lt;/em&gt; settings. For this step, you wll need to focus on the &lt;em&gt;&lt;strong&gt;Device Administration&lt;/strong&gt;&lt;/em&gt; section specifically the &lt;em&gt;&lt;strong&gt;Unknown sources&lt;/strong&gt;&lt;/em&gt; option &lt;strong&gt;(3)&lt;/strong&gt;. This is the option that will allow you to install applications from other sources other than the Google Play Store. By default, this option is not checked. Check this option.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;{{ site.baseurl }}/assets/go-to-security-settings-of-your-tablet.png&#34; width=&#34;800&#34; height=&#34;1280&#34; class=&#34;clarify-step-image&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+&amp;nbsp;&lt;/p&gt;
+&lt;h6&gt;3.1 &amp;nbsp; Set-up tablet device to allow installation of applications outside of the Google Play Store&lt;/h6&gt;
+&lt;p&gt;Once you check this option, you will get a warning regarding installint application from unknown sources. Tap on &lt;em&gt;&lt;strong&gt;&#39;OK&#39;&lt;/strong&gt;&lt;/em&gt; to continue.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;{{ site.baseurl }}/assets/31-set-up-tablet-device-to-allow-installation-of-applications-outside-of-the-google-play-store.png&#34; width=&#34;800&#34; height=&#34;1280&#34; class=&#34;clarify-step-image&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;The option to install from unknown sources is now checked &lt;strong&gt;(1)&lt;/strong&gt;. You can now continue with the next steps for installing &lt;strong&gt;ODK Collect&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;{{ site.baseurl }}/assets/31-set-up-tablet-device-to-allow-installation-of-applications-outside-of-the-google-play-store-1.png&#34; width=&#34;800&#34; height=&#34;1280&#34; class=&#34;clarify-step-image&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+&amp;nbsp;&lt;/p&gt;
+&lt;h5&gt;4. Install ODK Collect on your tablet&lt;/h5&gt;
+&lt;p&gt;Now, you need to install &lt;strong&gt;ODK Collect&lt;/strong&gt; on your tablet using the &lt;strong&gt;ODK Collect APK&lt;/strong&gt; that you just transferred to your tablet. This can be done by following these steps.&lt;br /&gt;
+&amp;nbsp;&lt;/p&gt;
+&lt;h6&gt;4.1 Navigate to the Download folder of your tablet&lt;/h6&gt;
+&lt;p&gt;For this step, you will need a file manager application to be able to navigate the contents of your tablet. For some devices such as those from the Samsung line of mobile devices, there is a pre-installed file manager application called &#39;My Files&#39;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;{{ site.baseurl }}/assets/navigate-to-the-download-folder-of-your-tablet.png&#34; width=&#34;800&#34; height=&#34;1280&#34; class=&#34;clarify-step-image&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Open the &lt;em&gt;&lt;strong&gt;&#39;My Files&#39;&lt;/strong&gt;&lt;/em&gt; file manager application and then click on &lt;em&gt;&lt;strong&gt;&#39;Device Storage&#39; &lt;/strong&gt;&lt;/em&gt;&lt;strong&gt;(1)&lt;/strong&gt;. You will now see all the folders inside the tablet including the &lt;strong&gt;Download&lt;/strong&gt; folder &lt;strong&gt;(2)&lt;/strong&gt;. Open the &lt;strong&gt;Download&lt;/strong&gt; folder.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;{{ site.baseurl }}/assets/41-navigate-to-download-folder-of-your-tablet.png&#34; width=&#34;800&#34; height=&#34;1280&#34; class=&#34;clarify-step-image&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;You will now see the &lt;strong&gt;ODK Collect APK&lt;/strong&gt; which you have transferred earlier from your computer &lt;strong&gt;(1)&lt;/strong&gt;. You can now proceed with installing the &lt;strong&gt;ODK Collect APK&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;{{ site.baseurl }}/assets/41-navigate-to-download-folder-on-your-tablet.png&#34; width=&#34;800&#34; height=&#34;1280&#34; class=&#34;clarify-step-image&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+&amp;nbsp;&lt;/p&gt;
+&lt;h6&gt;4.2 Tap on the ODK Collect APK&lt;/h6&gt;
+&lt;p&gt;Once you have found the &lt;strong&gt;ODK Collect APK&lt;/strong&gt; on the &lt;strong&gt;Download&lt;/strong&gt; folder of your tablet, tap the APK to initiate installation. You will now see the following prompt on your tablet screen. Tap &lt;em&gt;&lt;strong&gt;&#39;Next&#39;&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;{{ site.baseurl }}/assets/tap-on-the-odk-collect-apk.png&#34; width=&#34;800&#34; height=&#34;1280&#34; class=&#34;clarify-step-image&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;The next screen will look like this. Tap on &lt;em&gt;&lt;strong&gt;&#39;Intsall&#39;&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;{{ site.baseurl }}/assets/42-tap-on-the-odk-collect-apk.png&#34; width=&#34;800&#34; height=&#34;1280&#34; class=&#34;clarify-step-image&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;The next screen will indicate that ODK Collect is now installing on your tablet.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;{{ site.baseurl }}/assets/42-tap-on-the-odk-collect-apk-1.png&#34; width=&#34;800&#34; height=&#34;1280&#34; class=&#34;clarify-step-image&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;You will see this screen on your tablet to indicate the &lt;strong&gt;ODK Collect&lt;/strong&gt; has been installed. You can tap on &lt;em&gt;&lt;strong&gt;&#39;Open&#39;&lt;/strong&gt;&lt;/em&gt; to start using &lt;strong&gt;ODK Collect&lt;/strong&gt; on your tablet device.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;{{ site.baseurl }}/assets/42-tap-on-the-odk-collect-apk-2.png&#34; width=&#34;800&#34; height=&#34;1280&#34; class=&#34;clarify-step-image&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+&amp;nbsp;&lt;/p&gt;
+&lt;h6&gt;4.3 Start using ODK Collect&lt;/h6&gt;
+&lt;p&gt;You can now start using &lt;strong&gt;ODK Collect&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;{{ site.baseurl }}/assets/start-using-odk-collect.png&#34; width=&#34;800&#34; height=&#34;1280&#34; class=&#34;clarify-step-image&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;br /&gt;
+&amp;nbsp;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Example Talk</title>
       <link>/talk/example-talk/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>

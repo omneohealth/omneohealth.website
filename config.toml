@@ -259,8 +259,7 @@ defaultContentLanguageInSubdir = false
   name = "Guides and Tutorials"
   url = "#guides"
   weight = 4
-  identifier = "guides"
-  
+
 #[[menu.main]]
 #  name = "Data Collection"
 #  url = "#guides/guide1"

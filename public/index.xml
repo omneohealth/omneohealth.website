@@ -411,8 +411,9 @@ Under the &lt;strong&gt;&lt;em&gt;Connection&lt;/em&gt;&lt;/strong&gt;* *tab, th
 
 &lt;p&gt;There will be situations when you will need to delete some forms, either saved or blank forms, from your &lt;strong&gt;ODK Collect&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p&gt;The most common reason for deleting saved forms is when you have already submitted your finalised forms to your chosen data or forms aggregator (this can be a web-based &lt;strong&gt;ODK server&lt;/strong&gt; provided by &lt;a href=&#34;https://formhub.org&#34; target=&#34;_blank&#34;&gt;Formhub&lt;/a&gt;, &lt;a href=&#34;http://www.surveycto.com/index.html&#34; target=&#34;_blank&#34;&gt;SureyCTO&lt;/a&gt;, &lt;a href=&#34;http://www.kobotoolbox.org&#34; target=&#34;_blank&#34;&gt;KoBoToolbox&lt;/a&gt;, &lt;a href=&#34;https://ona.io&#34; target=&#34;_blank&#34;&gt;ONA&lt;/a&gt; or &lt;a href=&#34;https://opendatakit.org/use/aggregate/&#34; target=&#34;_blank&#34;&gt;ODK Aggregate&lt;/a&gt; and the like or for variants of these servers that are locally-deployed i.e., server installed onto a local computer or through &lt;strong&gt;ODK Briefcase&lt;/strong&gt;) and you want to clear these submitted forms from your &lt;strong&gt;ODK Collect&lt;/strong&gt;. The default behaviour of &lt;strong&gt;ODK Collect&lt;/strong&gt; after forms submissions is to keep a copy of the saved form in &lt;strong&gt;ODK Collect&lt;/strong&gt; (which can be changed in **ODK Collect&amp;rsquo;s **&lt;strong&gt;&lt;em&gt;&amp;lsquo;General Settings&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;). However, extreme caution is always recommended when deleting saved forms because this can potentially lead to loss of data. If in doubt whether saved forms have been submitted already or not, make a backup of the data before deleting the saved forms.
-The most common reason for deleting blank forms is to clear out forms that have been used for testing purposes or forms that were downloaded but eventually didn&amp;rsquo;t get used. Since these are blank forms and not associated with any data, these forms can be safely deleted.&lt;/p&gt;
+&lt;p&gt;The most common reason for deleting saved forms is when you have already submitted your finalised forms to your chosen data or forms aggregator (this can be a web-based &lt;strong&gt;ODK server&lt;/strong&gt; provided by &lt;a href=&#34;https://formhub.org&#34; target=&#34;_blank&#34;&gt;Formhub&lt;/a&gt;, &lt;a href=&#34;http://www.surveycto.com/index.html&#34; target=&#34;_blank&#34;&gt;SureyCTO&lt;/a&gt;, &lt;a href=&#34;http://www.kobotoolbox.org&#34; target=&#34;_blank&#34;&gt;KoBoToolbox&lt;/a&gt;, &lt;a href=&#34;https://ona.io&#34; target=&#34;_blank&#34;&gt;ONA&lt;/a&gt; or &lt;a href=&#34;https://opendatakit.org/use/aggregate/&#34; target=&#34;_blank&#34;&gt;ODK Aggregate&lt;/a&gt; and the like or for variants of these servers that are locally-deployed i.e., server installed onto a local computer or through &lt;strong&gt;ODK Briefcase&lt;/strong&gt;) and you want to clear these submitted forms from your &lt;strong&gt;ODK Collect&lt;/strong&gt;. The default behaviour of &lt;strong&gt;ODK Collect&lt;/strong&gt; after forms submissions is to keep a copy of the saved form in &lt;strong&gt;ODK Collect&lt;/strong&gt; (which can be changed in **ODK Collect&amp;rsquo;s **&lt;strong&gt;&lt;em&gt;&amp;lsquo;General Settings&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;). However, extreme caution is always recommended when deleting saved forms because this can potentially lead to loss of data. If in doubt whether saved forms have been submitted already or not, make a backup of the data before deleting the saved forms.&lt;/p&gt;
+
+&lt;p&gt;The most common reason for deleting blank forms is to clear out forms that have been used for testing purposes or forms that were downloaded but eventually didn&amp;rsquo;t get used. Since these are blank forms and not associated with any data, these forms can be safely deleted.&lt;/p&gt;
 
 &lt;p&gt;This short tutorial shows how to delete saved forms and blank forms in &lt;strong&gt;ODK Collect&lt;/strong&gt;. This tutorial assumes that you have downloaded forms onto your &lt;strong&gt;ODK Collect&lt;/strong&gt; and may have some saved forms as well.
 &lt;br /&gt;&lt;/p&gt;
@@ -475,6 +476,126 @@ The most common reason for deleting blank forms is to clear out forms that have 
 &lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;/img/tutorials/2613e2dd-296b-416c-bd3a-25b7c61fbf93.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Getting blank forms onto ODK Collect via a server connection</title>
+      <link>/post/getting-blank-forms-onto-odk-collect-via-a-server-connection/</link>
+      <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/getting-blank-forms-onto-odk-collect-via-a-server-connection/</guid>
+      <description>
+
+&lt;p&gt;To be able to use &lt;strong&gt;ODK Collect&lt;/strong&gt; for data collection, pre-designed data collection forms will have to be loaded onto the application. There are generally two ways of performing this task.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Get blank forms from a pre-configured &lt;strong&gt;ODK server&lt;/strong&gt; designed to distribute blank forms and also to receive form submissions; and,&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Get blank froms directly onto the mobile device via a USB connection with a computer where the pre-designed data collection forms are located.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This tutorial describes how to get blank forrms onto &lt;strong&gt;ODK Collect&lt;/strong&gt; through a pre-configured &lt;strong&gt;ODK server&lt;/strong&gt;. This tutorial is applicable for web-based or cloud-based &lt;strong&gt;ODK servers&lt;/strong&gt; such as &lt;a href=&#34;https://formhub.org&#34; target=&#34;_blank&#34;&gt;Formhub&lt;/a&gt;, &lt;a href=&#34;http://www.surveycto.com/index.html&#34; target=&#34;_blank&#34;&gt;SureyCTO&lt;/a&gt;, &lt;a href=&#34;http://www.kobotoolbox.org&#34; target=&#34;_blank&#34;&gt;KoBoToolbox&lt;/a&gt;, &lt;a href=&#34;https://ona.io&#34; target=&#34;_blank&#34;&gt;ONA&lt;/a&gt; or &lt;a href=&#34;https://opendatakit.org/use/aggregate/&#34; target=&#34;_blank&#34;&gt;ODK Aggregate&lt;/a&gt; or for variants of these servers that are locally-deployed (i.e., server installed onto a local computer). This tutorial assumes that you:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Have an account with one of the web-based or cloud-based &lt;strong&gt;ODK servers&lt;/strong&gt; or that you have your own web-based deployment of one of these &lt;strong&gt;ODK servers&lt;/strong&gt; or its variants or that you have your own locally-deployed &lt;strong&gt;ODK server&lt;/strong&gt;;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt;Have created forms using the &lt;/span&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt;&lt;strong&gt;XLSForm&lt;/strong&gt;&lt;/span&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt; standard. Instructions and guide on how to create forms using &lt;/span&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt;&lt;strong&gt;XLSForm&lt;/strong&gt;&lt;/span&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt; standard can be found &lt;/span&gt;&lt;span style=&#34;color: rgb(142,190,218)&#34;&gt;&lt;a href=&#34;http://xlsform.org/&#34;&gt;here&lt;/a&gt;&lt;/span&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt;. If you have created forms using &lt;/span&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt;&lt;strong&gt;XForms&lt;/strong&gt;&lt;/span&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt; standard, consider using the second approach of transferring blank forms directly onto mobile device via a USB connection with a computer;&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt;Have uploaded your forms onto your &lt;/span&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt;&lt;strong&gt;ODK server&lt;/strong&gt;&lt;/span&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt;. A tutorial on how to upload forms onto an &lt;/span&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt;&lt;strong&gt;ODK server&lt;/strong&gt;&lt;/span&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt; can be found &lt;/span&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt;&lt;a href=&#34;http://sudan.validmeasures.org/publishing-forms-onto-formhub-local-server/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/span&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt;;&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt;Have internet access (for web-based &lt;/span&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt;&lt;strong&gt;ODK servers&lt;/strong&gt;&lt;/span&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt;) or a local area network configured (for locally-deployed &lt;/span&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt;&lt;strong&gt;ODK servers&lt;/strong&gt;&lt;/span&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt;); and,&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt;Have &lt;/span&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt;&lt;strong&gt;ODK Collect&lt;/strong&gt;&lt;/span&gt;&lt;span style=&#34;color: rgb(1,24,55)&#34;&gt; installed on your mobile device. &lt;/span&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Now, let&amp;rsquo;s get blank forms onto your mobile device.&lt;/p&gt;
+
+&lt;h2 id=&#34;1-open-odk-collect&#34;&gt;1. Open ODK Collect&lt;/h2&gt;
+
+&lt;p&gt;Find the &lt;strong&gt;ODK Collect&lt;/strong&gt; app icon on your device and tap. You will see the following on your screen.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/open-odk-collect.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;2-configure-odk-collect-server-settings&#34;&gt;2. Configure ODK Collect server settings&lt;/h2&gt;
+
+&lt;p&gt;On the upper right hand corner of the &lt;strong&gt;ODK Collect&lt;/strong&gt; screen, you will see three square dots on top of each other &lt;strong&gt;(1)&lt;/strong&gt;. Click on this and a dropdown menu will appear showing options for &lt;strong&gt;&lt;em&gt;&amp;lsquo;General Settings&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(2)&lt;/strong&gt; and for &lt;strong&gt;&lt;em&gt;&amp;lsquo;Admin Settings&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(3)&lt;/strong&gt;.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/configure-odk-collect-server-settings.png&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;2-1-tap-on-general-settings&#34;&gt;2.1 Tap on General Settings&lt;/h3&gt;
+
+&lt;p&gt;First, we should configure the &lt;strong&gt;&lt;em&gt;&amp;lsquo;General Settings&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; option of &lt;strong&gt;ODK Collect&lt;/strong&gt;. This is what you will see once you tap on &lt;strong&gt;&lt;em&gt;&amp;lsquo;General Settings&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;There are three main &amp;lsquo;General Settings&amp;rsquo; categories that can be configured: &lt;strong&gt;&lt;em&gt;Server Settings&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(1)&lt;/strong&gt;, &lt;strong&gt;&lt;em&gt;Auto Send&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(2)&lt;/strong&gt;, and &lt;strong&gt;&lt;em&gt;User Interface&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(3)&lt;/strong&gt;.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/tap-on-general-settings.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;2-2-tap-on-server-settings&#34;&gt;2.2 Tap on server settings&lt;/h3&gt;
+
+&lt;p&gt;In &lt;strong&gt;&lt;em&gt;&amp;lsquo;Server Settings&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;, there are two main settings that will need configuring: &lt;strong&gt;&lt;em&gt;Platform&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(1)&lt;/strong&gt; and &lt;strong&gt;&lt;em&gt;Platform settings&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(2)&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;First, tap on &lt;strong&gt;&lt;em&gt;Platform&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(1)&lt;/strong&gt;.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/tap-on-server-settings.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;You will then be presented with various platform options that you can select depending on the type of server that you are using for your data collection campaign. &lt;strong&gt;ODK Aggregate&lt;/strong&gt; is the default platform. For anything other than the default &lt;strong&gt;ODK Aggregate&lt;/strong&gt; platform that is provided on &lt;strong&gt;ODK Collect&lt;/strong&gt; by default, you will most likely need to select &lt;strong&gt;Other&lt;/strong&gt; option so that you can specify your own platform for your data collection server.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/7893044c-9d57-4395-8b68-853ed56bebf5.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Next, tap on &lt;strong&gt;&lt;em&gt;&amp;lsquo;Configure platform settings&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;(2)&lt;/strong&gt;.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/7298b62a-d734-49a9-b1b6-8f0d6d4baeb6.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;You will then see the following options on your screen. Here you can specify the settings of the server used by your platform specifically the &lt;strong&gt;URL of your server&lt;/strong&gt; &lt;strong&gt;(1)&lt;/strong&gt;, the &lt;strong&gt;username&lt;/strong&gt; &lt;strong&gt;(2)&lt;/strong&gt; and &lt;strong&gt;password&lt;/strong&gt; &lt;strong&gt;(3)&lt;/strong&gt; used to login to your server. If you do not know these settings, you should ask your IT administrator or whoever setup your server platform to provide you with these settings. For most service providers offering servers for use by ODK, these settings are made explicit within your account so all you might need to do is to login to your account and find these settings.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/bb41af04-0c2d-4a35-873d-65783400301e.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;For example, if you are using a locally-deployed &lt;strong&gt;Formhub&lt;/strong&gt; server as your &lt;strong&gt;ODK&lt;/strong&gt; platform, you can find your server settings by logging in to your account and then scrolling down to the bottom of the webpage of the Formhub portal, you will see the following information about your Formhub server which you can use to setup the platform settings on your ODK Collect.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/0f69dcbf-841f-4fcf-a113-b010e4bc7016.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;3-get-blanks-forms-from-the-server&#34;&gt;3. Get blanks forms from the server&lt;/h2&gt;
+
+&lt;p&gt;Once you have configured the server settings, go back to the main screen of &lt;strong&gt;ODK Collect&lt;/strong&gt; (as shown below) and then tap on &lt;strong&gt;&lt;em&gt;&amp;lsquo;Get Blank Form&amp;rsquo;&lt;/em&gt;&lt;/strong&gt;.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/get-blanks-forms-from-the-server.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;You will then see a list of the various blank forms that are available from the server. In the example below, there is only one form available called **Incidence / **&lt;strong&gt;حدوث&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Select this form by ticking the box on its right hand side &lt;strong&gt;&lt;em&gt;(1)&lt;/em&gt;&lt;/strong&gt;. Then tap the button on the bottom right hand corner of the &lt;strong&gt;ODK Collect&lt;/strong&gt; screen labeled ***&amp;lsquo;Get selected&amp;rsquo; ***&lt;strong&gt;(2)&lt;/strong&gt;.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/3bbba33a-8611-48ea-b4a9-a6f4b5220f1e.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;You will then see the following prompt indicating that &lt;strong&gt;ODK Collect&lt;/strong&gt; is communicating with the server and downloading the **Incidence / **&lt;strong&gt;حدوث&lt;/strong&gt; blank form.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/f1845190-e09f-42ff-98c8-88e7154c90bc.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The following prompt will come out on your screen once the download process is finished.&lt;/p&gt;
+
+&lt;p&gt;Congratulations, you have successfully downloaded a blank form from your specified server!
 &lt;br /&gt;&lt;/p&gt;
 </description>
     </item>

@@ -1,7 +1,7 @@
 ---
 title: Configuring ODK Collect for data collection
 author: ~
-date: '2018-04-30'
+date: '2018-04-30T04:00:00'
 slug: configuring-odk-collect-for-data-collection
 categories:
     - Data Collection

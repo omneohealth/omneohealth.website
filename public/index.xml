@@ -445,6 +445,77 @@ Under the &lt;strong&gt;&lt;em&gt;Connection&lt;/em&gt;&lt;/strong&gt;* *tab, th
     </item>
     
     <item>
+      <title>Installing ODK Collect on Android devices</title>
+      <link>/post/installing-odk-collect-on-android-devices/</link>
+      <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/installing-odk-collect-on-android-devices/</guid>
+      <description>
+
+&lt;p&gt;Installing applications such as &lt;strong&gt;ODK Collect&lt;/strong&gt; on to mobile devices such as mobile phones and tablets is a straightforward process. This tutorial describes how to install applications onto Android-powered devices using the &lt;strong&gt;Google Play Store&lt;/strong&gt;. Specifically, this tutorial shows how to install &lt;strong&gt;ODK Collect&lt;/strong&gt; from the &lt;strong&gt;Google Play Store&lt;/strong&gt; on to your mobile device.&lt;/p&gt;
+
+&lt;p&gt;This tutorial is aimed at &lt;strong&gt;IT administrators&lt;/strong&gt; and/or &lt;strong&gt;survey managers&lt;/strong&gt; or &lt;strong&gt;coordinators&lt;/strong&gt; who are tasked to setup the mobile devices in preparation for data collection.&lt;/p&gt;
+
+&lt;p&gt;This tutorial assumes that:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;You have internet connection;&lt;/li&gt;
+&lt;li&gt;You have a &lt;strong&gt;Google&lt;/strong&gt; account; and,&lt;/li&gt;
+&lt;li&gt;You have access to the &lt;strong&gt;Google Play Store&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;1-open-google-play-store&#34;&gt;1. Open Google Play Store&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/open-google-play-store.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/a60d5834-1bc4-4628-b69e-6e32ca96d1a5.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;2-search-for-odk-collect&#34;&gt;2. Search for ODK Collect&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/search-for-odk-collect.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;3-tap-on-odk-collect&#34;&gt;3. Tap on ODK Collect&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/tap-on-odk-collect.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;4-install-odk-collect&#34;&gt;4. Install ODK Collect&lt;/h2&gt;
+
+&lt;p&gt;Tap on &lt;strong&gt;&lt;em&gt;&amp;lsquo;Install&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; to start installation of &lt;strong&gt;ODK collect&lt;/strong&gt;.
+&lt;img src=&#34;/img/tutorials/install-odk-collect.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Give permissions to ODK Collect to access your information and other related applications in your device to proceed with installation.
+&lt;img src=&#34;/img/tutorials/aee6a05f-b4d5-43c5-976e-269b07e78972.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;5-wait-while-odk-collect-installs&#34;&gt;5. Wait while ODK Collect installs&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/wait-while-odk-collect-installs.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;6-open-odk-collect&#34;&gt;6. Open ODK Collect&lt;/h2&gt;
+
+&lt;p&gt;You know &lt;strong&gt;ODK Collect&lt;/strong&gt; has been successfully installed when you see the &lt;strong&gt;&lt;em&gt;&amp;lsquo;Open&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; button.&lt;/p&gt;
+
+&lt;p&gt;Tap on &lt;strong&gt;&lt;em&gt;&amp;lsquo;Open&amp;rsquo;&lt;/em&gt;&lt;/strong&gt; button to start &lt;strong&gt;ODK Collect&lt;/strong&gt;.
+&lt;img src=&#34;/img/tutorials/open-odk-collect-1.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/fee4bde7-9224-49ca-bc78-12a8811267b3.png&#34; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Congratulations! You have now successfully installed ODK Collect on your Android-powered device.
+&lt;img src=&#34;/img/tutorials/e9368bdb-3ef8-44b8-ace2-5b66a3a6f20e.png&#34; /&gt;
+&amp;nbsp;&lt;br /&gt;
+&amp;nbsp;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Installing ODK Collect without using Google Play Store - Approach 1</title>
       <link>/post/installing-odk-collect-without-using-google-play-store-1/</link>
       <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>

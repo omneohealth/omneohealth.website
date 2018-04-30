@@ -42,6 +42,16 @@ This tutorial gives a brief overview on how to get started with an Android devic
     </item>
     
     <item>
+      <title>Installing ODK Collect on Android devices</title>
+      <link>/post/installing-odk-collect-on-android-devices/</link>
+      <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/installing-odk-collect-on-android-devices/</guid>
+      <description>Installing applications such as ODK Collect on to mobile devices such as mobile phones and tablets is a straightforward process. This tutorial describes how to install applications onto Android-powered devices using the Google Play Store. Specifically, this tutorial shows how to install ODK Collect from the Google Play Store on to your mobile device.
+This tutorial is aimed at IT administrators and/or survey managers or coordinators who are tasked to setup the mobile devices in preparation for data collection.</description>
+    </item>
+    
+    <item>
       <title>Installing ODK Collect without using Google Play Store - Approach 1</title>
       <link>/post/installing-odk-collect-without-using-google-play-store-1/</link>
       <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>

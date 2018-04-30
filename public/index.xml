@@ -22,8 +22,9 @@
 
 &lt;p&gt;This tutorial gives a brief overview on how to get started with an Android device. We chose to focus on the use of tablet devices because we think that the smaller sized tablets (up to 7-inch) are a good mix of the mobility and handiness of a mobile phone and the wider screen size of a tablet which is good for fitting relatively dense question sets adequately. We also chose to focus on Samsung-branded because they are probably the most common brand of mobile devices available and we think most users have most likely had an experience using devices from this brand beforehand. For this specific tutorial, we use the &lt;strong&gt;Samsung SM-T230&lt;/strong&gt; as the model device for instructional purposes.&lt;/p&gt;
 
-&lt;p&gt;This tutorial is aimed at enumerators who may have not been exposed to smartphones particularly Android-powered devices.
-&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;This tutorial is aimed at enumerators who may have not been exposed to smartphones particularly Android-powered devices.&lt;/p&gt;
+
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;1-device-layout&#34;&gt;1. Device layout&lt;/h2&gt;
 
@@ -39,34 +40,39 @@
 
 &lt;p&gt;&lt;strong&gt;Power&lt;/strong&gt;&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;- Press and hold to turn the device on or off.
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Press and hold to turn the device on or off.&lt;/p&gt;&lt;/li&gt;
 
-- Press and hold for 8 seconds to reset the device if it has fatal errors or hang-ups, or freezes.
+&lt;li&gt;&lt;p&gt;Press and hold for 8 seconds to reset the device if it has fatal errors or hang-ups, or freezes.&lt;/p&gt;&lt;/li&gt;
 
-- Press to lock the device. The device goes into lock mode when the touch screen turns off.
-&lt;/code&gt;&lt;/pre&gt;
+&lt;li&gt;&lt;p&gt;Press to lock the device. The device goes into lock mode when the touch screen turns off.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;&lt;strong&gt;Recent apps&lt;/strong&gt;&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;- Tap to open the list of recent applications.
-&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;Tap to open the list of recent applications.&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;&lt;strong&gt;Home&lt;/strong&gt;&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;- Press to return to the Home Screen.
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Press to return to the Home Screen.&lt;/p&gt;&lt;/li&gt;
 
-- Press and hold to launch Google search.
-&lt;/code&gt;&lt;/pre&gt;
+&lt;li&gt;&lt;p&gt;Press and hold to launch Google search.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;&lt;strong&gt;Back&lt;/strong&gt;&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;- Tap to return to the previous screen.
-&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;Tap to return to the previous screen.&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;&lt;strong&gt;Volume&lt;/strong&gt;&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;- Press to adjust the device volume.
-&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;Press to adjust the device volume.&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;&lt;br/&gt;&lt;/p&gt;
 
@@ -78,12 +84,53 @@
 
 &lt;p&gt;&lt;img src=&#34;/img/tutorials/samsungConnectPC.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;- The device can be used while it is charging, but it may take longer to fully charge the battery.
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;The device can be used while it is charging, but it may take longer to fully charge the battery.&lt;/p&gt;&lt;/li&gt;
 
-- If the device receives an unstable power supply while charging, the touch screen may not function. If this happens, unplug the charger from the device.
+&lt;li&gt;&lt;p&gt;If the device receives an unstable power supply while charging, the touch screen may not function. If this happens, unplug the charger from the device.&lt;/p&gt;&lt;/li&gt;
 
-- While charging, the device may heat up. This is normal and should not affect the device&#39;s lifespan or performance. If the battery gets hotter than usual, the charger may stop charging.
-&lt;/code&gt;&lt;/pre&gt;
+&lt;li&gt;&lt;p&gt;While charging, the device may heat up. This is normal and should not affect the device&amp;rsquo;s lifespan or performance. If the battery gets hotter than usual, the charger may stop charging.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;After fully charging, disconnect the device from the charger.&lt;/p&gt;
+
+&lt;p&gt;Your device provides options that help you save the battery power. By customising these options and deactivating features in the background, you can use the device longer between charges:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;When you are not using the device, switch to sleep mode by pressing the Power button.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Close unnecessary applications with the task manager.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Deactivate the Bluetooth feature.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Deactivate the WiFi feature.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Deactivate auto-syncing of applications.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Decrease the backlight time.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Decrease the brightness of the display.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;3-turning-the-device-on-and-off&#34;&gt;3. Turning the device on and off&lt;/h2&gt;
+
+&lt;p&gt;When turning on the device for the first time, follow the on-screen instructions to setup your device.&lt;/p&gt;
+
+&lt;p&gt;Press and hold the Power button for a few seconds to turn on the device.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tutorials/tabletOff.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;To turn off the device, press and hold the Power button, and then tap &lt;strong&gt;Power off&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;4-locking-and-unlocking-the-device&#34;&gt;4. Locking and unlocking the device&lt;/h2&gt;
+
+&lt;p&gt;When not in use, lock the device to prevent unwanted operation. Pressing the Power button turns off the screen and puts the device into lock mode. The device automatically gets locked if it is not used for a specified period.&lt;/p&gt;
+
+&lt;p&gt;To unlock the device, press the Power button or Home button when the touch screen is turned off, tap anywhere on the screen, and then flick your finger in any direction.&lt;/p&gt;
 </description>
     </item>
     

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on </title>
+    <link>https://omneohealth.org/home/</link>
+    <description>Recent content in Homes on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://omneohealth.org/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>OMNeoHealth</title>
+      <link>https://omneohealth.org/home/hero/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://omneohealth.org/home/hero/</guid>
+      <description>Maternal and neonatal health: a synthesis of evidence and identification of gaps.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://omneohealth.org/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://omneohealth.org/home/about/</guid>
+      <description> About </description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>https://omneohealth.org/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://omneohealth.org/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>https://omneohealth.org/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://omneohealth.org/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://omneohealth.org/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://omneohealth.org/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://omneohealth.org/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://omneohealth.org/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guides and Tutorials</title>
+      <link>https://omneohealth.org/home/guides/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://omneohealth.org/home/guides/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent posts</title>
+      <link>https://omneohealth.org/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://omneohealth.org/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://omneohealth.org/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://omneohealth.org/home/teaching/</guid>
+      <description>This is an example of using the custom widget to create your own homepage section.
+I am a teaching instructor for the following courses at University X:
+ CS101: An intro to computer science CS102: An intro to computer science CS103: An intro to computer science CS104: An intro to computer science CS105: An intro to computer science CS106: An intro to computer science CS107: An intro to computer science  </description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>https://omneohealth.org/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://omneohealth.org/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://omneohealth.org/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://omneohealth.org/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

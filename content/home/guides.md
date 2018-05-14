@@ -1,5 +1,5 @@
 +++
-# Recent Posts widget.
+# Guides and tutorials widget.
 # This widget displays recent posts from `content/post/`.
 widget = "posts"
 active = true

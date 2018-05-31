@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on </title>
-    <link>https://omneohealth.org/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://omneohealth.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Content tagged as &#39;Academic&#39;</title>
-      <link>https://omneohealth.org/tags/academic/</link>
+      <link>/tags/academic/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://omneohealth.org/tags/academic/</guid>
+      <guid>/tags/academic/</guid>
       <description>Here is a list of all the content that has been tagged as academic.</description>
     </item>
     
     <item>
       <title>Open data kit</title>
-      <link>https://omneohealth.org/tags/open-data-kit/</link>
+      <link>/tags/open-data-kit/</link>
       <pubDate>Mon, 30 Apr 2018 12:00:00 +0000</pubDate>
       
-      <guid>https://omneohealth.org/tags/open-data-kit/</guid>
+      <guid>/tags/open-data-kit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Papua-new-guinea</title>
-      <link>https://omneohealth.org/tags/papua-new-guinea/</link>
+      <link>/tags/papua-new-guinea/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://omneohealth.org/tags/papua-new-guinea/</guid>
+      <guid>/tags/papua-new-guinea/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tutorials</title>
-      <link>https://omneohealth.org/tags/tutorials/</link>
+      <link>/tags/tutorials/</link>
       <pubDate>Mon, 30 Apr 2018 12:00:00 +0000</pubDate>
       
-      <guid>https://omneohealth.org/tags/tutorials/</guid>
+      <guid>/tags/tutorials/</guid>
       <description></description>
     </item>
     

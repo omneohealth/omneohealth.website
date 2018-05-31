@@ -2,42 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Collection on </title>
-    <link>https://omneohealth.org/categories/data-collection/</link>
+    <link>/categories/data-collection/</link>
     <description>Recent content in Data Collection on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Mon, 30 Apr 2018 12:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://omneohealth.org/categories/data-collection/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/data-collection/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Getting started with your Android tablet</title>
-      <link>https://omneohealth.org/post/getting-started-with-your-android-tablet/</link>
+      <link>/post/getting-started-with-your-android-tablet/</link>
       <pubDate>Mon, 30 Apr 2018 12:00:00 +0000</pubDate>
       
-      <guid>https://omneohealth.org/post/getting-started-with-your-android-tablet/</guid>
+      <guid>/post/getting-started-with-your-android-tablet/</guid>
       <description>Mobile devices such as mobile phones and tablets have become valuable tools in data collection. Various applications have been and are being developed specifically to harness the utility of mobile devices for collecting data. An understanding of how mobile devices work specifically those powered by Android operating system is therefore a requisite knowledge for anyone involved in a data collection campaign that utilises these devices for data collection.
 This tutorial gives a brief overview on how to get started with an Android device.</description>
     </item>
     
     <item>
       <title>Installing ODK Collect on Android devices</title>
-      <link>https://omneohealth.org/post/installing-odk-collect-on-android-devices/</link>
+      <link>/post/installing-odk-collect-on-android-devices/</link>
       <pubDate>Mon, 30 Apr 2018 11:55:00 +0000</pubDate>
       
-      <guid>https://omneohealth.org/post/installing-odk-collect-on-android-devices/</guid>
+      <guid>/post/installing-odk-collect-on-android-devices/</guid>
       <description>Installing applications such as ODK Collect on to mobile devices such as mobile phones and tablets is a straightforward process. This tutorial describes how to install applications onto Android-powered devices using the Google Play Store. Specifically, this tutorial shows how to install ODK Collect from the Google Play Store on to your mobile device.
 This tutorial is aimed at IT administrators and/or survey managers or coordinators who are tasked to setup the mobile devices in preparation for data collection.</description>
     </item>
     
     <item>
       <title>Installing ODK Collect without using Google Play Store - Approach 1</title>
-      <link>https://omneohealth.org/post/installing-odk-collect-without-using-google-play-store-1/</link>
+      <link>/post/installing-odk-collect-without-using-google-play-store-1/</link>
       <pubDate>Mon, 30 Apr 2018 11:54:00 +0000</pubDate>
       
-      <guid>https://omneohealth.org/post/installing-odk-collect-without-using-google-play-store-1/</guid>
+      <guid>/post/installing-odk-collect-without-using-google-play-store-1/</guid>
       <description>There are situations in which access to the Google Play Store might be limited for a variety reasons.
  You may not have a Google account which is required to be able to access the Google Play Store;
  There may be region or country-specific limitations to accessing either your Google account or Google Play Store or both; or,
@@ -46,10 +46,10 @@ This tutorial is aimed at IT administrators and/or survey managers or coordinato
     
     <item>
       <title>Installing ODK Collect without using Google Play Store - Approach 2</title>
-      <link>https://omneohealth.org/post/installing-odk-collect-without-using-google-play-store-2/</link>
+      <link>/post/installing-odk-collect-without-using-google-play-store-2/</link>
       <pubDate>Mon, 30 Apr 2018 11:50:00 +0000</pubDate>
       
-      <guid>https://omneohealth.org/post/installing-odk-collect-without-using-google-play-store-2/</guid>
+      <guid>/post/installing-odk-collect-without-using-google-play-store-2/</guid>
       <description>There are situations in which access to the Google Play Store might be limited for a variety reasons.
  You may not have a Google account which is required to be able to access the Google Play Store;
  There may be region or country-specific limitations to accessing either your Google account or Google Play Store or both; or,
@@ -58,48 +58,48 @@ This tutorial is aimed at IT administrators and/or survey managers or coordinato
     
     <item>
       <title>Configuring ODK Collect for data collection</title>
-      <link>https://omneohealth.org/post/configuring-odk-collect-for-data-collection/</link>
+      <link>/post/configuring-odk-collect-for-data-collection/</link>
       <pubDate>Mon, 30 Apr 2018 11:45:00 +0000</pubDate>
       
-      <guid>https://omneohealth.org/post/configuring-odk-collect-for-data-collection/</guid>
+      <guid>/post/configuring-odk-collect-for-data-collection/</guid>
       <description>Once ODK Collect has been installed on the mobile device/s that you will be using for data collection, you may want to configure it&amp;rsquo;s settings so as to be able to fully maximise its use and also to make it as easy as possible to use by your enumerators. Depending on how involved you aim your enumerators to be in the management of the data collection process, you may want to make available or limit certain settings or functions of ODK Collect.</description>
     </item>
     
     <item>
       <title>Configuring tablets for data collection campaigns</title>
-      <link>https://omneohealth.org/post/configuring-tablets-for-data-collection-campaigns/</link>
+      <link>/post/configuring-tablets-for-data-collection-campaigns/</link>
       <pubDate>Mon, 30 Apr 2018 11:40:00 +0000</pubDate>
       
-      <guid>https://omneohealth.org/post/configuring-tablets-for-data-collection-campaigns/</guid>
+      <guid>/post/configuring-tablets-for-data-collection-campaigns/</guid>
       <description>It is important to configure mobile devices such as &amp;nbsp;mobile phones or tablets that are going to be used for data collection. From the point of view of a survey manager, it will be important that the devices are configured in such a way that:
  Prevents inappropriate use by enumerators; Conserves the battery power of the device; and, Maximises its use for data collection.  This tutorial describes how to configure a tablet device appropriately in preparation for a data collection campaign.</description>
     </item>
     
     <item>
       <title>Changing ODK Collect language settings</title>
-      <link>https://omneohealth.org/post/changing-odk-collect-language-settings/</link>
+      <link>/post/changing-odk-collect-language-settings/</link>
       <pubDate>Mon, 30 Apr 2018 11:35:00 +0000</pubDate>
       
-      <guid>https://omneohealth.org/post/changing-odk-collect-language-settings/</guid>
+      <guid>/post/changing-odk-collect-language-settings/</guid>
       <description>ODK Collect supports forms written in multiple languages. XLSForm or XForms standard used for creating forms usable in ODK Collect also provide functionality that encodes multiple language support within the same single form being created (for more information, see multiple language support in XLSForm standard). If a form has been created to support multiple languages, ODK Collect is able to provide options for users to change the language of the form as needed.</description>
     </item>
     
     <item>
       <title>Localising ODK Collect to specific language</title>
-      <link>https://omneohealth.org/post/localising-odk-collect-to-specific-language/</link>
+      <link>/post/localising-odk-collect-to-specific-language/</link>
       <pubDate>Mon, 30 Apr 2018 11:30:00 +0000</pubDate>
       
-      <guid>https://omneohealth.org/post/localising-odk-collect-to-specific-language/</guid>
+      <guid>/post/localising-odk-collect-to-specific-language/</guid>
       <description>The ODK Collect application for devices running Android can be localised into several different languages. Currently, the application has been fully translated into 11 different languages and is partly translated into 41 other languages.
 ODK Collect language localisation is dependent on the language localisation of the mobile device to which ODK Collect is installed in. The language to which the mobile device is set will be the language to which ODK Collect will localise to.</description>
     </item>
     
     <item>
       <title>Getting blank forms onto ODK Collect via a server connection</title>
-      <link>https://omneohealth.org/post/getting-blank-forms-onto-odk-collect-via-a-server-connection/</link>
+      <link>/post/getting-blank-forms-onto-odk-collect-via-a-server-connection/</link>
       <pubDate>Mon, 30 Apr 2018 11:25:00 +0000</pubDate>
       
-      <guid>https://omneohealth.org/post/getting-blank-forms-onto-odk-collect-via-a-server-connection/</guid>
+      <guid>/post/getting-blank-forms-onto-odk-collect-via-a-server-connection/</guid>
       <description>To be able to use ODK Collect for data collection, pre-designed data collection forms will have to be loaded onto the application. There are generally two ways of performing this task.
  Get blank forms from a pre-configured ODK server designed to distribute blank forms and also to receive form submissions; and,
  Get blank froms directly onto the mobile device via a USB connection with a computer where the pre-designed data collection forms are located.</description>
@@ -107,10 +107,10 @@ ODK Collect language localisation is dependent on the language localisation of t
     
     <item>
       <title>Deleting saved and blank forms on ODK Collect</title>
-      <link>https://omneohealth.org/post/deleting-saved-and-blank-forms-on-odk-collect/</link>
+      <link>/post/deleting-saved-and-blank-forms-on-odk-collect/</link>
       <pubDate>Mon, 30 Apr 2018 11:20:00 +0000</pubDate>
       
-      <guid>https://omneohealth.org/post/deleting-saved-and-blank-forms-on-odk-collect/</guid>
+      <guid>/post/deleting-saved-and-blank-forms-on-odk-collect/</guid>
       <description>There will be situations when you will need to delete some forms, either saved or blank forms, from your ODK Collect.
 The most common reason for deleting saved forms is when you have already submitted your finalised forms to your chosen data or forms aggregator (this can be a web-based ODK server provided by Formhub, SureyCTO, KoBoToolbox, ONA or ODK Aggregate and the like or for variants of these servers that are locally-deployed i.</description>
     </item>

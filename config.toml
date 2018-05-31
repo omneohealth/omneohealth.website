@@ -59,7 +59,7 @@ defaultContentLanguageInSubdir = false
 
   #gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   #avatar = ""  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "contact@omneohealth.org"
+  email = "team@omneohealth.org"
   address = "Centre for Tropical Medicine and Global Health, Level 50 The Peter Medawar Building for Pathogen Research, University of Oxford, South Parks Road, Oxford OX1 3SY"
   office_hours = ""
   phone = ""
